@@ -1,8 +1,10 @@
 # About
 
-This is a [Sphinx][Sphinx] adaptation of Carl Philipp Emanuel Bach's "Versuch über die wahre Art das Clavier zu spielen" (An Essay on the True Art of Playing Keyboard Instruments). 
+This is a digitized and translated version of Carl Philipp Emanuel Bach's "Versuch über die wahre Art das Clavier zu spielen" – "An Essay on the True Art of Playing Keyboard Instruments". 
 
-The book is considered a valuable source for the study of the piano, particularly old music repertoire.
+## Content
+
+The book is considered a valuable source for the study of the piano, particularly old music repertoire. 
 
 It is structured in two parts. The first part covers
 - Principles of fingering ("Vom Fingersatz")
@@ -12,10 +14,20 @@ It is structured in two parts. The first part covers
 The second part covers 
 - Music theory, e.g., various types of chords
 - Figured bass ("Generalbass")
-- Random bits and pieces, e.g., more notes on how to improvise, more on ornamentation, how to deal with fermatas, etc.
-Its form is a bit peculiar and has been critized for having a somewhat erratic structure and in general its aphoristic form rather than presenting a consistent set of aesthetic principles.
+- Random bits and pieces, for instance
+  - notes on how to improvise
+  - more on ornamentation
+  - how to deal with fermatas
+  
+The book's form is a bit peculiar and has been critized for its somewhat erratic structure and in general its aphoristic form. However, it is an entertaining (funny in parts) read and provides first hand information on the music and performance practice of the time – for instance it was not unusual for a pianist to play for four hours without a break.
 
-I created this adaptation to make the book more accessible to a modern and international audience. Except   is written in German and printed in old Fraktur typeface.
+## Motivation
+
+I created this adaptation to make the book more accessible to a modern and international audience.
+
+It is easier to navigate, since I did not find an edition with a hyperlinked table of contents and navigating a 500 page PDF can be tiresome. This version is available as PDF, epub and online book.
+
+It's also easier to read, the 18th century language and the Fraktur typeface take quite some getting used to. The notation examples have been updated to today's standard Treble and Bass clefs, instead of the originally used Soprano and Bass clefs.
 
 <!-- ## Downloads
 
@@ -30,7 +42,7 @@ Later editions of the book came out in the 1780s and 90s, and more followed in t
 
 Facsimile scans of several german editions are available as PDF from [IMSLP](https://imslp.org/wiki/Versuch_über_die_wahre_Art_das_Clavier_zu_spielen,_H.868,_870_(Bach,_Carl_Philipp_Emanuel)).
 
-There's an english translation by William J. Mitchell which is available from [archive.org](https://archive.org/details/BACHCarlPhilippeEmanuel.EssayOnTheTrueArtOfPlayingKeyboardInstruments/page/n3/mode/2up). It provides scans of the translated book and a text version, but there are no hyperlinks in these versions and the character recognition has failed in several places, such that reading the text version is not very pleasant.
+There's an english translation by William J. Mitchell available both as PDF and text from [archive.org](https://archive.org/details/BACHCarlPhilippeEmanuel.EssayOnTheTrueArtOfPlayingKeyboardInstruments/page/n3/mode/2up). It provides scans of the english book and a plain text version, but the text version has no links and the character recognition has introduced various errors.
 
-Jean-Pierre Coulon created the only good quality transcribed version of the book that I know of, including musical examples. That must have been a lot of work.
-His version is available as a tex file also from [IMSLP](https://imslp.org/wiki/Versuch_über_die_wahre_Art_das_Clavier_zu_spielen,_H.868,_870_(Bach,_Carl_Philipp_Emanuel)).
+Jean-Pierre Coulon created the only good quality transcribed version of the book that I know of, including musical examples, which must have been a lot of work.
+His version is available as a tex file in french language from [IMSLP](https://imslp.org/wiki/Versuch_über_die_wahre_Art_das_Clavier_zu_spielen,_H.868,_870_(Bach,_Carl_Philipp_Emanuel)).
