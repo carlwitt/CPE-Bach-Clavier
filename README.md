@@ -17,11 +17,11 @@ Its form is a bit peculiar and has been critized for having a somewhat erratic s
 
 I created this adaptation to make the book more accessible to a modern and international audience. Except   is written in German and printed in old Fraktur typeface.
 
-## Downloads
+<!-- ## Downloads
 
 * [Online Book](https://fundamentals-of-piano-practice.readthedocs.io/)
 * [PDF Download](https://fundamentals-of-piano-practice.readthedocs.io/_/downloads/en/latest/pdf/)
-* [ePub Download](https://fundamentals-of-piano-practice.readthedocs.io/_/downloads/en/latest/epub/)
+* [ePub Download](https://fundamentals-of-piano-practice.readthedocs.io/_/downloads/en/latest/epub/) -->
 
 ## Sources and Acknowledgments
 
