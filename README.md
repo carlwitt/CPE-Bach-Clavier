@@ -46,3 +46,11 @@ There's an english translation by William J. Mitchell available both as PDF and 
 
 Jean-Pierre Coulon created the only good quality transcribed version of the book that I know of, including musical examples, which must have been a lot of work.
 His version is available as a tex file in french language from [IMSLP](https://imslp.org/wiki/Versuch_über_die_wahre_Art_das_Clavier_zu_spielen,_H.868,_870_(Bach,_Carl_Philipp_Emanuel)).
+
+## Method
+
+I used the first edition of the german facsimile scans as a basis for the german text. I used an LLM (Large Language Model) to correct the OCR (Optical Character Recognition) errors.
+
+The english version is based on the translation by William J. Mitchell. Again, I also an LLM to correct the errors introduced by the character recognition.
+
+In both versions, I added the musical examples transcribed from Jean-Pierre Coulon's version. The display is based on [VexFlow](https://www.vexflow.com/), a JavaScript library for rendering music notation in the browser.
