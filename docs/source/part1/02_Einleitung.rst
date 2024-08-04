@@ -9,7 +9,8 @@ Zur wahren Art das Clavier zu spielen, gehören hauptsächlich drei Stücke, wel
     single: Gehacke
     single: Poltern
     single: Stolpern
-:heading-level:6 §2 
+.. rubric:: §2
+    heading-level: 6
 Da diese Stücke nicht allzu bekannt sind, und folglich so oft dawider gefehlt worden, so hat man mehrenteils Clavier-Spieler gehört, welche nach einer abscheulichen Mühe endlich gelernt haben, verständigen Zuhörern das Clavier durch ihr Spielen ekelhaft zu machen. Man hat in ihrem Spielen das runde, deutliche und natürliche vermisst; hingegen, anstatt dessen lauter Gehacke, Poltern und Stolpern angetroffen. 
 Indem alle anderen Instrumente haben singen gelernt; so ist bloß das Clavier hierinnen zurückgeblieben, und hat, anstatt weniger unterhaltenden Noten, mit vielen bunten Figuren sich abgeben müssen, dergestalt dass man schon angefangen hat zu glauben, es würde einem Angst, wenn man etwas Langsames oder Sangbares auf dem Clavier spielen soll; man könne weder einen Ton an den anderen ziehen, noch einen Ton von dem anderen durch einen Stoß absondern; man müsse dieses Instrument bloß als ein notwendiges Übel zur Begleitung dulden. 
 So unbegründet und widersprechend diese Beschuldigungen sind, so gewisse Zeichen sind sie doch der schlechten Art, das Clavier zu spielen. 
@@ -46,18 +47,22 @@ Man martert am Anfang die Scholaren mit abgeschmackten Mourquis-Bässen und Gass
 
 .. index::
     single: Hand; linke
-:heading-level:6 §7 Der Lehr-Meister muss diesen Arien Gewalt antun und sie auf das Clavier setzen. Außer anderen daraus entstehenden Ungleichheiten leidet hier abermals die linke Hand, indem solche mehrenteils mit faulen oder gar Trommel-Bässen gesetzt sind, welche zu ihrer Absicht so sein mussten, aber beim Clavierspielen der linken Hand mehr Schaden als Nutzen bringen. 
+:heading-level:6 §7 
+Der Lehr-Meister muss diesen Arien Gewalt antun und sie auf das Clavier setzen. Außer anderen daraus entstehenden Ungleichheiten leidet hier abermals die linke Hand, indem solche mehrenteils mit faulen oder gar Trommel-Bässen gesetzt sind, welche zu ihrer Absicht so sein mussten, aber beim Clavierspielen der linken Hand mehr Schaden als Nutzen bringen. 
 
 .. index::
     single: Zusammenspiel der Hände
     single: Taktfestigkeit
-:heading-level:6 §8 Nach allem diesem verliert der Clavier-Spieler diesen besonderen Vorteil, welchen kein anderer Musikus hat, mit Leichtigkeit im Takte feste zu werden, und dessen kleinste Teilchen auf das genaueste zu bestimmen, indem in eigentlichen Clavier-Sachen so viele Rückungen, kleine Pausen und kurze Nachschläge vorkommen, als in keinen anderen Kompositionen. 
+:heading-level:6 §8 
+Nach allem diesem verliert der Clavier-Spieler diesen besonderen Vorteil, welchen kein anderer Musikus hat, mit Leichtigkeit im Takte feste zu werden, und dessen kleinste Teilchen auf das genaueste zu bestimmen, indem in eigentlichen Clavier-Sachen so viele Rückungen, kleine Pausen und kurze Nachschläge vorkommen, als in keinen anderen Kompositionen. 
 Auf unserem Instrumente fallen diese sonst schweren Takt-Teilchen zu erlernen besonders leicht, weil eine Hand der anderen zu Hilfe kommt; folglich entsteht hieraus unbemerkt eine Fertigkeit im Takte. 
 
-:heading-level:6 §9 Anstatt dieser kriegt der Schüler durch oben angeführte Bässe eine faule linke Hand, indem kaum zu glauben steht, was das geschwinde Anschlagen eines Tons ohne Abwechslung der Finger, den Händen für Schaden tut. 
+:heading-level:6 §9 
+Anstatt dieser kriegt der Schüler durch oben angeführte Bässe eine faule linke Hand, indem kaum zu glauben steht, was das geschwinde Anschlagen eines Tons ohne Abwechslung der Finger, den Händen für Schaden tut. 
 Mancher hat es schon mit seinem Nachteil durch ein vieljähriges fleißiges General-Bass spielen erfahren, als bei welchem oft beide Hände, besonders aber die linke, solche geschwinde Noten durch beständige Verdopplung des Grundtones vorzutragen haben. [#f1]_
 
-:heading-level:6 §10 Bei dieser Steife der linken Hand versucht der Meister es bei der rechten wieder einzubringen, indem er seine Schüler besonders die Adagio und rührendsten Stellen, dem guten Geschmack zu noch mehrerem Ekel, aufs reichlichste mit lieblichen Trillerchen verbrämen lehret; oft wird mit alten Schulmeister-Manieren, oft mit herausgestolperten und zur Unzeit angebrachten Laufern, wobei die Finger zuweilen den Koller zu kriegen scheinen, abgewechselt.
+:heading-level:6 §10 
+Bei dieser Steife der linken Hand versucht der Meister es bei der rechten wieder einzubringen, indem er seine Schüler besonders die Adagio und rührendsten Stellen, dem guten Geschmack zu noch mehrerem Ekel, aufs reichlichste mit lieblichen Trillerchen verbrämen lehret; oft wird mit alten Schulmeister-Manieren, oft mit herausgestolperten und zur Unzeit angebrachten Laufern, wobei die Finger zuweilen den Koller zu kriegen scheinen, abgewechselt.
 
 .. [#f1] Ich habe es für nötig gefunden, denen zu gefallen, welchen das Amt, den General-Bass zu spielen, aufgetragen ist, meine Gedanken über die Art, geschwinde Noten auf einem Tone mit der linken Hand abzufertigen, bei dieser Gelegenheit zu eröffnen. Es ist dieses sonst die sicherste Gelegenheit, wodurch die besten Hände verdorben und steif werden können, indem dergleichen Noten bei unserer jetzigen Setz-Art sehr gewöhnlich sind. Es können ferner diejenigen durch diese Anmerkung sich rechtfertigen, vor welchen ausdrücklich verlangt wird, alle Noten mit der linken Hand auszudrücken. Da das Durchgehen der Noten im General-Bass überhaupt bekannt genug ist, so versteht es sich von selbst, dass die rechte Hand in diesem Falle ebenfalls nicht alle Noten anschlägt. Die geschwinden Noten auf einem Tone, von deren Schädlichkeit ich spreche, sind die Achtel im geschwinden Zeitmaße, und im gemäßigten die Sechzehntel. Ich setze ferner voraus, dass außer dem Claviere noch ein anderes Instrument den Bass mitspielt. Ist das Clavier alleine, so spielt man solche Noten, wie die Schwärmer, mit abwechselnden Fingern. Es wird zwar auf diese Art, durch Weglassung der Oktave, der Bass nicht allezeit durchdringend genug sein, man muss aber diese kleine Unvollkommenheit anderen größeren Übeln vorziehen. Man tut also am besten, man lässt von solchen Noten nach Beschaffenheit des Zeit-Maßen und der Taktart, eine, drei, oder fünf ohne Anschlag durchgehen, und die anzuschlagenden spielt man mit der Oktave auch wohl bei fortissimo mit beiden vollen Händen, mit schweren Anschlägen, etwas unterhalten, damit die Saiten genugsam Zittern können, und ein Ton sich mit dem anderen wohl vereinige. Man kann allenfalls, um die Mitbegleitenden nicht zu verwirren, den ersten Takt, wie er geschrieben steht, spielen, und nachher die Noten durchgehen lassen. Sonst hätte man, wenn ja jede Note auf dem Flügel fehlte und müsste gehört werden, noch dieses Mittel übrig, das man in diesem Falle durch einen mit beiden Händen abwechselnden Anschlag die vorgeschriebene Bewegung hervorbrächte; doch habe ich die Erfahrung, dass diese Art zu begleiten für die Mitspielenden etwas verführerisch ist, weil die rechte Hand beständig zu spät kommt, und dieses hat man in meiner Meintung bestärkt, dass das Clavier allezeit das Augenmerk des Taktes sein und bleiben wird.
 
