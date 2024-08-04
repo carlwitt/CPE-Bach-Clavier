@@ -6,10 +6,8 @@ Einleitung
 Zur wahren Art das Clavier zu spielen, gehören hauptsächlich drei Stücke, welche so genau miteinander verbunden sind, dass eines ohne das andere weder sein kann, noch darf; nämlich die rechte Finger-Setzung, die guten Manieren, und der gute Vortrag.
 
 .. index::
-    single: ekelhaft
+    single: Ekel
     single: Gehacke
-    single: Poltern
-    single: Stolpern
 
 .. rubric:: §2
 
@@ -81,7 +79,7 @@ Mancher hat es schon mit seinem Nachteil durch ein vieljähriges fleißiges Gene
 .. index::
     single: Ekel
     single: Triller
-    single: Schulmeister
+    single: Schulmeister-Manieren
 
 .. rubric:: §10 
 
