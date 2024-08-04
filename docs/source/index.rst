@@ -84,3 +84,4 @@ Inhaltsverzeichnis
    part1/00_Titelblatt
    part1/01_Vorrede
    part1/02_Einleitung
+   part1/03_Fingersetzung
