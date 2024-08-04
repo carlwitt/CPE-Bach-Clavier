@@ -6,7 +6,7 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'Transcription of C. P. E. Bach\'s "Versuch über die wahre Art das Clavier zu spielen"'
+project = 'Versuch über die wahre Art das Clavier zu spielen'
 author = 'Carl Witt'
 release = '1'
 language = 'de'
