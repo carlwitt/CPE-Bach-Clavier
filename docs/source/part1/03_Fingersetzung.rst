@@ -66,4 +66,16 @@ Man spielt mit gebogenen Fingern und schlaffen Nerven; je mehr insgemein hierinn
 Die Steifheit ist aller Bewegung hinderlich, besonders beim Vermögen, die Hände geschwind auszudehnen und zusammenzuziehen, welches alle Augenblicke nötig ist. 
 Alle Spannungen, das Auslassen gewisser Finger, das Einsetzen zweier Finger nacheinander auf einen Ton, selbst das unentbehrliche Überschlagen und Untersetzen erfordert diese elastische Kraft: 
 Wer mit ausgestreckten Fingern und steifen Nerven spielt, erfährt außer der natürlich erfolgenden Ungeschicklichkeit noch einen Hauptschaden, nämlich er entfernt die übrigen Finger wegen ihrer Länge zu weit von dem Daumen, welcher doch so nahe als möglich beständig bei der Hand sein muss, und benimmt diesem Hauptfinger, wie wir in der Folge sehen werden, alle Möglichkeit, seine Dienste zu tun. 
-Daher kommt es, dass derjenige, welcher den Daumen nur selten braucht, mehrenteils steif spielen wird, dahingegen
+Daher kommt es, dass derjenige, welcher den Daumen nur selten braucht, mehrenteils steif spielen wird, dahingegen einer durch dessen rechten Gebrauch dieses nicht einmal tun kann, wenn er auch wollte. 
+Es wird ihm alles leichte: man kann dieses im Augenblick einem Spieler ansehen; versteht er die wahre Applicatur, so wird er, wenn er sich anders nicht unnötige Gebärden angewöhnt hat, die schwersten Sachen so spielen, dass man kaum die Bewegung der Hände sieht, und man wird vornehmlich auch hören, dass es ihm leicht fällt; dahingegen ein anderer die leichtesten Sachen oft mit vielem Schnauben und Grimassen ungeschickt genug spielen wird.
+
+.. rubric:: §13
+
+Wer den Daumen nicht braucht, der lässt ihn herunterhangen, damit er ihm nicht im Wege ist; solcher Gestalt fällt die mäßigste Spannung schon unbequem, folglich müssen die Finger ausgestreckt und steif werden, um solche herauszubringen. 
+Was kann man auf diese Art wohl besonders ausrichten? 
+Der Gebrauch des Daumens gibt der Hand nicht nur einen Finger mehr, sondern zugleich den Schlüssel zur ganzen möglichen Applicatur. Dieser Haupt-Finger macht sich auch überdem dadurch verdient, weil er die übrigen Finger in ihrer Geschmeidigkeit erhält, indem sie sich allezeit biegen müssen, wenn der Daumen sich bald bei diesem, bald jenem Finger eindringt. 
+Was man ohne ihn mit steifen und gestreckten Nerven bespringen musste, das spielt man durch seine Hilfe rund, deutlich, mit ganz natürlichen Spannungen, folglich leicht.
+
+.. rubric:: §14
+
+

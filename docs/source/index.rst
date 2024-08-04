@@ -17,9 +17,9 @@ Das Buch ist in zwei Teile gegliedert. Der erste Teil behandelt
 
 Der zweite Teil behandelt
 
-- Musiktheorie und Harmonielehre
-- Generalbass
-- Eine Sammlung Hinweisen und Anmerkungen zu großen wie kleinen Themen von der Improvisation bis zur Handhabung von Fermaten etc.
+- Harmonielehre
+- Stimmführung
+- Diverse Anmerkungen zu musikalischen Bausteinen (Vorschläge und Fermaten) und Formen (Rezitativ, freien Fantasie)
 
 Form und Satz des Buches sind für moderne Leser:innen eher ungewohnt und gleichen anstatt einem gut sortierten Einführungswerk eher einer Sammlung von Notizen (gegliedert in nummerierte Paragraphen). So schreibt denn auch der Autor in der Vorrede:
 
