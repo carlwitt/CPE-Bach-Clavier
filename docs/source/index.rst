@@ -74,3 +74,9 @@ In dem KI-gestützten Prozess wurde die alte Rechtschreibung behutsam modernisie
 
 Ich bin Amateurmusiker und habe diese Transkription als Freizeitprojekt ohne Anspruch auf Wissenschaftlichkeit oder Vollständigkeit erstellt.
 Verbesserungen und Korrekturen können gerne über GitHub vorgeschlagen werden.
+
+:: toctree
+   :maxdepth: 2
+
+   part1/Titelblatt
+   part1/Vorrede
