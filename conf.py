@@ -7,9 +7,9 @@
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
 project = 'Transcription of C. P. E. Bach\'s "Versuch über die wahre Art das Clavier zu spielen"'
-copyright = '2024, Carl Witt'
 author = 'Carl Witt'
 release = '1'
+language = 'de'
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
@@ -19,10 +19,11 @@ extensions = []
 templates_path = ['_templates']
 exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 
-language = 'de'
-
 # -- Options for HTML output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 
 html_theme = 'alabaster'
 html_static_path = ['_static']
+
+# -- Options for EPUB output -------------------------------------------------
+epub_show_urls = 'footnote'
