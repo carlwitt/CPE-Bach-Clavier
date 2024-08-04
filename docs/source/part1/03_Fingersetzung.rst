@@ -54,16 +54,16 @@ Es ist nötig, bevor ich an die Lehre der Applikatur selbst gehe, vorher gewisse
 
 .. rubric:: §10
     
- Ein Clavierist muss mitten vor der Tastatur sitzen, damit er mit gleicher Leichtigkeit sowohl die höchsten als tiefsten Töne anschlagen könne.
+Ein Clavierist muss mitten vor der Tastatur sitzen, damit er mit gleicher Leichtigkeit sowohl die höchsten als tiefsten Töne anschlagen könne.
 
 .. rubric:: §11
     
- Hängt der Vorderteil des Armes etwas weniges nach dem Griffbrette herunter, so ist man in der gehörigen Höhe.
+Hängt der Vorderteil des Armes etwas weniges nach dem Griffbrette herunter, so ist man in der gehörigen Höhe.
 
 .. rubric:: §12
     
- Man spielt mit gebogenen Fingern und schlaffen Nerven; je mehr insgemein hierinnen gefehlt wird, desto nötiger ist hierauf acht zu haben. 
- Die Steifheit ist aller Bewegung hinderlich, besonders beim Vermögen, die Hände geschwind auszudehnen und zusammenzuziehen, welches alle Augenblicke nötig ist. 
- Alle Spannungen, das Auslassen gewisser Finger, das Einsetzen zweier Finger nacheinander auf einen Ton, selbst das unentbehrliche Überschlagen und Untersetzen erfordert diese elastische Kraft: 
- Wer mit ausgestreckten Fingern und steifen Nerven spielt, erfährt außer der natürlich erfolgenden Ungeschicklichkeit noch einen Hauptschaden, nämlich er entfernt die übrigen Finger wegen ihrer Länge zu weit von dem Daumen, welcher doch so nahe als möglich beständig bei der Hand sein muss, und benimmt diesem Hauptfinger, wie wir in der Folge sehen werden, alle Möglichkeit, seine Dienste zu tun. 
- Daher kommt es, dass derjenige, welcher den Daumen nur selten braucht, mehrenteils steif spielen wird, dahingegen
+Man spielt mit gebogenen Fingern und schlaffen Nerven; je mehr insgemein hierinnen gefehlt wird, desto nötiger ist hierauf acht zu haben. 
+Die Steifheit ist aller Bewegung hinderlich, besonders beim Vermögen, die Hände geschwind auszudehnen und zusammenzuziehen, welches alle Augenblicke nötig ist. 
+Alle Spannungen, das Auslassen gewisser Finger, das Einsetzen zweier Finger nacheinander auf einen Ton, selbst das unentbehrliche Überschlagen und Untersetzen erfordert diese elastische Kraft: 
+Wer mit ausgestreckten Fingern und steifen Nerven spielt, erfährt außer der natürlich erfolgenden Ungeschicklichkeit noch einen Hauptschaden, nämlich er entfernt die übrigen Finger wegen ihrer Länge zu weit von dem Daumen, welcher doch so nahe als möglich beständig bei der Hand sein muss, und benimmt diesem Hauptfinger, wie wir in der Folge sehen werden, alle Möglichkeit, seine Dienste zu tun. 
+Daher kommt es, dass derjenige, welcher den Daumen nur selten braucht, mehrenteils steif spielen wird, dahingegen
