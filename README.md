@@ -49,7 +49,9 @@ His version is available as a tex file in french language from [IMSLP](https://i
 
 ## Method
 
-I used the first edition of the german facsimile scans as a basis for the german text. I used an LLM (Large Language Model) to correct the OCR (Optical Character Recognition) errors.
+I used the first edition of the german facsimile scans as a basis for the german text. I used an LLM (Large Language Model) to correct the OCR (Optical Character Recognition) errors. I've proofread the results, but it is not completely accurate. 
+
+Often, old spelling has been gently modernized ("Antheil" becomes "Anteil") but not consequently ("vereinet" did not become "vereint"). Sentence structure and general expressions, albeit old fashioned, have been preserved ("Die Vollkommenheit desselben wäre leicht daraus zu erweisen"). I think it's a good mix that preserves the original character of the text while taking out some of the irritations. This is no scientific edition, but a practical one.
 
 The english version is based on the translation by William J. Mitchell. Again, I also an LLM to correct the errors introduced by the character recognition.
 
