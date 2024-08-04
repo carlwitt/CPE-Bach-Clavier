@@ -11,7 +11,7 @@ die Musik und Aufführungspraxis des 18. Jahrhunderts ist.
 
 Das Buch ist in zwei Teile gegliedert. Der erste Teil behandelt
 
-- Prinzipien des Fingersatzes ("Vom Fingersatz")
+- Prinzipien des Fingersatzes ("Von der Finger-Setzung")
 - Verschiedene Arten der Verzierungen ("Von den Manieren")
 - Interpretation und Ausdruck ("Vom Vortrage")
 
@@ -19,7 +19,7 @@ Der zweite Teil behandelt
 
 - Musiktheorie und Harmonielehre
 - Generalbass
-- Eine Sammlung von Hinweisen und Anmerkungen zu großen (Improvisation) wie kleinen (Handhabung von Fermaten) Themen
+- Eine Sammlung Hinweisen und Anmerkungen zu großen wie kleinen Themen von der Improvisation bis zur Handhabung von Fermaten etc.
 
 Form und Satz des Buches sind für moderne Leser:innen eher ungewohnt und gleichen anstatt einem gut sortierten Einführungswerk eher einer Sammlung von Notizen (gegliedert in nummerierte Paragraphen). So schreibt denn auch der Autor in der Vorrede:
 
@@ -31,10 +31,8 @@ Wer gefallen an den Lesungen von Harry Rowohlt fand, wird sich in den gelegentli
 .. Rubric:: Motivation
 
 Ich habe diese Fassung erstellt, um das Buch breiter zugänglich zu machen.
-Im Vergleich zu den Faksimile-Ausgaben ist sie wesentlich einfacher zu navigieren.
-Sie ist auch leichter zu lesen, da die Frakturschrift des Originals gewöhnungsbedürftig und die Notationsbeispiele oft im Sopranschlüssel gesetzt sind.
-
-Ich bin auf das Buch durch András Schiff, dessen Bach-Interpretationen ich sehr schätze, aufmerksam geworden, der es als wichtige Quelle nennt.
+Im Vergleich zu den Faksimile-Ausgaben ist sie wesentlich einfacher zu navigieren und verfügt über einen rudimentären Stichwortindex, den ich händisch erstellt habe.
+Diese Fassung ist auch leichter zu lesen, da die Frakturschrift des Originals gewöhnungsbedürftig und die Notationsbeispiele oft im Sopranschlüssel gesetzt sind.
 
 .. Rubric:: Quellen und Danksagungen
 

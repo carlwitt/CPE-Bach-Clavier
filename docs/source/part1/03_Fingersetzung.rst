@@ -1,7 +1,7 @@
 Das erste Hauptstück
 ================
 
-Von der Fingersetzung
+Von der Finger-Setzung
 ---------------------
 
 .. rubric:: §1 
@@ -14,7 +14,7 @@ Da nichts destoweniger nur eine Art des Gebrauchs der Finger bei dem Klaviere gu
 
 .. rubric:: §3
     
-Dieser Irrtum ist um so viel beträchtlicher, je weniger man ihn oft hat merken können, indem auf dem Klavier das meiste auch mit einer fast falschen Applikatur, obschon mit entsetzlicher Mühe und ungeschickt, herausgebracht werden kann, anstatt dass bei anderen Instrumenten die geringste falsche Fingersetzung sich mehrenteils durch die bloße Unmöglichkeit, das vorgeschriebene zu spielen, entdeckt. 
+Dieser Irrtum ist um so viel beträchtlicher, je weniger man ihn oft hat merken können, indem auf dem Klavier das meiste auch mit einer falschen Applikatur, obschon mit entsetzlicher Mühe und ungeschickt, herausgebracht werden kann, anstatt dass bei anderen Instrumenten die geringste falsche Fingersetzung sich mehrenteils durch die bloße Unmöglichkeit, das vorgeschriebene zu spielen, entdeckt. 
 Man hat daher alles der Schwierigkeit des Instruments und der dafür gesetzten Stücke so gleich zugeschrieben und geglaubt, es müsse so und könne nicht anders sein.
 
 .. rubric:: §4
