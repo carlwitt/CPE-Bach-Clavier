@@ -83,3 +83,5 @@ Inhaltsverzeichnis
    part1/01_Vorrede
    part1/02_Einleitung
    part1/03_Fingersetzung
+   part1/04_Manieren
+   part1/05_Vortrag
