@@ -1,8 +1,6 @@
-Das erste Hauptstück
-====================
-
-Von der Finger-Setzung
-----------------------
+************************************************
+Das erste Hauptstück. Von der Finger-Setzung
+************************************************
 
 .. rubric:: §1 
 
@@ -91,7 +89,7 @@ Es versteht sich von selbst, dass bei Sprüngen und weiten Spannungen diese Schl
 Weil dieses aber die seltensten Vorfälle sind, und welche die Natur von selbst lehret, so bleibt es im Übrigen bei der im zwölften §. gemeldeten Vorrichtung. Man gewöhne besonders die noch nicht ausgearbeiteten Hände der Kinder, dass sie, anstatt des Hin- und Herspringens mit der ganzen Hand, wobei wohl noch oft dazu die Finger auf einen Klumpen zusammen gezogen sind,
 
 Nicht korrigierte OCR-Texte
-----------------------------
+++++++++++++++++++++++++++++
 
 
 "die Hände im nötigen Falle so viel möglich ausdehnen. Hierdurch werden sie die Saiten leichter und gewisser treffen lernen, und die Hände nicht leicht aus ihrer ordentlichen und über der Tastatur horizontal schwebenden Lage bringen, welche beim Springen gerne bald auf diese bald auf jene Seite sich zu verdrehen pflegen.

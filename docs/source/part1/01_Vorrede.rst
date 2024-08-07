@@ -1,5 +1,10 @@
+************************
 Vorrede
-================
+************************
+
+.. image:: bilder/vorrede.jpg 
+    :alt: Vorrede
+    :align: center
 
 So viele Vorzüge das Clavier besitzt, so vielen Schwierigkeiten ist dasselbe zu gleicher Zeit unterworfen. Die Vollkommenheit desselben wäre leicht daraus zu erweisen, wenn es nötig wäre, weil es diejenigen Eigenschaften, die andere Instrumente nur einzeln haben, in sich vereinet; weil man eine vollständige Harmonie, wozu sonst drei, vier und mehrere Instrumente erforderlich wären, darauf mit einmal hervorbringen kann, und was dergleichen Vorteile mehr sind. 
 

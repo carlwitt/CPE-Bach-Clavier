@@ -1,23 +1,17 @@
-Das zweite Hauptstück
-=====================
+************************************************
+Das zweite Hauptstück. Von den Manieren
+************************************************
+
+Erste Abteilung. Von den Manieren überhaupt.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Nicht korrigierte OCR-Texte
-----------------------------
-
-"
-Das zweite Hauptstück. Erste Abteilung.
-Zweites Hauptstück.
-Von den Manieren.
-Erste Abteilung.
-Von den Manieren überhaupt.
-
+""""""""""""""""""""""""""""""""
 
 .. rubric:: §1
 
 Es hat wohl niemand an der Notwendigkeit der Manieren gezweifelt. Darum kann es darüber merken, weil man sie überall in reichlicher Menge antrifft. Indessen sind sie allerdings unentbehrlich, wenn man ihren Nutzen betrachtet. Sie hängen die Töne zusammen; sie beleben sie; sie geben ihnen, wenn es nötig ist, einen besonderen Ausdruck und Gewicht; sie machen sie gefällig, und erwecken folglich eine besondere Aufmerksamkeit; sie helfen ihren Inhalt erklären; es"
 "Mag dieser traurig oder fröhlich oder sonst beschaffen sein wie er will, so tragen sie allzeit das Übrige dazu bei; sie geben einen ansehnlichen, belebenden, erheiternden und oft angenehmen Gegenstand ohne frei leer und einfältig, und der klarste Inhalt davon allzeit undeutlich erscheinen muss.
-
-
 
 .. rubric:: §2
 
@@ -37,7 +31,7 @@ Auch hierin muss man den Franzosen Gerechtigkeit widerfahren lassen, dass sie in
 "be, weshalb nicht mit solchem Eifer gethan, und wer weiß, ob sie nicht durch diese vernünftige Wahl und Auswahl der Manieren Gelegenheit gegeben haben, dass die Franzosen anjetzo nicht mehr, wie vormals, fast jede Note mit einem solchen
 
 Bon den Manieren überhaupt.  
-25. Hiernach beschweren, und dadurch die nötige Deutlichkeit und edle Einfalt des Gesanges verzweifeln**).
+1.  Hiernach beschweren, und dadurch die nötige Deutlichkeit und edle Einfalt des Gesanges verzweifeln**).
 
 §5. Wir sehen hieraus, dass man lernen müsse, die guten Manieren von den schlechten zu unterscheiden, die guten recht vorzutragen und sie an ihrem bestimmten Orte in gebührender Anzahl anzubringen.
 

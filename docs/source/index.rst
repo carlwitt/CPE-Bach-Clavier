@@ -1,5 +1,5 @@
 Vorwort
-~~~~~~~~~~~~~~
+===========
 
 .. epigraph::
     "There is this wonderful book - everybody should know it. I think it's the greatest book on music. It is a source of constant learning for us. Obviously, you couldn't be closer to the source."
@@ -39,6 +39,8 @@ Diese Fassung ist auch leichter zu lesen, da die Frakturschrift des Originals ge
 Das Buch wurde in zwei Teilen veröffentlicht, zunächst im Selbstverlag des Autors.
 Spätere Ausgaben des Buches kamen in den 1780er und 1790er Jahren heraus, und weitere folgten im 19. und 20. Jahrhundert.
 
+Es gibt einige Digitalisate dieser verschiedenen Ausgaben im Netz, einige möchte ich hier erwähnen:
+
 .. list-table::
    :header-rows: 1
 
@@ -68,10 +70,14 @@ Ich habe die Erstausgabe der deutschen Faksimile-Scans als Grundlage für meine 
 
 In dem KI-gestützten Prozess wurde die alte Rechtschreibung behutsam modernisiert ("Antheil" wurde zu "Anteil"), allerdings nicht konsequent ("vereinet" wurde nicht zu "vereint"). Altmodische Satzstrukturen und Formulierungen wurden beibehalten ("Die Vollkommenheit desselben wäre leicht daraus zu erweisen"). Mir persönlich bereitet die Ausgabe in dieser Form Freude, da der ursprüngliche Charakter erhalten bleibt, der Text aber insgesamt besser lesbar wird.
 
+Die Korrektur der Texte per Abgleich mit dem Faksimile ist ein relative aufwändiger Prozess, der noch einige Zeit in Anspruch nehmen wird.
+Verbesserungen und Korrekturen können gerne über GitHub vorgeschlagen werden.
+
+
 .. Rubric:: Über mich
 
+Mein Name ist `Carl Witt <https://carlwitt.github.io>`_.
 Ich bin Amateurmusiker und habe diese Transkription als Freizeitprojekt ohne Anspruch auf Wissenschaftlichkeit oder Vollständigkeit erstellt.
-Verbesserungen und Korrekturen können gerne über GitHub vorgeschlagen werden.
 
 Inhaltsverzeichnis
 ~~~~~~~~~~~~~~~~~~~
@@ -81,7 +87,5 @@ Inhaltsverzeichnis
 
    part1/00_Titelblatt
    part1/01_Vorrede
-   part1/02_Einleitung
-   part1/03_Fingersetzung
-   part1/04_Manieren
-   part1/05_Vortrag
+   part1/aggregate
+

@@ -1,10 +1,9 @@
-Das dritte Hauptstück
-=====================
+************************************************
+Das dritte Hauptstück. Vom Vortrage.
+************************************************
 
 Nicht korrigierte OCR-Texte
-----------------------------
-
-Drittes Hauptstück. Vom Vortrage.
++++++++++++++++++++++++++++
 
 
 .. rubric:: §1
@@ -96,7 +95,7 @@ Die begleitenden Stimmen muß man, soviel möglich, von derjenigen Hand verschon
 
 Wir haben im 8. §. als ein Mittel, den guten Vortrag zu erlernen, die Besuchung guter Musiker vorgeschlagen. Wir fügen allhier noch hinzu, daß man keine Gelegenheit versäumen müsse, geschickte Sänger besonders zu hören: Man lernet dadurch singend denken, und wird man wohl thun, daß man es danach selbst einen Gedanken vorsinget, um den rechten Vortrag desselben zu treffen. Dieses wird allezeit von größerem Nutzen seyn, als solches aus weitläufigen Büchern und Discourse zu holen, worin man von nichts anderem als von Plattitüden, Geschmack, Gesang, Melodie, höret, ungeachtet ihre Schreiber öfters nicht im Stande sind,"
 "amey Tönen zu setzen, welche natürlich, schmackhaft, singend und melodisch sind, da sie doch gleichwohl alle diese Gaben und Vorzüge nach ihrer Mitführung bald diesem bald jenem, jedoch meistens mit einer unglücklichen Wahl, austheilen.
-13. So, indem ein Musicus nicht anders rühren kann, es sei denn, dass er selbst gerührt; so muss er notwendigerweise sich selbst in alle Direkten setzen können, welche er bei seinen Zuhörern erregen will; er gibt ihnen seine Empfindungen zu der- teilen und bewegt sie dergestalt am besten zur Mit-Empfindung. Bei matten und traurigen Stellen wird er matt und traurig. Wenn sich und hört es im Werk. Diese Geschicklichkeit ebenfalls bei heftigen, lustigen, und anderen Zeiten von Gedanken, wo er sich allenthalben in diese Affekten setzt. Kaum, dass er einen mildert, so erregt er einen anderen, folglich wechselt er beständig mit Leidenschaften ab. Diese Gewandtheit beobachtet er überhaupt bei Stücken, welche ausdrucksvoll gesetzt sind, sei mögen von ihm selbst oder von jemandem anderen herrühren; mi"
+1.  So, indem ein Musicus nicht anders rühren kann, es sei denn, dass er selbst gerührt; so muss er notwendigerweise sich selbst in alle Direkten setzen können, welche er bei seinen Zuhörern erregen will; er gibt ihnen seine Empfindungen zu der- teilen und bewegt sie dergestalt am besten zur Mit-Empfindung. Bei matten und traurigen Stellen wird er matt und traurig. Wenn sich und hört es im Werk. Diese Geschicklichkeit ebenfalls bei heftigen, lustigen, und anderen Zeiten von Gedanken, wo er sich allenthalben in diese Affekten setzt. Kaum, dass er einen mildert, so erregt er einen anderen, folglich wechselt er beständig mit Leidenschaften ab. Diese Gewandtheit beobachtet er überhaupt bei Stücken, welche ausdrucksvoll gesetzt sind, sei mögen von ihm selbst oder von jemandem anderen herrühren; mi"
 "Im folgenden Text wurden die durch OCR eingeführten Fehler korrigiert, ohne dabei die alte grammatikalische Struktur und den Ausdruck zu verändern:
 
 **Text mit korrigierter Rechtschreibung:**
