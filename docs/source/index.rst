@@ -74,7 +74,7 @@ Ich bin Amateurmusiker und habe diese Transkription als Freizeitprojekt ohne Ans
 Verbesserungen und Korrekturen können gerne über GitHub vorgeschlagen werden.
 
 Inhaltsverzeichnis
-~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~
 
 .. toctree::
    :maxdepth: 2
