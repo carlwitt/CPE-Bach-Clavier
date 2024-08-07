@@ -83,7 +83,7 @@ Inhaltsverzeichnis
 ~~~~~~~~~~~~~~~~~~~
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 8
 
    part1/00_Titelblatt
    part1/01_Vorrede
