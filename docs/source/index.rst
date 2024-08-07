@@ -79,8 +79,7 @@ Verbesserungen und Korrekturen können gerne über GitHub vorgeschlagen werden.
 Mein Name ist `Carl Witt <https://carlwitt.github.io>`_.
 Ich bin Amateurmusiker und habe diese Transkription als Freizeitprojekt ohne Anspruch auf Wissenschaftlichkeit oder Vollständigkeit erstellt.
 
-Inhaltsverzeichnis
-~~~~~~~~~~~~~~~~~~~
+.. Rubric:: Inhaltsverzeichnis
 
 .. toctree::
    :maxdepth: 8
