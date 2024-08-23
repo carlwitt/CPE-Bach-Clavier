@@ -65,7 +65,7 @@ Hängt der Vorderteil des Armes etwas weniges nach dem Griffbrette herunter, so 
     single: Finger; lange
     single: Daumen; Entfernung der anderen Finger vom
 
-.. _part1_paragraph_12:
+.. _part1-paragraph-12:
 
 .. rubric:: §12
     
@@ -86,31 +86,33 @@ Was man ohne ihn mit steifen und gestreckten Nerven bespringen musste, das spiel
 .. rubric:: §14
 
 Es versteht sich von selbst, dass bei Sprüngen und weiten Spannungen diese Schlappigkeit der Nerven und das Gebogene der Finger nicht beibehalten werden kann; selbst das Schnellen erfordert bisweilen auf einen Augenblick eine gewisse Steifheit.
-Weil dieses aber die seltensten Vorfälle sind, und welche die Natur von selbst lehret, so bleibt es im Übrigen bei der im zwölften §. gemeldeten Vorrichtung. Man gewöhne besonders die noch nicht ausgearbeiteten Hände der Kinder, dass sie, anstatt des Hin- und Herspringens mit der ganzen Hand, wobei wohl noch oft dazu die Finger auf einen Klumpen zusammen gezogen sind,
-
-Nicht korrigierte OCR-Texte
-++++++++++++++++++++++++++++
-
-
-"die Hände im nötigen Falle so viel möglich ausdehnen. Hierdurch werden sie die Saiten leichter und gewisser treffen lernen, und die Hände nicht leicht aus ihrer ordentlichen und über der Tastatur horizontal schwebenden Lage bringen, welche beim Springen gerne bald auf diese bald auf jene Seite sich zu verdrehen pflegen.
-
+Weil dieses aber die seltensten Vorfälle sind, und welche die Natur von selbst lehret, so bleibt es im Übrigen bei der in :ref:`part1-paragraph-12` gemeldeten Vorrichtung.
+Man gewöhne besonders die noch nicht ausgearbeiteten Hände der Kinder, dass sie, anstatt des Hin- und Herspringens mit der ganzen Hand, wobei wohl noch oft dazu die Finger auf einen Klumpen zusammen gezogen sind, die Hände im nötigen Falle so viel möglich ausdehnen.
+Hierdurch werden sie die Tasten leichter und gewisser treffen lernen, und die Hände nicht leicht aus ihrer ordentlichen und über der Tastatur horizontal schwebenden Lage bringen, welche bei Sprüngen gerne bald auf diese bald auf jene Seite sich zu verdrehen pflegen.
 
 .. rubric:: §15
 
-Man stoße sich nicht daran, wenn manchmal ein besonderer Umstand den Lehrmeister nötiget, solchen selbst zu probieren, um dessen beste Finger-Gebung mit aller Gewissheit seinen Schülern zu weisen. Es kommen zuweilen zweifelhafte Fälle dort vor, die man auch beim ersten Anblick mit den rechten Fingern spielen wird, obgleich es Schwierigkeiten setzen würde,
-solche Finger einem anderen vorzuschlagen. Beim Unterweisen hat man selten mehr als ein Instrument, damit der Lehrmeister zugleich mustern könne. Wir 
-sehen hieraus erstlich, dass ungeachtet der unendlichen Verschiedenheit der Applikaturen, dennoch wenige gute Haupt-Regeln hinlänglich sind, als vor- kommende L"
-"Aufgaben aufgelöset; gemüthens, dass durch eine fleißige Uebung der Gebrauch der Finger endlich so mechanisch wird und werden muß, dass man, ohne sich weiter darum zu bekümmern, in den Stand gesetzt wird, mit aller Freyheit an den Ausdruck wichtigerer Sachen zu denken.
+Man stoße sich nicht daran, wenn manchmal ein besonderer Umstand den Lehrmeister nötiget, solchen selbst zu probieren, um dessen beste Finger-Setzung mit aller Gewissheit seinen Schülern zu weisen. 
+Es kommen zuweilen zweifelhafte Fälle dort vor, die man auch beim ersten Anblick mit den rechten Fingern spielen wird, ohngeachtet es Bedenklichkeiten setzen würde, solche Finger einem anderen vorzusagen. 
+Beim Unterweisen hat man selten mehr als ein Instrument, damit der Lehrmeister zugleich mitspielen könne. 
+Wir sehen hieraus erstlich, dass ungeachtet der unendlichen Verschiedenheit der Applikaturen dennoch wenige gute Haupt-Regeln hinlänglich sind, alle vorkommenden Aufgaben aufzulösen; 
+zweitens, dass durch eine fleißige Übung der Gebrauch der Finger endlich so mechanisch wird und werden muß, dass man, ohne sich weiter darum zu bekümmern, in den Stand gesetzt wird, mit aller Freiheit an den Ausdruck wichtigerer Sachen zu denken.
 
 
 .. rubric:: §16
 
-Man muß bey dem Spielen beständig auf die Folge sehen, indem diese oft Ursache ist, dass wir andere als die gewöhnlichen Finger nehmen müssen. 
+Man muß beim Spielen beständig auf die Folge sehen, indem diese oft Ursache ist, dass wir andere als die gewöhnlichen Finger nehmen müssen. 
 
 .. rubric:: §17
 
-Die entgegengesetzte Lage der Finger an beiden Händen verhindert mich die Beispiele über besondere Vorfälle, in wechsely Bewegung anzuführeten, um solche beiden Händen aus der Ursache, warum es hingeset worden ist, brauchbar zu machen. Dem ungeachtet habe ich die Exempel von einiger Erheblichkeit für beide Hände bezeichnet, damit man zugleich solche mit beiden Händen üben könne. Man kann nicht zu viel Gelegenheit geben, diese schon oben in der Einleitung angepriesene Art von Uebung mit Eintlange anzuwenden. Jeder vorgesehene Schlüssel deutet an, für welche Hand die Ziffern gehören;"
-"Ebenso über, und unter den Noten zugleich Ziffern, so geben allezeit, sey es was vor ein Akkord vorschwebe, die obersten die rechte, und die untersten die linke Hand an. 
+Die entgegengesetzte Lage der Finger an beiden Händen verbindet mich, die Exempel über besondere Vorfälle, in zweierlei Bewegung anzuführen, um solche beiden Händen aus der Ursache, warum es hingesetzet worden ist, brauchbar zu machen. 
+Dem ungeachtet habe ich die Exempel von einiger Erheblichkeit für beide Hände beziffert, damit man zugleich solche mit beiden Händen üben könne. 
+Man kann nicht zu viel Gelegenheit geben, diese schon oben in der Einleitung :ref:`einleitung-paragraph-17` angepriesene Art von Übung im Einklange anzuwenden. Jeder vorgezeichnete Schlüssel deutet an, für welche Hand die Ziffern gehören;
+stehen über und unter den Noten zugleich Ziffern, so gehen allezeit, unabhängig davon, was für ein Schlüssel vorgezeichnet ist, die obersten die rechte und die untersten die linke Hand an.
+
+Nicht korrigierte OCR-Texte
+++++++++++++++++++++++++++++
+
 
 .. rubric:: §18
 
@@ -178,7 +180,7 @@ im
 
 gedachten Abbildung"
 "Folgt natürlicher Weise, dass diese beiden Töne eigentlich für die 3 längsten Finger gehören. Hieraus entsteht die erste Hauptregel, dass der kleine Finger selten und die Daumen
-27. S. Das Überschlagen geschiehet von den anderen Fingern und wird
+1.  S. Das Überschlagen geschiehet von den anderen Fingern und wird
 
 14 Das erste Hauptstück.
 dadurch erleichtert, indem ein größerer Finger über einen kleineren oder den Daumen geschlagen wird, wenn es gleichfalls an Fingern fehlen will. Dieses Überschlagen muss durch die Hebung auf eine gewisse Art ohne Verdrehung geschehen.
