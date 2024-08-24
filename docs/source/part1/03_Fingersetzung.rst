@@ -98,7 +98,6 @@ Beim Unterweisen hat man selten mehr als ein Instrument, damit der Lehrmeister z
 Wir sehen hieraus erstlich, dass ungeachtet der unendlichen Verschiedenheit der Applikaturen dennoch wenige gute Haupt-Regeln hinlänglich sind, alle vorkommenden Aufgaben aufzulösen; 
 zweitens, dass durch eine fleißige Übung der Gebrauch der Finger endlich so mechanisch wird und werden muß, dass man, ohne sich weiter darum zu bekümmern, in den Stand gesetzt wird, mit aller Freiheit an den Ausdruck wichtigerer Sachen zu denken.
 
-
 .. rubric:: §16
 
 Man muß beim Spielen beständig auf die Folge sehen, indem diese oft Ursache ist, dass wir andere als die gewöhnlichen Finger nehmen müssen. 
@@ -110,56 +109,46 @@ Dem ungeachtet habe ich die Exempel von einiger Erheblichkeit für beide Hände 
 Man kann nicht zu viel Gelegenheit geben, diese schon oben in der Einleitung :ref:`einleitung-paragraph-17` angepriesene Art von Übung im Einklange anzuwenden. Jeder vorgezeichnete Schlüssel deutet an, für welche Hand die Ziffern gehören;
 stehen über und unter den Noten zugleich Ziffern, so gehen allezeit, unabhängig davon, was für ein Schlüssel vorgezeichnet ist, die obersten die rechte und die untersten die linke Hand an.
 
-Nicht korrigierte OCR-Texte
-++++++++++++++++++++++++++++
-
-
 .. rubric:: §18
 
-Nach diesen in der Natur gegründeten Vorschriften werde ich nunmehro zu der Lehre der Applikatur selbst schreiten. Ja, werde sie auch auf der Natur gründen, weil diese Finger-Ordnung bloß die beste ist, welche nicht mit unnötigem Zwang und Spannungen behaftet ist.
+Nach diesen in der Natur gegründeten Vorschriften werde ich nunmehro zu der Lehre der Applikatur selbst schreiten. 
+Ich werde sie auch auf der Natur gründen, weil diese Finger-Setzung bloß die beste ist, welche nicht mit unnötigem Zwang und Spannungen vergesellschaftet ist.
 
-
+.. _fingersetzung-paragraph-19:
 
 .. rubric:: §19
 
-Die Gestalt unserer Hände und des Griffbretts bildet uns gleichsam den Gebrauch der Finger ab. Denn es gibt uns zu erkennen, dass besonders drei Finger an jeder Hand um ein ansehnliches länger sind als der kleine Finger und der Daumen. Nach dieser finden wir, dass einige Tasten tiefer liegen und vor den andern hervorstehen.
-
+Die Gestalt unserer Hände und des Griffbretts bildet uns gleichsam den Gebrauch der Finger ab. 
+Jene gibt uns zu erkennen, dass besonders drei Finger an jeder Hand um ein ansehnliches länger sind als der kleine Finger und der Daumen. 
+Nach dieser finden wir, dass einige Tasten tiefer liegen und vor den andern vorstehen.
 
 .. rubric:: §20
 
-Ja, würde nach der gewöhnlichen Art die Daumen mit der Ziffer 1, der Kleine mit 5, der Mittelfinger mit 3, der Finger nächst dem Daumen mit 2 und die neben dem kleinen Finger mit 4 bezeichnen."
-"
+Ich werde nach der gewöhnlichen Art die Daumen mit der Ziffer 1, die kleinen mit 5, die Mittelfinger mit 3, die Finger nächst dem Daumen mit 2 und die neben dem kleinen Finger mit 4 bezeichnen.
 
 .. rubric:: §21
 
-Die exhabenen und hinten stehenden Sachen werde ich in der Folge durch ihren mehr gewöhnlichen als richtigen Namen der Salbentöne von den
-anderen, nicht als im Notfalle solche benennen.
+Die erhabenen und hinten stehenden Tasten werde ich in der Folge durch ihren mehr gewöhnlichen als richtigen Namen der Halbentöne von den übrigen unterscheiden.
 
+.. rubric:: §22
 
+Aus der im :ref:`fingersetzung-paragraph-19` gedachten Abbildung folgt natürlicher Weise, dass diese halben Töne eigentlich für die 3 längsten Finger gehören.
+Hieraus entsteht die erste Hauptregel, dass der kleine Finger selten und die Daumen anders nicht als im Notfalle solche berühren.
 
 .. rubric:: §23
 
-Die Verschiedenheit der Gedanken, vermöge welcher sie bald ein-
-stimmig, bald mehrstimmig, bald gehend, bald springend sind, verbindet mich, von allen zu Beispielen zu geben.
-
-
+Die Verschiedenheit der Gedanken, vermöge welcher sie bald ein- bald mehrstimmig, bald gehend bald springend sind, verbindet mich, von aller Art Exempel zu geben.
 
 .. rubric:: §24
 
-Die einstimmigen gehenden Gedanken werden nach ihrer Sonart
-beurteilt, folglich muss ich bei der Ausbildung derselben von allen sieben und
-zwanzig Sonarten oft wohl ein Herauf- als Heruntergehen den Anfang machen.
-Hierauf werde ich die mehrstimmigen Gedanken durchgehen; diesen werden
-Beispiele mit Spannungen und Sprüngen folgen, weil man vielleicht nach den
-mehrstimmigen Gedanken abmessen oder gar auf harmonische Zusammenklänge
-zurückführen kann; endlich werde ich von den Bindungen, von einigen Freiheiten
-wider die Regeln, einigen schweren Beispielen und Hilfsmitteln handeln; zu-
-letzt werden die Probe-Stücke das noch übrige nachholen, durch"
-"deren Einfügung
-ich [20] in verbundenen Gedanken von allerlei Art mehr Nutzen zu stiften,
-und mehr Lust zu dem saueren Studio der Applikatur zu erregen geglaubt habe,
-als wenn ich durch Ueberhäufung vieler, aus ihrem Zusammenhang gerissenen Exempel unerträglich und zu weitläufig geworden wäre.
+Die einstimmigen gehenden Gedanken werden nach ihrer Tonart beurteilt, folglich muss ich bei der Ausbildung derselben von allen vierundzwanzig Tonarten oft wohl im Herauf- als Heruntergehen den Anfang machen.
+Hierauf werde ich die mehrstimmigen Gedanken durchgehen; 
+diesen werden Exempel mit Spannungen und Sprüngen folgen, weil man sie leicht nach den mehrstimmigen Gedanken abmessen oder gar auf harmonische Zusammenklänge zurückführen kann; 
+endlich werde ich von den Bindungen, einigen Freiheiten wider die Regeln, einigen schweren Exempeln und Hilfsmitteln handeln; 
+zuletzt werden die Probe-Stücke das noch übrige nachholen, durch deren Anhängung ich in verbundenen Gedanken von allerlei Art mehr Nutzen zu stiften, und mehr Lust zu dem schweren Studium der Applikatur zu erregen geglaubt habe, als wenn ich durch Ueberhäufung vieler, aus ihrem Zusammenhang gerissenen Exempel unerträglich und zu weitläufig worden wäre.
 
+Nicht korrigierte OCR-Texte
+++++++++++++++++++++++++++++
 
 .. rubric:: §25
 
