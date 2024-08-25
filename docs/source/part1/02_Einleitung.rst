@@ -4,7 +4,7 @@ Einleitung
 
 .. rubric:: §1 
 
-Zur wahren Art das Clavier zu spielen, gehören hauptsächlich drei Stücke, welche so genau miteinander verbunden sind, dass eines ohne das andere weder sein kann, noch darf; nämlich die rechte Finger-Setzung, die guten Manieren, und der gute Vortrag.
+Zur wahren Art das Klavier zu spielen, gehören hauptsächlich drei Stücke, welche so genau mit einander verbunden sind, daß eines ohne das andere weder sein kann, noch darf; nämlich die rechte Finger-Setzung, die guten Manieren, und der gute Vortrag.
 
 .. index::
     single: Ekel
@@ -12,10 +12,11 @@ Zur wahren Art das Clavier zu spielen, gehören hauptsächlich drei Stücke, wel
 
 .. rubric:: §2
 
-Da diese Stücke nicht allzu bekannt sind, und folglich so oft dawider gefehlt worden, so hat man mehrenteils Clavier-Spieler gehört, welche nach einer abscheulichen Mühe endlich gelernt haben, verständigen Zuhörern das Clavier durch ihr Spielen ekelhaft zu machen. Man hat in ihrem Spielen das runde, deutliche und natürliche vermisst; hingegen, anstatt dessen lauter Gehacke, Poltern und Stolpern angetroffen. 
+Da diese Stücke nicht allzu bekannt sind, und folglich so oft dawider gefehlt worden, so hat man mehrenteils Klavier-Spieler gehört, welche nach einer abscheulichen Mühe endlich gelernt haben, verständigen Zuhörern das Clavier durch ihr Spielen ekelhaft zu machen. 
+Man hat in ihrem Spielen das runde, deutliche und natürliche vermisst; hingegen, anstatt dessen lauter Gehacke, Poltern und Stolpern angetroffen. 
 Indem alle anderen Instrumente haben singen gelernt; so ist bloß das Clavier hierinnen zurückgeblieben, und hat, anstatt weniger unterhaltenden Noten, mit vielen bunten Figuren sich abgeben müssen, dergestalt dass man schon angefangen hat zu glauben, es würde einem Angst, wenn man etwas Langsames oder Sangbares auf dem Clavier spielen soll; man könne weder einen Ton an den anderen ziehen, noch einen Ton von dem anderen durch einen Stoß absondern; man müsse dieses Instrument bloß als ein notwendiges Übel zur Begleitung dulden. 
 So unbegründet und widersprechend diese Beschuldigungen sind, so gewisse Zeichen sind sie doch der schlechten Art, das Clavier zu spielen. 
-Ich weiß nicht, da man solchergestalt das Clavier für unsere heutige Musik so gar ungeschickt hält, und mancher dadurch abgeschreckt werden kann, solches zu erlernen, ob nicht selbst die Wissenschaft, welche schon jetzt ziemlich rar zu werden anfängt, nicht noch mehr fallen werde, indem sie größtenteils durch große Clavier-Spieler auf uns gebracht worden ist.
+Ich weiß nicht, da man solchergestalt das Clavier für unsere heutige Musik so gar ungeschickt hält, und mancher dadurch abgeschreckt werden kann, solches zu erlernen, ob nicht selbst die Wissenschaft, welche schon jetzt ziemlich rar zu werden anfängt, nicht noch mehr fallen werde, indem sie größtenteils durch große Klavier-Spieler auf uns gebracht worden ist.
 
 .. rubric:: §3 
 
@@ -106,9 +107,11 @@ Bei dieser Steife der linken Hand versucht der Meister es bei der rechten wieder
 
 .. rubric:: §11
 
-Bevor wir diesen Fehlern durch gegründete Vorschriften abzuhelfen suchen, müssen wir noch etwas von dem Instrument sagen. Man hat außer vielen Arten der Klaviere, welche teils wegen ihrer Mängel unbekannt geblieben, teils noch nicht überall eingeführt sind, hauptsächlich zwei Arten, nämlich die Flügel und Clavicorde, welche bis hierher den meisten Beifall erhalten haben. Jene braucht man insgemein zu starken Musiken, diese zum allein spielen.
+Bevor wir diesen Fehlern durch gegründete Vorschriften abzuhelfen suchen, müssen wir noch etwas von dem Instrument sagen. Man hat außer vielen Arten der Klaviere, welche teils wegen ihrer Mängel unbekannt geblieben, teils noch nicht überall eingeführt sind, hauptsächlich zwei Arten, nämlich die Flügel und Clavichorde [#arten]_, welche bis hierher den meisten Beifall erhalten haben. Jene braucht man insgemein zu starken Musiken, diese zum allein spielen.
 Die neueren Forte Piano, wenn sie dauerhaft und gut gearbeitet sind, haben viele Vorzüge, ungeachtet ihre Tractirung besonders und nicht ohne Schwierigkeit ausstudiert werden muss.
-Sie tun gut beim allein spielen und bei einer nicht gar zu stark gesetzten Musik, ich glaube aber doch, dass ein gutes Klavichord, ausgenommen dass es einen schwächeren Ton hat, alle Schönheiten mit jenem gemein und überdem noch die Bebung und das Tragen der Töne voraus hat, weil ich nach dem Anschlage noch jeder Note einen Druck geben kann. Das Clavicord ist also das Instrument, worauf man einen Clavieristen auf genaueste zu beurteilen fähig ist.
+Sie tun gut beim allein spielen und bei einer nicht gar zu stark gesetzten Musik, ich glaube aber doch, dass ein gutes Clavichord, ausgenommen dass es einen schwächeren Ton hat, alle Schönheiten mit jenem gemein und überdem noch die Bebung und das Tragen der Töne voraus hat, weil ich nach dem Anschlage noch jeder Note einen Druck geben kann. Das Clavichord ist also das Instrument, worauf man einen Clavieristen auf genaueste zu beurteilen fähig ist.
+
+.. [#arten] *Wikipedia:* Im damaligen Sprachgebrauch wurden Cembali als „Flügel“ bezeichnet, während Bach mit „Clavier“ meist das Clavichord meint. Das Hammerklavier lernte Bach erst in den 1780er Jahren kennen, wobei sich die gerade erst entwickelnden Instrumente nur schlecht spielen ließen und sehr teuer waren.
 
 .. index::
     single: Clavichord
@@ -117,7 +120,7 @@ Sie tun gut beim allein spielen und bei einer nicht gar zu stark gesetzten Musik
 
 .. rubric:: §12
 
-Zur Eigenschaft eines guten Clavicords gehört: Dass es außer einem guten und nachklingenden, schmeichelnden Ton die gehörige Anzahl von Tasten habe, welche sich wenigstens von dem großen C bis ins e erstrecken muss. 
+Zur Eigenschaft eines guten Clavichords gehört: Dass es außer einem guten und nachklingenden, schmeichelnden Ton die gehörige Anzahl von Tasten habe, welche sich wenigstens von dem großen C bis ins e erstrecken muss. 
 Dies ist deswegen nötig, damit man manches Mal andere Sachen darauf probieren könne, indem die Komponisten gern so hoch setzen, weil andere Instrumente dieses e noch ziemlich bequem haben können. 
 Diese Tasten müssen ein richtiges Gewicht in sich haben, welches den Finger wieder in die Höhe hebt. 
 Der Bezug muss vertragen können, dass man es sowohl ziemlich angreifen als schmeicheln kann, und dadurch in den Stand gesetzt wird, alle Arten des forte und piano rein und deutlich herauszubringen. 
@@ -166,18 +169,18 @@ Man kann gar leicht die Probe machen, und zwei Personen, wovon der eine ein gute
 
 .. index::
     single: Fingerübungen
-    single: Applikatur
+    single: Applicatur
     single: Geläufigkeit
 
 .. rubric:: §16
 
- Nachdem nunmehr die gehörige Wissenschaft der Tasten, Noten, Pausen, Einteilung des Takts usw. da ist, so lasse man seine Schüler eine ganze Zeit durch nichts anderes als die Exempel über die Applikatur am Anfang langsam und nachher immer hurtiger üben, damit mit der Zeit die Übung der Finger, so schwer und verschieden sie auch bei dem Klavier ist, durch diese Übung so geläufig werde, dass man nicht mehr darüber denken darf.
+ Nachdem nunmehr die gehörige Wissenschaft der Tasten, Noten, Pausen, Einteilung des Takts usw. da ist, so lasse man seine Schüler eine ganze Zeit durch nichts anderes als die Exempel über die Applicatur am Anfang langsam und nachher immer hurtiger üben, damit mit der Zeit die Übung der Finger, so schwer und verschieden sie auch bei dem Klavier ist, durch diese Übung so geläufig werde, dass man nicht mehr darüber denken darf.
  
 .. _einleitung-paragraph-17:
 
 .. rubric:: §17
  
-Hauptsächlich übe man die Exempel, wo bei jedem die Applikatur beider Hände angezeigt ist, im Einklang, damit die Hände gleich geschickt werden.
+Hauptsächlich übe man die Exempel, wo bei jedem die Applicatur beider Hände angezeigt ist, im Einklang, damit die Hände gleich geschickt werden.
 
 .. index::
     single: Lernmethode
@@ -193,7 +196,7 @@ Alsdann gehe man das Kapitel von den Manieren fleißig durch und übe solche, da
 .. rubric:: §19
 
 Man gehe sogleich an die Probe-Stücke, man lehre sie erstlich ohne Manieren, welche besonders zu üben sind, und hernach mit denselben nach den Regeln, welche in dem Kapitel von dem guten Vortrag abgehandelt sind, zu spielen. 
-Dieses muss im Anfang auf dem Clavicorde allein geschehen, danach kann man mit dem Flügel abwechseln.
+Dieses muss im Anfang auf dem Clavichorde allein geschehen, danach kann man mit dem Flügel abwechseln.
 
 .. index::
     single: Singen lernen
@@ -234,7 +237,7 @@ Ich habe zu Vermeidung aller Zweideutigkeit die Triolen ohne 3, das Abstoßen de
 
 Damit ich allerlei Exempel der Fingersetzungen in allen Tonarten, des Gebrauchs der Manieren und des guten Vortrags bei allerlei Leidenschaften habe anbringen können, und dieses Werk vollständig erscheine, so habe ich nicht verhindern können, dass nicht zuletzt die Probe-Stücke in der Schwierigkeit zugenommen hätten. 
 Ich habe geglaubt es sei gut, man zu dienen, nicht lauter Stücke von der ersten Leichtigkeit beizufügen und nicht vieles unberührt zu lassen.
-Ich hoffe, dass die mühsam hinzugegebene Applikatur und Spielart die schwereren Stücken nach vorhergegangenem deutlichen Unterricht ganz leicht machen werde.
+Ich hoffe, dass die mühsam hinzugegebene Applicatur und Spielart die schwereren Stücken nach vorhergegangenem deutlichen Unterricht ganz leicht machen werde.
 Es ist schädlich, die Scholaren mit zu vielen leichten Sachen aufzuhalten; sie bleiben hierdurch immer auf einer Stelle, einige wenige von der ersten Art können zum Anfang hinlänglich sein. 
 Es ist also besser, dass ein geschickter Lehrmeister seine Schüler nach und nach an schwerere Sachen gewöhnt. 
 Es beruht alles auf der Art zu unterweisen und auf vorher gelegten guten Gründen, hierdurch empfindet der Schüler nicht mehr, dass er an schwerere Stücke gebracht worden ist. 

@@ -8,21 +8,21 @@ Die Setzung der Finger ist bei den allermeisten Instrumenten durch die natürlic
 
 .. rubric:: §2
 
-Da nichts destoweniger nur eine Art des Gebrauchs der Finger bei dem Klaviere gut ist, und wenige Fälle in Betrachtung der übrigen mehr als eine Applikatur erlauben; da jeder neue Gedanke beinahe eine neue und eigene Finger-Setzung erfordert, welche oft durch die bloße Verbindung eines Gedankens mit den anderen wieder verändert wird; da die Vollkommenheit des Klaviers eine unerschöpfliche Menge von Möglichkeiten vorzüglich darbietet; da endlich der echte Gebrauch der Finger bisher so unbekannt gewesen und nach Art der Geheimnisse nur unter wenigen geblieben ist, so hat es nicht fehlen können, dass die allermeisten auf diesem schlüpfrigen und verführerischen Wege haben irren müssen. 
+Da nichts destoweniger nur eine Art des Gebrauchs der Finger bei dem Klaviere gut ist, und wenige Fälle in Betrachtung der übrigen mehr als eine Applicatur erlauben; da jeder neue Gedanke beinahe eine neue und eigene Finger-Setzung erfordert, welche oft durch die bloße Verbindung eines Gedankens mit den anderen wieder verändert wird; da die Vollkommenheit des Klaviers eine unerschöpfliche Menge von Möglichkeiten vorzüglich darbietet; da endlich der echte Gebrauch der Finger bisher so unbekannt gewesen und nach Art der Geheimnisse nur unter wenigen geblieben ist, so hat es nicht fehlen können, dass die allermeisten auf diesem schlüpfrigen und verführerischen Wege haben irren müssen. 
 
 .. rubric:: §3
 
-Dieser Irrtum ist um so viel beträchtlicher, je weniger man ihn oft hat merken können, indem auf dem Klavier das meiste auch mit einer falschen Applikatur, obschon mit entsetzlicher Mühe und ungeschickt, herausgebracht werden kann, anstatt dass bei anderen Instrumenten die geringste falsche Fingersetzung sich mehrenteils durch die bloße Unmöglichkeit, das vorgeschriebene zu spielen, entdeckt. 
+Dieser Irrtum ist um so viel beträchtlicher, je weniger man ihn oft hat merken können, indem auf dem Klavier das meiste auch mit einer falschen Applicatur, obschon mit entsetzlicher Mühe und ungeschickt, herausgebracht werden kann, anstatt dass bei anderen Instrumenten die geringste falsche Fingersetzung sich mehrenteils durch die bloße Unmöglichkeit, das vorgeschriebene zu spielen, entdeckt. 
 Man hat daher alles der Schwierigkeit des Instruments und der dafür gesetzten Stücke so gleich zugeschrieben und geglaubt, es müsse so und könne nicht anders sein.
 
 .. rubric:: §4
     
 Da man hieraus erkennen kann, dass der rechte Gebrauch der Finger einen unzertrennlichen Zusammenhang mit der ganzen Spielart hat, so verliert man bei einer unrichtigen Finger-Setzung mehr als man durch alle mögliche Kunst und guten Geschmack ersetzen kann. 
-Die ganze Fertigkeit hängt hiervon ab, und man kann aus der Erfahrung beweisen, dass ein mittelmäßiger Kopf mit gut gewöhnten Fingern allezeit den größten Musicum im Spielen übertreffen wird, wenn dieser letztere wegen seiner falschen Applikatur gezwungen ist, wider seine Überzeugung sich hören zu lassen. 
+Die ganze Fertigkeit hängt hiervon ab, und man kann aus der Erfahrung beweisen, dass ein mittelmäßiger Kopf mit gut gewöhnten Fingern allezeit den größten Musicum im Spielen übertreffen wird, wenn dieser letztere wegen seiner falschen Applicatur gezwungen ist, wider seine Überzeugung sich hören zu lassen. 
 
 .. rubric:: §5
     
-Aus dem Grunde, dass jeder neue Gedanke beinahe seine eigene Finger-Setzung habe, folgt, dass die jetzige Art zu denken, indem sie sich von der in vorherigen Zeiten ganz besonders unterscheidet, eine neue Applikatur eingeführt habe. 
+Aus dem Grunde, dass jeder neue Gedanke beinahe seine eigene Finger-Setzung habe, folgt, dass die jetzige Art zu denken, indem sie sich von der in vorherigen Zeiten ganz besonders unterscheidet, eine neue Applicatur eingeführt habe. 
 
 .. rubric:: §6
 
@@ -48,7 +48,7 @@ Da diese neue Finger-Setzung so beschaffen ist, dass man damit alles mögliche z
 
 .. rubric:: §9
 
-Es ist nötig, bevor ich an die Lehre der Applikatur selbst gehe, vorher gewisse Dinge zu erinnern, welche man teils vorher wissen muss, teils von der Wichtigkeit sind, dass ohne sie auch die besten Regeln unkräftig bleiben würden.
+Es ist nötig, bevor ich an die Lehre der Applicatur selbst gehe, vorher gewisse Dinge zu erinnern, welche man teils vorher wissen muss, teils von der Wichtigkeit sind, dass ohne sie auch die besten Regeln unkräftig bleiben würden.
 
 .. rubric:: §10
     
@@ -95,7 +95,7 @@ Hierdurch werden sie die Tasten leichter und gewisser treffen lernen, und die H�
 Man stoße sich nicht daran, wenn manchmal ein besonderer Umstand den Lehrmeister nötiget, solchen selbst zu probieren, um dessen beste Finger-Setzung mit aller Gewissheit seinen Schülern zu weisen. 
 Es kommen zuweilen zweifelhafte Fälle dort vor, die man auch beim ersten Anblick mit den rechten Fingern spielen wird, ohngeachtet es Bedenklichkeiten setzen würde, solche Finger einem anderen vorzusagen. 
 Beim Unterweisen hat man selten mehr als ein Instrument, damit der Lehrmeister zugleich mitspielen könne. 
-Wir sehen hieraus erstlich, dass ungeachtet der unendlichen Verschiedenheit der Applikaturen dennoch wenige gute Haupt-Regeln hinlänglich sind, alle vorkommenden Aufgaben aufzulösen; 
+Wir sehen hieraus erstlich, dass ungeachtet der unendlichen Verschiedenheit der Applicaturen dennoch wenige gute Haupt-Regeln hinlänglich sind, alle vorkommenden Aufgaben aufzulösen; 
 zweitens, dass durch eine fleißige Übung der Gebrauch der Finger endlich so mechanisch wird und werden muß, dass man, ohne sich weiter darum zu bekümmern, in den Stand gesetzt wird, mit aller Freiheit an den Ausdruck wichtigerer Sachen zu denken.
 
 .. rubric:: §16
@@ -111,7 +111,7 @@ stehen über und unter den Noten zugleich Ziffern, so gehen allezeit, unabhängi
 
 .. rubric:: §18
 
-Nach diesen in der Natur gegründeten Vorschriften werde ich nunmehro zu der Lehre der Applikatur selbst schreiten. 
+Nach diesen in der Natur gegründeten Vorschriften werde ich nunmehro zu der Lehre der Applicatur selbst schreiten. 
 Ich werde sie auch auf der Natur gründen, weil diese Finger-Setzung bloß die beste ist, welche nicht mit unnötigem Zwang und Spannungen vergesellschaftet ist.
 
 .. _fingersetzung-paragraph-19:
@@ -141,48 +141,144 @@ Die Verschiedenheit der Gedanken, vermöge welcher sie bald ein- bald mehrstimmi
 
 .. rubric:: §24
 
-Die einstimmigen gehenden Gedanken werden nach ihrer Tonart beurteilt, folglich muss ich bei der Ausbildung derselben von allen vierundzwanzig Tonarten oft wohl im Herauf- als Heruntergehen den Anfang machen.
+Die einstimmigen gehenden Gedanken werden nach ihrer Ton-Art beurteilt, folglich muß ich bei der Abbildung derselben von allen vier und zwanzig Ton-Arten so wohl im Herauf- als Heruntergehen den Anfang machen. 
 Hierauf werde ich die mehrstimmigen Gedanken durchgehen; 
 diesen werden Exempel mit Spannungen und Sprüngen folgen, weil man sie leicht nach den mehrstimmigen Gedanken abmessen oder gar auf harmonische Zusammenklänge zurückführen kann; 
-endlich werde ich von den Bindungen, einigen Freiheiten wider die Regeln, einigen schweren Exempeln und Hilfsmitteln handeln; 
-zuletzt werden die Probe-Stücke das noch übrige nachholen, durch deren Anhängung ich in verbundenen Gedanken von allerlei Art mehr Nutzen zu stiften, und mehr Lust zu dem schweren Studium der Applikatur zu erregen geglaubt habe, als wenn ich durch Ueberhäufung vieler, aus ihrem Zusammenhang gerissenen Exempel unerträglich und zu weitläufig worden wäre.
+endlich werde ich von den Bindungen, von einigen Freiheiten wider die Regeln, einigen schweren Exempeln und Hilfsmitteln handeln; 
+zuletzt werden die Probe- Stücke das noch übrige nachholen, durch deren Anhängung ich in verbundenen Gedanken von allerlei Art mehr Nutzen zu stiften, und mehr Lust zu dem schweren Studio der Applicatur zu erregen geglaubt habe, als wenn ich durch Überhäufung vieler, aus ihrem Zusammenhäng gerissenen Exempel unerträglich und zu weitläufig worden wäre.
+
+.. rubric:: §25
+
+Die Abwechslung der Finger ist der hauptsächlichste Vorwurf der Applicatur. Wir können mit unseren fünf Fingern nur fünf Töne nach einander anschlagen; folglich merke man vornehmlich zwei Mittel, wodurch wir bequem so viel Finger gleichsam kriegen als wir brauchen. Diese zwei Mittel bestehen in dem Untersetzen und überschlagen.
+
+.. rubric:: §26
+
+Da die Natur keinen von allen Fingern so geschickt gemacht hat, sich unter die übrigen anderen so zu biegen, als den Daumen, so beschäftiget sich dessen Biegsamkeit samt seiner vorteilhaften Kürze ganz allein mit dem Untersetzen an den Orten und zu der Zeit, wenn die Finger nicht hinreichen wollen.
+
+.. rubric:: §27
+
+Das überschlagen geschieht von den anderen Fingern und wird dadurch erleichtert, indem ein größerer Finger über einen kleineren oder den Daumen geschlagen wird, wenn es gleichfalls an Fingern fehlen will. Dieses überschlagen muß durch die Übung auf eine geschickte Art ohne Schränkung geschehen.
+
+.. rubric:: §28
+
+Das Untersetzen des Daumens nach dem kleinen Finger, das Überschachen des zweiten Fingers über den dritten, des dritten über den zweiten, des vierten über den kleinen, ingleichen des kleinen Fingers über den Daumen ist verwerflich.
+
+.. rubric:: §29
+
+Den rechten Gebrauch dieser zwei Hilfsmittel werden wir aus der Ordnung der Ton-Leitern aufs deutlichste ersehen. Dieses ist der Haupt-Nutzen dieser Vorschrift. Bei gehenden Passagien durch die Ton-Leitern, welche sich nicht eben so anfangen und endigen, wie sie hier abgebildet sind, verstehet es sich von selbst, daß man wegen der Folge die Finger so einteilt, daß man just damit auskommt, ohne allezeit verbunden zu sein, denselben Finger eben auf die Taste zu setzen und keinen anderen.
+
+.. rubric:: §30
+
+Bei Tab. I. Fig. I. ist uns die Scala C Dur im Aufsteigen vorgemalt. 
+Wir sehen hierbei drei Arten von Finger-Setzung für jede Hand. Keine davon ist verwerflich, ungeachtet die mit dem überschlagen des dritten Fingers über den vierten in der rechten Hand und in der Linken des zweiten Fingers über den Daumen, und die, wo der Daumen in F wieder eingesetzt wird, vielleicht gewöhnlicher sein mögen als die dritte Art. In wie fern jede gut zu brauchen ist, sehen wir aus den Exempeln bei Fig. II.
+
+.. figure:: bilder/tab1/tab1-fig1.pdf
+    :width: 800px
+    :align: center
+    :alt: Fig. I.: C Dur im Aufsteigen.
+
+    Fig. I.: C Dur im Aufsteigen. *Alle im Folgenden digital gesetzten Notenbeispiele basieren auf Jean-Pierre Coulons Transkriptionen, siehe* :ref:`quellenangaben-und-danksagung`.
+
+.. figure:: bilder/tab1/fig2.png
+    :width: 800px
+    :align: center
+    :alt: Fig. II.
+
+    Fig. II.: Beispielhafte Fingersätze
+
+.. rubric:: §31
+
+Fig. III. zeigt uns C Dur im Absteigen. Es finden sich hier abermals drei Arten von Applicatur, welche alle drei gut sein können in gewissen Absichten, wie wir aus den unter Fig. IV. angeführten Exempeln sehen, ob schon außer diesen Fällen, wobei sie so und nicht anders sein müssen, eine mehr üblich sein kann wie die andere.
+
+.. figure:: bilder/tab1/tab1-fig3.pdf
+    :width: 800px
+    :align: center
+    :alt: Fig. III.: C Dur im Aufsteigen
+
+    Fig. III.: C Dur im Absteigen
+
+.. figure:: bilder/tab1/tab1-fig4.pdf
+    :width: 800px
+    :align: center
+    :alt: Fig. IV.
+
+    Fig. IV.: Beispielhafte Fingersätze
+
+.. _fingersetzung-paragraph-32:
+
+.. rubric:: §32
+
+Wir lernen hierbei aus den unter Fig. II. und IV. befindlichen Exempeln, daß außer der Notwendigkeit beständig auf die Folge zu sehen, der kleine Finger allezeit gleichsam zum Hinterhalt in gehenden Passagien bleibt und hierbei nicht eher gebraucht wird, als entweder im Anfange, oder wenn derselben Umfang just mit ihm zu Ende geht; 
+dieses verstehet sich gleichfalls bei den Skalen, wo er manchmal drüber steht. Außer diesem Falle nimmt man dafür den Daumen. Um wegen dieses kleinen Fingers keine Verwirrung anzurichten, habe ich die Skalen bis über die Oktave verlängert, damit man die Folge desto deutlicher sehen könne.
+
+.. rubric:: §33
+
+A Moll im Aufsteigen finden wir bei Fig. V. mit zweierlei Finger-Setzung; doch ist die, so gleich über und unter den Noten steht, die beste; die andere kann allenfalls bei den unter Fig. VI. angeführten Exempeln gute Dienste tun;
+indessen da man noch mehrere Arten ausfindig machen könnte, wenn man die Exempel danach einrichten wollte, und solche also dadurch dem ungeachtet nicht so natürlich wird, wie die nächst den Noten, so habe ich sie mehr zur Warnung, als zur Nachahmung angeführt, weil ich weiß daß sie hier und da Mode ist. 
+Das unnatürliche bestehet darinnen, daß der Daumen in das D eingesetzt wird, ungeachtet das E mit zwei halben Tönen darauf folgt; 
+denn der Daumen mag sich gerne nahe an den halben Tönen aufhalten, wenigstens ist diese Haupt-Regel hierbei zu merken, daß der Daumen der rechten Hand im Aufsteigen nach einem oder mehreren halben Tönen, im Absteigen aber vor einem oder mehreren halben Tönen, und der linke Daumen im Absteigen nach, und im Aufsteigen vor den halben Tönen, eingesetzt wird. 
+Wer diese Haupt-Regel in den Fingern hat, dem wird es allezeit fremde fallen, bei Gängen, wo halbe Töne vorkommen, den Daumen etwas entfernt von selbigen einzusetzen.
+
+.. figure:: bilder/tab1/tab1-fig5.pdf
+    :width: 800px
+    :align: center
+    :alt: Fig. V.: A Moll im Aufsteigen
+
+    Fig. V.: A Moll im Aufsteigen. Zu bevorzugen ist der Fingersatz, der den Daumen auf E legt
+
+.. figure:: bilder/tab1/tab1-fig6.pdf
+    :width: 800px
+    :align: center
+    :alt: Fig. VI.
+
+    Fig. VI.: Fingersätze, die den Daumen auf D rechtfertigen
+
+
+.. rubric:: §34
+
+A Moll im Absteigen sehen wir bei Fig. VII. mit dreierlei Finger-Ordnung. 
+Da hier, wie bei C Dur, auch kein halber Ton vorkommt, so sind sie alle drei gut, und zu gebrauchen. Die, wo der Daumen in das D eingesetzt wird, ist ungewöhnlicher als die anderen.
+
+.. figure:: bilder/tab1/tab1-fig7.pdf
+    :width: 800px
+    :align: center
+    :alt: Fig. VII.: A Moll im Absteigen
+
+    Fig. VII.: A Moll im Absteigen
+
+.. rubric:: §35
+
+G Dur im Aufsteigen zeigt sich bei Fig. VIII. dreifach. Die mit (\*) bezeichnete Applicatur ist die ungewöhnlichste. Die mittelste im Diskante und unterste im Basse gibt zu einer neuen Regel Gelegenheit, welche so heißt: Das überschlagen, welches mit dem zweiten Finger über den Daumen, und mit dem dritten Finger über den vierten geschieht, hat seinen eigentlichen Nutzen bei Passagien ohne halben Töne; allda geschieht es auch, wenn es nötig ist, oft hinter einander. Dann und wann geschieht es auch bei einem einzigen vorkommenden halben Ton; man setzet in der Folge den Daumen oder vierten Finger gleich an dem halben Tone ein, und der zweite oder dritte Finger, welche dieses wegen ihrer vorzüglichen Länge bequem tun können, steigen auf diesen halben Ton; hierauf nimmt ganz natürlich der Daumen nach der in :ref:`fingersetzung-paragraph-32` angeführten Regel seinen ihm zukommenden Platz ein. 
+Das bei Fig. IX. angeführte Exempel (a) könnte eine Ausnahme wider unsere Regel abgeben, doch wird solches gewöhnlicher mit Untersetzung des Daumens (b) gespielt. Folglich ist das überschlagen mit dem zweiten Finger über den Daumen auch in dergleichen Fällen brauchbarer als das mit dem dritten Finger über den vierten. Dieses überschlagen bei einem vorkommenden halben Tone hat mich genötigt, diese Scala durch zwei Oktaven wegen der Folge durchzuführen.
+
+.. figure:: bilder/tab1/tab1-fig8.pdf
+    :width: 800px
+    :align: center
+    :alt: Fig. VIII.: G Dur im Aufsteigen
+
+    Fig. VIII.: G Dur im Aufsteigen. Der mit (\*) bezeichnete Fingersatz ist der ungewöhnlichste.
+
+.. figure:: bilder/tab1/tab1-fig9.png
+    :width: 800px
+    :align: center
+    :alt: Fig. IX.
+
+    Fig. IX.: Beispielhafte Fingersätze
+
+.. rubric:: §36
+
+G Dur im Absteigen erscheint bei Fig. X. ebenfalls mit dreierlei Ordnungen der Finger. Die, wo der Daumen ins C steigt, ist ohne Zweifel die ungewöhnlichste; die von den Noten entfernste, die gefährlichste; alle 3 aber brauchbar.
+
+.. figure:: bilder/tab1/tab1-fig10.pdf
+    :width: 800px
+    :align: center
+    :alt: Fig. X.: G Dur im Absteigen
+
+    Fig. X.: G Dur im Absteigen
 
 Nicht korrigierte OCR-Texte
 ++++++++++++++++++++++++++++
 
-.. rubric:: §25
-
-Die Abwechslung der Finger ist der hauptsächliche Vorwurf der Applikatur. Wir können mit unsern fünf Fingern nur fünf Töne nacheinander anschlagen; folglich werde man vornehmlich zwei Mittel, wodurch wir bequem so viel Finger gleichsam kriegen als wir brauchen. Diese zwei Mittel bestehen in dem Untersetzen und Überschlagen.
-
-
-.. rubric:: §26
-
-Da die Natur keinen von allen Fingern so geschickt gemacht hat, sie unter die übrigen anderen so zu biegen, als den Daumen, so beschäftiget man dessen Biegsamkeit samt seiner vortrefflichen Ruhe ganz allein mit dem Untersetzen an den Tasten und zu der Zeit, wenn die Finger nicht hinreichen wollen.
-übrigen unterscheiden. 
-
-.. rubric:: §22
-
-Aus der
-im 
-
-.. rubric:: §19
-
-gedachten Abbildung"
-"Folgt natürlicher Weise, dass diese beiden Töne eigentlich für die 3 längsten Finger gehören. Hieraus entsteht die erste Hauptregel, dass der kleine Finger selten und die Daumen
-1.  S. Das Überschlagen geschiehet von den anderen Fingern und wird
-
-14 Das erste Hauptstück.
-dadurch erleichtert, indem ein größerer Finger über einen kleineren oder den Daumen geschlagen wird, wenn es gleichfalls an Fingern fehlen will. Dieses Überschlagen muss durch die Hebung auf eine gewisse Art ohne Verdrehung geschehen.
-28. S. Das Übersetzen des Daumens nach dem kleinen Finger, das Überschlagen des zweiten Fingers über den dritten, des dritten über den vierten, des vierten über den kleinen, in gleicher Weise des kleinen Fingers über den Daumen ist bemerklich.
-
-
-.. rubric:: §29
-
-Den rechten Gebrauch dieser zwei Hilfsmittel werden wir aus
-der Ordnung der Tonleitern aufs deutlichste ersehen. Dieses ist der Haupt-Nutzen dieser Vorschrift. In gewissen Passagen durch die Tonleitern, welche sich nicht eben oft anfangen und endigen, w"
-"wie sie hier abgebildet sind, versteht [21] es sich von selbst, dass man wegen der Folge die Finger so einteilt, dass man just damit auskommt, ohne allezeit verbunden zu sein, denselben Finger eben auf die Taste zu legen und keinen anderen.
-30. § - 60. § [G. 21-28 wendet der Verf. Diese „neue" Fingersetzung auf alle Skalen an und erläutert sie an zahlreichen Notenbeispielen, und zwar behandeln § 30-32 C-Dur, § 33-34 A-moll, § 35-36 G-Dur, § 37-38 E-moll, § 39-40 F-Dur,
-§ 41-42 D-moll, § 43 B-Dur, § 44-45 G-moll, § 46-47 D-Dur, § 48-49 H-moll, § 50-51 A-Dur, § 52-53 Fis-moll, § 54-55 E-Dur und Cis-moll, § 56 H-Dur und Gis-moll, § 57 Fis-Dur und Es-moll, § 58 Des (Cis-)Dur und B-moll, § 59 As-Dur und F-moll, § 60 Es-Dur und C-moll.]
 
 
 .. rubric:: §61
@@ -202,9 +298,9 @@ Wir werden in der Folge eine kleine Ausnahme finden, vermöge welcher mit gewiss
 Von der Finger-Setzung.
 15
 gesetzt worden. Man muss dieses Einsetzen nicht mit dem Überlegen verwechseln. Überschlagen heißt: wenn ein Finger über den anderen gleichsam weggleitet, indem der andere noch über der Taste bleibt, welche er nieder- gedrückt hat; beim Einsetzen hingegen ist der andere Finger schon weg, und die Hand gerückt.
-63.8. Endlich sehen wir bei dieser Abbildung der Tonleitern, dass die, ohne, oder mit den wenigsten Versetzungs-Zeichen, die meisten Veränderungen von Applikaturen erlauben, indem sowohl das Untersetzen als auch das Überschlagen angebracht; und dass die übrigen nur einseitigen Wechsel der Finger gestatten. Folglich sind die oft genannten leichten Tonarten (weil ihre Applikatur oft verschieden ist, und man beide Hilfsmittel zur rechten Zeit gebrauchen lernen muss, ohne sie zu verwirren; weil es nötig ist die einmal gewählte Ordnung in der Folge"
+63.8. Endlich sehen wir bei dieser Abbildung der Tonleitern, dass die, ohne, oder mit den wenigsten Versetzungs-Zeichen, die meisten Veränderungen von Applicaturen erlauben, indem sowohl das Untersetzen als auch das Überschlagen angebracht; und dass die übrigen nur einseitigen Wechsel der Finger gestatten. Folglich sind die oft genannten leichten Tonarten (weil ihre Applicatur oft verschieden ist, und man beide Hilfsmittel zur rechten Zeit gebrauchen lernen muss, ohne sie zu verwirren; weil es nötig ist die einmal gewählte Ordnung in der Folge"
 "beizubehalten, und man also wohl zu merken hat, wo der Daumen eingesetzt worden,) viel verführerischer und schwerer als die oft genannten schweren
-Ton-Arten, indem sie nur eine Art von Finger-Gesang haben, als ob der Daumen durch die Hebung nirgends seinen ordentlichen Platz sich von selbst eindringen lernt. Diese letzten behalten den Rahmen der schweren nur aus der Ursache bei, weil entweder gar nicht, oder selten aus selbigen gespielt und ge-übt wird. Hierdurch bleibt ihre Schreib-Kunst so wohl als die Lage ihrer Saiten allezeit fremde. Durch die wahre Lehre und Anwendung der Finger-Ordnung werden uns also diese schweren Ton-Arten eben so leicht, als groß die Schwierigkeit war, auf eine falsche Zeit, besonders ohne Daumen oder den rechten Gebrauch desselben in solchen fortzukommen. Einer der größten Vorzüge des Klaviers, vermöge dessen man mit besonderer Leichtigkeit aus allen vier und zwanzig Ton-Arten spielen kann, ist also durch die Unwissenheit der rechten Applikatur verborgen geblieben.
+Ton-Arten, indem sie nur eine Art von Finger-Gesang haben, als ob der Daumen durch die Hebung nirgends seinen ordentlichen Platz sich von selbst eindringen lernt. Diese letzten behalten den Rahmen der schweren nur aus der Ursache bei, weil entweder gar nicht, oder selten aus selbigen gespielt und ge-übt wird. Hierdurch bleibt ihre Schreib-Kunst so wohl als die Lage ihrer Saiten allezeit fremde. Durch die wahre Lehre und Anwendung der Finger-Ordnung werden uns also diese schweren Ton-Arten eben so leicht, als groß die Schwierigkeit war, auf eine falsche Zeit, besonders ohne Daumen oder den rechten Gebrauch desselben in solchen fortzukommen. Einer der größten Vorzüge des Klaviers, vermöge dessen man mit besonderer Leichtigkeit aus allen vier und zwanzig Ton-Arten spielen kann, ist also durch die Unwissenheit der rechten Applicatur verborgen geblieben.
 "
 "eben.
 
@@ -223,8 +319,8 @@ Nach diesen Regeln und nach dem in selbigen befindlichen Gebrauch
  16 Das erste Hauptstück.
 Der bendenden"
 "Hilfsmittel werden alle einstimmige gebende Gebanden beurteilt. Von einigen hierbei besonderen Fällen und Schwierigkeiten wird zuletzt gehandelt werden.
-66. S. - 75. §. [S. 31-34 behandeln den Fingersatz, bei Streichlängen, bei (67) Sekunden, (68) gebrochenen Sekunden, (69) Terzen, (70) gebrochenen Terzen, (71) einfachen und gebrochenen Quarten, (72) Quinten und Sexten, (73-75) Septimen und Oktaven.]
-76. §. - 78. §. [S. 34-35 behandeln den Fingersatz bei Dreiklängen im Umfang einer (76) Quarte, (77) Quinte und (78) Sexte.]
+1.  S. - 75. §. [S. 31-34 behandeln den Fingersatz, bei Streichlängen, bei (67) Sekunden, (68) gebrochenen Sekunden, (69) Terzen, (70) gebrochenen Terzen, (71) einfachen und gebrochenen Quarten, (72) Quinten und Sexten, (73-75) Septimen und Oktaven.]
+2.  §. - 78. §. [S. 34-35 behandeln den Fingersatz bei Dreiklängen im Umfang einer (76) Quarte, (77) Quinte und (78) Sexte.]
 
 
 .. rubric:: §79
@@ -279,7 +375,7 @@ Von der Finger-Setzung. 19
 
 .. rubric:: §87
 
-Eine der notwendigsten Freiheiten in der Applikatur ist das Auslassen gewisser Finger wegen der Folge. Die unter Fig. LIX. befindlichen Exempel zeigen dieses deutlich, unter welchen das mit (*) auf Tab. II. bezeichnete bewe"
+Eine der notwendigsten Freiheiten in der Applicatur ist das Auslassen gewisser Finger wegen der Folge. Die unter Fig. LIX. befindlichen Exempel zeigen dieses deutlich, unter welchen das mit (*) auf Tab. II. bezeichnete bewe"
 "Hier ist der korrigierte Text:
 
 ---
@@ -342,7 +438,7 @@ Wenn in den Tonarten mit vielen halben Tönen Passagen vorkommen, welche nicht v
 [Tab. III.] Fig. LXIII.
 
 22 Das erste Hauptstück.
-Einige brauchen diese Art von Applikatur bei Passagen, wo noch große Töne nach dem Daumen folgen, welche ganz oben über den bereits genannten Beispielen stehen; sie ist nicht eben unrecht, ich glaube aber, dass man verpflichtet ist zu tun, was man in wenigen Veränderungen ohne Unbequemlichkeit verrichten kann.
+Einige brauchen diese Art von Applicatur bei Passagen, wo noch große Töne nach dem Daumen folgen, welche ganz oben über den bereits genannten Beispielen stehen; sie ist nicht eben unrecht, ich glaube aber, dass man verpflichtet ist zu tun, was man in wenigen Veränderungen ohne Unbequemlichkeit verrichten kann.
 
 
 .. rubric:: §93
