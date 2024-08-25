@@ -40,12 +40,11 @@ Jean-Pierre Coulon created a great transcription which is available as a tex fil
 
 There's a very accurate transcription of the second edition available from [Deutsches Textarchiv](https://www.deutschestextarchiv.de/book/show/bach_versuch01_1759), including a version with modernized spelling. I used this as the main source for the german text.
 
-## Method
+## License
 
-I used the first edition of the german facsimile scans as a basis for the german text. I used an LLM (Large Language Model) to correct the OCR (Optical Character Recognition) errors. I've proofread the results, but it is not completely accurate. 
+Deutsches Textarchiv published its great transcriptions under a [CC BY 4.0 license](https://creativecommons.org/licenses/by/4.0/). The original text is in the public domain.
 
-Often, old spelling has been gently modernized ("Antheil" becomes "Anteil") but not consequently ("vereinet" did not become "vereint"). Sentence structure and general expressions, albeit old fashioned, have been preserved ("Die Vollkommenheit desselben wäre leicht daraus zu erweisen"). I think it's a good mix that preserves the original character of the text while taking out some of the irritations. This is no scientific edition, but a practical one.
+Jean-Pierre Coulon's transcription was published under a [CC BY-SA 3.0 license](https://creativecommons.org/licenses/by-sa/3.0/).
 
-The english version is based on the translation by William J. Mitchell. Again, I also an LLM to correct the errors introduced by the character recognition.
-
-In both versions, I added the musical examples transcribed from Jean-Pierre Coulon's version. The display is based on [VexFlow](https://www.vexflow.com/), a JavaScript library for rendering music notation in the browser.
+The original text is in the public domain and the facsimile scans are typically copyrighted by the library that scanned them.
+There's also a scan by Jean-Pierre Coulon which is available under a [CC BY-SA 3.0 license](https://creativecommons.org/licenses/by-sa/3.0/).
