@@ -211,6 +211,8 @@ Fig. III. zeigt uns C Dur im Absteigen. Es finden sich hier abermals drei Arten 
 Wir lernen hierbei aus den unter Fig. II. und IV. befindlichen Exempeln, daß außer der Notwendigkeit beständig auf die Folge zu sehen, der kleine Finger allezeit gleichsam zum Hinterhalt in gehenden Passagien bleibt und hierbei nicht eher gebraucht wird, als entweder im Anfange, oder wenn derselben Umfang just mit ihm zu Ende geht; 
 dieses verstehet sich gleichfalls bei den Skalen, wo er manchmal drüber steht. Außer diesem Falle nimmt man dafür den Daumen. Um wegen dieses kleinen Fingers keine Verwirrung anzurichten, habe ich die Skalen bis über die Oktave verlängert, damit man die Folge desto deutlicher sehen könne.
 
+.. _fingersetzung-paragraph-33:
+
 .. rubric:: §33
 
 A Moll im Aufsteigen finden wir bei Fig. V. mit zweierlei Finger-Setzung; doch ist die, so gleich über und unter den Noten steht, die beste; die andere kann allenfalls bei den unter Fig. VI. angeführten Exempeln gute Dienste tun;
@@ -246,6 +248,8 @@ Da hier, wie bei C Dur, auch kein halber Ton vorkommt, so sind sie alle drei gut
 
     Fig. VII.: A Moll im Absteigen
 
+.. _fingersetzung-paragraph-35:
+
 .. rubric:: §35
 
 G Dur im Aufsteigen zeigt sich bei Fig. VIII. dreifach. Die mit (\*) bezeichnete Applicatur ist die ungewöhnlichste. Die mittelste im Diskante und unterste im Basse gibt zu einer neuen Regel Gelegenheit, welche so heißt: Das überschlagen, welches mit dem zweiten Finger über den Daumen, und mit dem dritten Finger über den vierten geschieht, hat seinen eigentlichen Nutzen bei Passagien ohne halben Töne; allda geschieht es auch, wenn es nötig ist, oft hinter einander. Dann und wann geschieht es auch bei einem einzigen vorkommenden halben Ton; man setzet in der Folge den Daumen oder vierten Finger gleich an dem halben Tone ein, und der zweite oder dritte Finger, welche dieses wegen ihrer vorzüglichen Länge bequem tun können, steigen auf diesen halben Ton; hierauf nimmt ganz natürlich der Daumen nach der in :ref:`fingersetzung-paragraph-32` angeführten Regel seinen ihm zukommenden Platz ein. 
@@ -275,6 +279,230 @@ G Dur im Absteigen erscheint bei Fig. X. ebenfalls mit dreierlei Ordnungen der F
     :alt: Fig. X.: G Dur im Absteigen
 
     Fig. X.: G Dur im Absteigen
+
+.. rubric:: §37
+
+E Moll im Aufsteigen hat nur diese einzige gute Applicatur, Fig. XI. 
+Wer anstatt den Daumen in die Quinte h., solchen in die Quarte a setzen wollte, müßte solches bei Exempeln tun, wo die Folge dieses erfordert, sonsten ist diese Finger-Setzung nicht anzuraten. 
+Man hüte sich bei diesem durch eine ganze Oktave aufsteigenden E Moll, daß man den Daumen nicht ins g, nach der in :ref:`fingersetzung-paragraph-33` gegebenen Regel einsetzt, weil man sonst nicht mit den Fingern auskäme. 
+Diese sonst so gewisse Regel leidet wie wir in der Folge sehen werden, nur ein Paar Ausnahmen, welche gegen den Nutzen, den diese Regel übrigens in der ganzen Lehre der Applicatur schafft, nichts bedeuten wollen.
+
+.. figure:: bilder/tab1/tab1-fig11.pdf
+    :width: 800px
+    :align: center
+    :alt: Fig. XI.: E Moll im Aufsteigen
+
+    Fig. XI.: E Moll im Aufsteigen
+
+.. rubric:: §38
+
+E Moll im Absteigen sehen wir bei Fig. XII. mit zweierlei Finger-Setzung, wovon die, nächst über und unter den Noten, die beste ist.
+
+.. figure:: bilder/tab1/tab1-fig12.pdf
+    :width: 800px
+    :align: center
+    :alt: Fig. XII.: E Moll im Absteigen
+
+    Fig. XII.: E Moll im Absteigen
+
+.. rubric:: §39
+
+F Dur im Aufsteigen hat im Diskante nur eine gute Applicatur, laut Fig. XIII. hingegen sind im Basse drei, welche in gewisser Art alle brauchbar und deswegen wert sind, daß man sie übt.
+
+.. figure:: bilder/tab1/tab1-fig13.pdf
+    :width: 800px
+    :align: center
+    :alt: Fig. XIII.: F Dur im Aufsteigen
+
+    Fig. XIII.: F Dur im Aufsteigen
+
+.. rubric:: §40
+
+F Dur im Absteigen zeigt sich bei Fig. XIV. im Diskante mit zweien, und im Basse mit drei Applikaturen. Die nächst über und unter den Noten sind die gewöhnlichsten; in den anderen ist nichts unregelmäßiges, sie können bei gewissen Fällen nötig sein, folglich kann man sie dabei mit merken.
+
+.. figure:: bilder/tab1/tab1-fig14.pdf
+    :width: 800px
+    :align: center
+    :alt: Fig. XIV.: F Dur im Absteigen
+
+    Fig. XIV.: F Dur im Absteigen
+
+.. rubric:: §41
+
+D Moll im Aufsteigen bei Fig. XV. hat für jede Hand dreierlei Finger-Setzung, welche alle gut und zu üben sind, ungeachtet daß die von den Noten entfernteste etwas ungewöhnlicher als die anderen ist.
+
+.. figure:: bilder/tab1/tab1-fig15.pdf
+    :width: 800px
+    :align: center
+    :alt: Fig. XV.: D Moll im Aufsteigen
+
+    Fig. XV.: D Moll im Aufsteigen
+
+.. rubric:: §42
+
+D Moll im Absteigen finden wir bei Fig. XVI. mit zweierlei Arten von Setzung der Finger für jede Hand. Die beiden, welche am weitesten von den Noten entfernt stehen, sind wegen des vorkommenden halben Tones nicht die besten, welcher hier gerne den Daumen in das a verlangt.
+
+.. figure:: bilder/tab1/tab1-fig16.pdf
+    :width: 800px
+    :align: center
+    :alt: Fig. XVI.: D Moll im Absteigen
+
+    Fig. XVI.: D Moll im Absteigen
+
+.. rubric:: §43
+
+B Dur hat nur diese einzige bei Fig. XVII. angemerkte Applicatur so wohl im Auf- als Absteigen.
+
+.. figure:: bilder/tab1/tab1-fig17.pdf
+    :width: 800px
+    :align: center
+    :alt: Fig. XVII.: B Dur im Aufsteigen
+
+    Fig. XVII.: B Dur im Aufsteigen
+
+.. rubric:: §44
+
+G Moll im Aufsteigen hat bei Fig. XVIII. in der rechten Hand zweierlei, und in der linken Hand dreierlei Arten von Finger-Setzung. Die nächste über den Noten und entfernteste unter den Noten sind der im :ref:`fingersetzung-paragraph-33` angeführten Regel gemäß;
+die anderen können dem ohngeachtet in gewissen Fällen auch gute Dienste tun.
+
+.. figure:: bilder/tab1/tab1-fig18.pdf
+    :width: 800px
+    :align: center
+    :alt: Fig. XVIII.: G Moll im Aufsteigen
+
+    Fig. XVIII.: G Moll im Aufsteigen
+
+.. rubric:: §45
+
+G Moll im Absteigen ist nach Fig. XIX. nur einfach. Man wird von selbst begreifen, wenn eine Passagie nicht just sich so anfinge, was man im Anfange vor einen Finger einsetzen müsste.
+
+.. figure:: bilder/tab1/tab1-fig19.pdf
+    :width: 800px
+    :align: center
+    :alt: Fig. XIX.: G Moll im Absteigen
+
+    Fig. XIX.: G Moll im Absteigen
+
+.. rubric:: §46
+
+D Dur im Aufsteigen bei Fig. XX. hat in der rechten Hand nur eine, in der Linken aber drei Arten von Applikaturen; die nächste unter den Noten ist nach der Regel wegen Einsetzung des Daumens und in allerlei Arten von Passagien, welche nicht eben sich so anfangen und endigen, wie hier vorgeschrieben ist, zu brauchen; im übrigen sind die anderen beiden, bei diesem Falle besonders auch gut und zu üben. Die mittelste im Basse beweist den im :ref:`fingersetzung-paragraph-35` angeführten Vorzug dieses Überschlagens.
+
+.. figure:: bilder/tab1/tab1-fig20.pdf
+    :width: 800px
+    :align: center
+    :alt: Fig. XX.: D Dur im Aufsteigen
+
+    Fig. XX.: D Dur im Aufsteigen
+
+.. rubric:: §47
+
+D Dur im Absteigen zeigt in Fig. XXI. für die rechte Hand dreierlei und für die linke zweierlei Finger-Setzung, wovon jede in ihrer Art brauchbar ist.
+
+.. figure:: bilder/tab1/tab1-fig21.pdf
+    :width: 800px
+    :align: center
+    :alt: Fig. XXI.: D Dur im Absteigen
+
+    Fig. XXI.: D Dur im Absteigen
+
+.. rubric:: §48
+
+H Moll im Aufsteigen findet sich bei Fig. XXII. für beide Hände einfach. 
+Wenn die Passagie nicht just sich anfängt wie hier steht, so setzet man in der linken Hand an statt des vierten Fingers den Daumen ein. 
+Dieses merken wir überhaupt bei allen Skalen, daß, nach verändertem Anfange, der Finger eingesetzt werden muß, welcher in der Folge über der Oktave steht. Bei der rechten Hand findet sich eine unvermeidliche Ausnahme wider die im :ref:`fingersetzung-paragraph-33` angeführte Regel. 
+Wer solche Regel gut in den Fingern hat, muß wohl acht haben, damit er nicht den Daumen statt des e, in das d setze. Dieser Punkt macht diese Scale etwas verführerisch.
+
+.. figure:: bilder/tab1/tab1-fig22.pdf
+    :width: 800px
+    :align: center
+    :alt: Fig. XXII.: H Moll im Aufsteigen
+
+    Fig. XXII.: H Moll im Aufsteigen
+
+.. rubric:: §49
+
+H Moll im Absteigen treffen wir bei Fig. XXIII. einfach an. 
+Man könnte auch mit dem kleinen Finger in der rechten Hand anfangen und den Daumen ins e, und hierauf den dritten Finger ins d setzen, daß hernach der Daumen wieder in die Oktave käme; Allein diese Applicatur, ob sie schon zu gebrauchen, und nicht Unrecht ist, ist nur eine Oktave durch gut, weiter herunter dürfte leicht eine Verwirrung entstehen.
+
+.. figure:: bilder/tab1/tab1-fig23.pdf
+    :width: 800px
+    :align: center
+    :alt: Fig. XXIII.: H Moll im Absteigen
+
+    Fig. XXIII.: H Moll im Absteigen
+
+.. _fingersetzung-paragraph-50:
+
+.. rubric:: §50
+
+A Dur im Aufsteigen finden wir unter Fig. XXIV. mit einer Applicatur für die rechte und zweien für die linke Hand. Die nächste unter den Noten ist nach der oft angeführten Regel, und bei allerlei Fällen brauchbarer als die so darunter steht, ungach sie auch zuweilen nötig sein kann.
+
+.. figure:: bilder/tab1/tab1-fig24.pdf
+    :width: 800px
+    :align: center
+    :alt: Fig. XXIV.: A Dur im Aufsteigen
+
+    Fig. XXIV.: A Dur im Aufsteigen
+
+.. rubric:: §51
+
+A Dur im Absteigen zeigt Fig. XXV. einfach. 
+Es versteht sich von selbst, wie wir schon gehört haben, daß, wenn der Anfang nicht eben so ist, wie hier, in der rechten Hand statt des kleinen Fingers der Daumen eingesetzt werden muß, und wenn eine Passagie aus dieser Tonart mit dem Grund-Tone sich anfängt, anstatt 2, 3, 4, für die linke Hand, 1, 2, 3, stehen muß.
+
+.. figure:: bilder/tab1/tab1-fig25.pdf
+    :width: 800px
+    :align: center
+    :alt: Fig. XXV.: A Dur im Absteigen
+
+    Fig. XXV.: A Dur im Absteigen
+
+.. rubric:: §52
+
+Fis Moll im Aufsteigen sehen wir bei Fig. XXVI. einfach. Weiter ist hierbei nichts zu merken, als der Nutzen von der im :ref:`fingersetzung-paragraph-33` angeführten Regel, welcher die nunmehr noch vorkommende Skalen, jemehr Versetzungs-Zeichen sie haben, und jemehr halben Töne dabei vorkommen, desto einfacher und desto weniger gefährlich, folglich zur Übung ganz leichte machen wird.
+
+.. figure:: bilder/tab1/tab1-fig26.pdf
+    :width: 800px
+    :align: center
+    :alt: Fig. XXVI.: Fis Moll im Aufsteigen
+
+    Fig. XXVI.: Fis Moll im Aufsteigen
+
+.. rubric:: §53
+
+Fis Moll im Absteigen hat nach Fig. XXVII. mit A Dur einerlei Finger-Setzung, die einzige im Aufsteigen für die linke Hand, welche, wie wir im :ref:`fingersetzung-paragraph-50` gesehen haben, nur dann und wann zu gebrauchen ist, ausgenommen. 
+Wir werden aus der Folge ersehen, daß nunmehr alle noch vorkommende weiche Ton-Arten im Absteigen einerlei Applicatur mit den harten Ton-Arten annehmen, welche einerlei Versetzungs-Zeichen mit jenen gemein haben, oder, wegen Angrenzung der Ton-Arten mit den kreuzen an die mit Been noch deutlicher zu sagen, deren Grund-Ton die kleine Terzie von der weichen Ton-Art ist.
+
+.. figure:: bilder/tab1/tab1-fig27.pdf
+    :width: 800px
+    :align: center
+    :alt: Fig. XXVII.: Fis Moll im Absteigen
+
+    Fig. XXVII.: Fis Moll im Absteigen
+
+.. rubric:: §54
+
+E Dur hat bei Fig. XXVIII. für beide Hände so wohl im Aufsteigen als auch im Absteigen einerlei einfache Finger-Ordnung. 
+Cis Moll im Absteigen hat dieselbe. 
+Da jedem aus dem vorigen die Leitern von den absteigenden weichen Ton-Arten bekannt sein können, so werde ich die Abbildung derselben, in so fern sie keine besondere Applicatur haben, als etwas überflüssiges weglassen.
+
+.. figure:: bilder/tab1/tab1-fig28.pdf
+    :width: 800px
+    :align: center
+    :alt: Fig. XXVIII.: E Dur im Aufsteigen
+
+    Fig. XXVIII.: E Dur im Aufsteigen
+
+.. rubric:: §55
+
+Cis Moll im Aufsteigen nach Fig. XXIX. hat eine einzige mögliche gute Finger-Setzung.
+
+.. figure:: bilder/tab1/tab1-fig29.pdf
+    :width: 800px
+    :align: center
+    :alt: Fig. XXIX.: Cis Moll im Aufsteigen
+
+    Fig. XXIX.: Cis Moll im Aufsteigen
+
 
 Nicht korrigierte OCR-Texte
 ++++++++++++++++++++++++++++

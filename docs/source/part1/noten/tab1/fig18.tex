@@ -1,0 +1,172 @@
+\documentclass[varwidth, border={8mm 2mm 8mm 2mm}]{standalone}
+\usepackage{graphicx} % Required for inserting images
+\usepackage{musixtex}
+
+% thicker ledger lines
+\def\myhlthick{1.5\lthick}
+\makeatletter
+\def\h@linei{%
+  \y@ii\n@v\internote
+  \y@iii\y@ii
+  \advance\y@ii\myhlthick
+  \advance\y@iii-\myhlthick
+  \y@vi\noteskip			% noteskip
+%-\ifnum\y@vi=\z@ \y@vi\maxdimen\fi	% (or maxdimen if noteskip = 0)
+  \advance\y@vi-\y@v			% - notewidth
+  \y@vi0.7\y@vi				% this may be eaten =: additional length
+  \y@iv\h@lf\qn@width\ifnum\y@vi>\y@iv \y@vi\y@iv\fi % not more than 0.5 qn@width
+  \y@iv0.2\qn@width  \ifnum\y@vi<\y@iv \y@vi\y@iv\fi % not less than 0.2 qn@width
+  \y@iv\y@v				% notewidth
+  \advance\y@iv\y@vi			% + additional length =: total length
+  \kernm\h@lf\y@vi			% center the ledger line
+%-\message{noteskip = \the\noteskip, length = \the\y@iv, notewidth = \the\y@v}%
+  \vrule\@height\y@ii\@depth-\y@iii\@width\y@iv
+  \kernm\y@iv\kern\h@lf\y@vi}
+
+% same adapted from MUSIXFLL.TEX
+
+\ifx\undefined\longledgerlines \else \endinput \fi
+
+\immediate\write10{MusiXFormerLedgerLines T.74\space<06 April 1997>}%
+
+%\edef\catcodeat{\the\catcode`\@}\catcode`\@=11
+
+\let\h@lineick\h@linei
+\def\h@lineidt{%
+  \y@ii\n@v\internote
+  \y@iii\y@ii
+  \advance\y@ii\myhlthick
+  \advance\y@iii-\myhlthick
+  \y@iv\y@v
+  \advance\y@iv\h@lf\qn@width
+  \kernm.25\qn@width
+  \vrule\@height\y@ii\@depth-\y@iii\@width\y@iv
+  \kernm\y@iv\kern.25\qn@width}
+\def\longledgerlines{\global\let\h@linei\h@lineidt}
+\def\autoledgerlines{\global\let\h@linei\h@lineick}
+\longledgerlines
+%\catcode`\@=\catcodeat
+
+% space between signatures and first note at each system:
+
+\def\contpiece{\noindent \piece@conta \writ@staffs \piece@beginc
+%  \Writ@meters \wbarno@x \hardspace{10pt}\addspace\afterruleskip
+  \Writ@meters \wbarno@x \hardspace{.3\elemskip}\addspace\afterruleskip}
+%                        ^^^^^^^^^^^^^^^^^^^^^^^
+
+% missing pixels at some beam ends:
+\def\beamst@m{% queue de note vers une poutre
+  \getcurpos \advance\y@v-\b@x
+  \y@ii\b@p\y@v \divide\y@ii\tw@nty \advance\y@ii\b@z
+  \ifdim\y@ii>\st@top % la poutre est au-dessus
+    \stem@skip\qd@skip \comp@slope\stem@skip \advance\y@ii\s@lope
+    \advance\y@ii .25\interbeam% hack
+    \ifnum\b@n>\z@ \advance\y@ii\b@n\interbeam \advance\y@ii-\interbeam \fi
+    \st@top\y@ii % a mettre a jour avec la pente ulterieurement
+  \else
+    \advance\y@ii-.25\interbeam% hack
+    \stem@skip\z@
+    \ifdim\y@ii<\st@bot
+      \ifnum\b@n<\z@ \advance\y@ii\b@n\interbeam \advance\y@ii\interbeam \fi
+      \st@bot\y@ii \fi \fi
+  \C@stem}
+
+\makeatother
+
+
+\input musixbbm
+\input musixadd
+\input rotate
+
+%\newcommand{\myparag}[1]{\paragraph\S{#1}.~}
+\newcommand{\myparag}[1]{\S~{#1}.~}
+\newcommand{\mypar}[1]{\S~{#1}}
+%\newcommand{\zcn}[2]{\zcharnote{#1}{#2}}
+%\newcommand{\ccn}[2]{\ccharnote{#1}{#2}}
+\newcommand{\Do}{\textit{do}\xspace}
+\newcommand{\RRe}{\textit{r\'e }}% \Re d�ja utilis� ?
+\newcommand{\Mi}{\textit{mi}\xspace}
+\newcommand{\Fa}{\textit{fa}\xspace}
+\newcommand{\Sol}{\textit{sol}\xspace}
+\newcommand{\La}{\textit{la}\xspace}
+\newcommand{\Si}{\textit{si}\xspace}
+%\newcommand{\bemol}{\hspace{1mm}\bigfl1\hspace{2mm}}
+%\newcommand{\dieze}{\hspace{1mm}\bigsh1\hspace{2mm}}
+\newcommand{\bemol}{\raise.5ex\hbox{\musixchar50}\kern.25em}
+\newcommand{\dieze}{\raise.5ex\hbox{\musixchar52}\kern.25em}
+\newcommand{\appog}{\multnoteskip\tinyvalue\tinynotesize}
+\newcommand{\etc}[1]{\appog\Shakene#1}
+\newcommand{\myfrac}[2]{\hspace{1mm}\raisebox{1.6mm}{\small #1}%
+\hspace{-2mm}\raisebox{-1.6mm}{\small #2}\hspace{1mm}}
+\newcommand{\Endextract}{\setdoublebar\endextract}
+%\newcommand{\Changeclefs}{\doublebar\changeclefs\qspace}
+
+\newcommand{\twoextr}[4]
+{\let\extractline\hbox
+\hbox to \hsize{
+\setname1{#1}
+\hfill
+\startextract #2
+\Endextract\hfill
+\setname1{#3}
+\startextract #4
+\Endextract
+\hfill}
+
+\let\extractline\centerline}
+
+\newcommand{\twoextrbis}[5]%   m\^eme commande avec un argument de plus
+{\let\extractline\hbox%  pour changer de mesure, etc.
+\hbox to \hsize{
+\setname1{#1}
+\hfill
+\startextract #2
+\Endextract\hfill
+#3
+\setname1{#4}
+\startextract #5
+\Endextract
+\hfill}
+
+\let\extractline\centerline}
+
+\def\ztqb#1#2{\tbl{#1}\zqb{#1}{#2}}%
+\def\dgta#1{\roffset{.2}{\zcharnote{#1}{\smalltype 1}}}
+\def\dgtb#1{\roffset{.2}{\zcharnote{#1}{\smalltype 2}}}
+\def\dgtc#1{\roffset{.2}{\zcharnote{#1}{\smalltype 3}}}
+\def\dgtd#1{\roffset{.2}{\zcharnote{#1}{\smalltype 4}}}
+\def\dgte#1{\roffset{.2}{\zcharnote{#1}{\smalltype 5}}}
+\def\dgtf#1{\roffset{.2}{\zcharnote{#1}{\smalltype 6}}}
+\def\mytr#1{\zcharnote{#1}{\ppfftwenty tr}}
+\def\rayeu#1{\loffset{.5}{\rlap{\varline{#1}{.5\noteskip}{15}}}}
+\def\rayed#1{\loffset{.1}{\zcharnote{#1}{\smalltype $\backslash$}}}
+\def\monte#1{\raise#1\Interligne}%
+\def\notess{\vnotes1.5\elemskip}
+
+
+\accshift=0mm
+\nobarmessages\nostartrule
+\let\extractline\centerline
+
+%%%%%%%%%%%%%% =================== %%%%%%%%%%%%%%
+%                    Content 
+%%%%%%%%%%%%%% =================== %%%%%%%%%%%%%%
+
+\begin{document}
+
+\startextract
+\notes\zcn n{$\ast$}\zcn J{$\ast$}\qsk\en
+\NOtes\dgtb J\dgtd M\dgtd b\dgta n\dgta q\nq g\en
+\NOtes\dgta J\dgtc M\dgtc b\dgtb n\dgtb q\nq h\en
+\NOtes\dgtd J\dgtb M\dgtb b\dgtc n\dgtc q\nq{_i}\en
+\NOtes\dgtc J\dgta M\dgta b\dgta n\dgtd q\nq j\en
+\NOtes\dgtb J\dgtb M\dgtd b\dgtb n\dgtc q\nq k\en
+\NOtes\dgta J\dgta M\dgtc b\dgtc n\dgtd q\nq l\en
+\NOtes\dgtc J\dgtb M\dgtb b\dgtd o\dgtc r\nq{^m}\en
+\NOtes\dgtb J\dgta M\dgta b\dgta p\dgta s\nq n\en
+\NOtes\dgta J\dgtc M\dgtc b\dgtb q\dgtb t\nq o\en
+\notes\etc p\lfl p\sk\en
+\Endextract
+
+\end{document}
+
