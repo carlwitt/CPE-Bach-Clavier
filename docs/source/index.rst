@@ -33,6 +33,24 @@ Ich habe diese Fassung erstellt, um das Buch breiter zugänglich zu machen.
 Im Vergleich zu den Faksimile-Ausgaben ist sie wesentlich einfacher zu navigieren und verfügt über einen rudimentären Stichwortindex, den ich händisch erstellt habe.
 Diese Fassung ist auch besser lesbar, da die Frakturschrift des Originals gewöhnungsbedürftig und die Notationsbeispiele oft im Sopranschlüssel gesetzt sind.
 
+.. Rubric:: Inhaltsverzeichnis
+
+.. toctree::
+    :maxdepth: 8
+
+    part1/00_Titelblatt
+    part1/01_Vorrede
+    part1/02_Einleitung
+    part1/03_Fingersetzung
+    part1/04_Manieren
+    part1/05_Vortrag
+    genindex
+
+.. Rubric:: Dieses Projekt ist im Aufbau
+
+Dieses Projekt ist noch nicht abgeschlossen. Es wurde im August 2024 begonnen. Einen Einblick über den Fortschritt gibt die `Liste der letzten Änderungszeitpunkte <https://readthedocs.org/projects/cpe-bach-versuch-uber-die-wahre-art-das-clavier-zu-spielen/builds/>`_. Dort wird jedes Mal ein neuer Eintrag vorgenommen, wenn ich Änderungen an den Texten vorgenommen habe, die lose auch im `GitHub-Repository <https://github.com/carlwitt/CPE-Bach-Clavier/commits/main/>`_ dokumentiert sind.
+Viele Abschnitte sind bereits transkribiert, aber noch nicht korrekturgelesen, wie durch die jeweiligen Trennüberschriften gekennzeichnet.
+
 .. _quellenangaben-und-danksagung:
 
 .. Rubric:: Quellen, Urheberrecht und Danksagungen
@@ -95,15 +113,5 @@ Verbesserungen und Korrekturen können gerne über GitHub vorgeschlagen werden.
 
 .. Rubric:: Über mich
 
-Mein Name ist `Carl Witt <https://carlwitt.github.io>`_.
-Ich bin Amateurmusiker und habe diese Transkription als Freizeitprojekt ohne Anspruch auf Wissenschaftlichkeit oder Vollständigkeit erstellt.
-
-.. Rubric:: Inhaltsverzeichnis
-
-.. toctree::
-   :maxdepth: 8
-
-   part1/00_Titelblatt
-   part1/01_Vorrede
-   part1/aggregate
-
+Mein Name ist `Carl Witt <https://sites.google.com/view/carl-witt/work-and-education>`_.
+Ich bin Amateurmusiker und erstelle diese Transkription als Freizeitprojekt ohne Anspruch auf Wissenschaftlichkeit oder Vollständigkeit erstellt.
