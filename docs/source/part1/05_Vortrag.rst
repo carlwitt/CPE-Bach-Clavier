@@ -2,6 +2,14 @@
 Das dritte Hauptstück. Vom Vortrage.
 ************************************************
 
+.. index::
+    single: Sanftheit
+    single: Blattspiel
+    single: Virtuosität
+    single: Tempo; Wahl des
+    single: Allegro
+    single: Adagio
+
 .. rubric:: §1
 
 Es ist unstreitig ein Vorurteil, als wenn die Stärke eines Klavieristen in der bloßen Geschwindigkeit bestünde. 
@@ -32,10 +40,18 @@ Man kann durch die Verschiedenheit desselben einerlei Gedanken dem Ohr so verän
 
 .. [#einerlei] Man kann einen Gedanken so unterschiedlich vortragen, dass er kaum noch wiederzuerkennen ist.
 
+.. index::
+    single: Ausdrucksmittel
+
 .. rubric:: §3
 
 Die Gegenstände des Vortrages sind die Stärke und Schwäche der Töne, ihr Druck, Schnellen, Ziehen, Stossen, Beben, Brechen, Halten, Schleppen und Fortgehen. 
 Wer diese Dinge entweder gar nicht oder zur unrechten Zeit gebraucht, der hat einen schlechten Vortrag.
+
+.. index::
+    single: Vortrag; Einfluss des Instruments
+    single: Raserei
+    single: Zorn
 
 .. rubric:: §4
 
@@ -47,6 +63,12 @@ Diese Anmerkung, die schon im Eingange gemacht worden, wiederhole ich allhier de
 Auch in den geschwindesten Gedanken muß man hierbei jeder Note ihren gehörigen Druck geben; sonsten ist der Anschlag ungleich und undeutlich. 
 Diese Gedanken werden gemeiniglich nach der bei den Trillern angeführten Art geschnellt.
 
+.. index::
+    single: Allegro
+    single: Adagio
+    single: Staccato
+    single: Legato
+
 .. rubric:: §5
 
 Die Lebhaftigkeit des Allegro wird gemeiniglich in gestoßenen Noten und das Zärtliche des Adagio in getragenen und geschleiften Noten vorgestellt. 
@@ -54,6 +76,10 @@ Man hat also beim Vortrage darauf zu sehen, daß diese Art und Eigenschaft des A
 Ich setze oben mit Fleiß gemeiniglich, weil ich wohl weiß, daß allerhand Arten von Noten bei allerhand Arten der Zeitmaße vorkommen können. [#gemeiniglich]_
 
 .. [#gemeiniglich] Ich setze (schreibe) mit Fleiß (bewusst) gemeiniglich (im Sinne von "für gewöhnlich"), weil ich wohl weiß, ...
+
+.. index::
+    single: Legato; übertriebenes
+    single: Staccato; übertriebenes
 
 .. rubric:: §6
 
@@ -68,45 +94,90 @@ Die Mittelstrasse ist die beste; ich rede hiervon überhaupt; alle Arten des Ans
 Wegen Mangel des langen Tonhaltens und des vollkommenen Ab- und Zunehmen des Tones, welches man nicht Unrecht durch Schatten und Licht malerisch ausdrückt, ist es keine geringe Aufgabe, auf unserem Instrumente ein Adagio singend zu spielen, ohne durch zu wenige Ausfüllungen zu viel Zeitraum und Einfalt blicken zu lassen, oder durch zu viele bunte Noten undeutlich und lächerlich zu werden. 
 Indessen, da die Sänger und diejenigen Instrumentisten, die diesen Mangel nicht empfinden, ebenfalls nur selten die langen Noten ohne Zieraten vortragen dürfen, um keine Ermüdung und Schläfrigkeit blicken zu lassen, und da bei unserem Instrumente dieser Mangel vorzüglich durch verschiedene Hilfsmittel, harmonische Brechungen, und dergleichen hinlänglich ersetzet wird, über dieses auch das Gehör auf dem Klaviere mehr Bewegung leiden kann, als sonsten: 
 so kann man mit gutem Erfolge Proben ablegen, womit man zufrieden sein kann, man müßte denn besonders wider das Klavier eingenommen sein. 
-Die Mittelstrasse ist freilich schwer hierinnen zu finden, aber doch nicht unmöglich; zudem so sind unsere meisten Hilfsmittel zum Aushalten, z E. die Triller und Mordenten, bei der Stimme und anderen Instrumenten so gut gewöhnlich als bei dem unsrigen. 
+Die Mittelstrasse ist freilich schwer hierinnen zu finden, aber doch nicht unmöglich; zudem so sind unsere meisten Hilfsmittel zum Aushalten, z. B. die Triller und Mordenten, bei der Stimme und anderen Instrumenten so gut gewöhnlich als bei dem unsrigen. 
 Es müssen aber alle diese Manieren rund und dergestalt vorgetragen werden, daß man glauben sollte, man höre bloße simple Noten. 
 Es gehört hierzu eine Freiheit, die alles sklavische und maschinenmäßige ausschließt. 
 Aus der Seele muß man spielen, und nicht wie ein abgerichteter Vogel. 
 Ein Klavierist von dieser Art verdienet allezeit mehr Dank als ein anderer Musikus. 
 Diesem letzteren ist es eher zu verdenken, wenn er bizarr singt oder spielt, als jenem.
 
-Nicht korrigierte OCR-Texte
-++++++++++++++++++++++++++++
+.. index::
+    single: Abhören
 
 .. _vortrag-paragraph-8:
 
 .. rubric:: §8
 
-Um eine Einsicht in den wahren Inhalt und Affekt eines Stückes zu erlangen, und in Ermangelung der nötigen Zeichen, die darinnen vorkommenden Noten zu beurteilen, ob sie geschleift oder gestoßen u. s. w. werden sollen, ingleichen, was bei Anbringung der Manieren in Acht zu nehmen ist, tut man wohl, daß man sich Gelegenheit verschaffet, so wohl einzelne Musicos als ganze Musikübende Gesellschaften zu hören. Dieses ist um so viel nötiger, je mehreren zufälligen Dingen meistenteils diese Schönheiten unterworfen sind. Man muß die Manieren in einer nach dem Affekt abgemeßenen Stärke und Einteilung des Takts anbringen. Wiewohl man, um nicht undeutlich zu werden, alle Pausen so wohl als Noten nach der Stränge der erwählten Bewegung halten muß, ausgenommen in Fermaten und Kadenzen: So kann man doch öfters die schönsten Fehler wider den Takt mit Fleiß begehen, doch mit diesem Unterschied, daß, wenn man alleine oder mit wenigen und zwar verständigen Personen spielt, solches dergestalt geschehen kann, daß man der ganzen Bewegung zuweilen einige Gewalt antut; die Begleitenden werden darüber, anstatt sich irren zu lassen, vielmehr aufmerksam werden, und in unsere Absichten einschlagen; daß aber, wenn man mit starker Begleitung, und zwar wenn selbige aus vermischten Personen von ungleicher Stärke besteht, man bloß in seiner Stimme allein wider die Einteilung des Takts eine Änderung vornehmen kann, indem die Hauptbewegung desselben genau gehalten werden muß.
+Um eine Einsicht in den wahren Inhalt und Affekt eines Stückes zu erlangen, und in Ermangelung der nötigen Zeichen, die darinnen vorkommenden Noten zu beurteilen, ob sie geschleift oder gestoßen u.s.w. werden sollen, ingleichen, was bei Anbringung der Manieren in Acht zu nehmen ist, tut man wohl, daß man sich Gelegenheit verschaffet, so wohl einzelne Musicos als ganze musikübende Gesellschaften zu hören. 
+Dieses ist um so viel nötiger, je mehreren zufälligen Dingen meistenteils diese Schönheiten unterworfen sind. 
+Man muß die Manieren in einer nach dem Affekt abgemeßenen Stärke und Einteilung des Takts anbringen. 
+Wiewohl man, um nicht undeutlich zu werden, alle Pausen so wohl als Noten nach der Strenge der erwählten Bewegung halten muß, ausgenommen in Fermaten und Kadenzen: So kann man doch öfters die schönsten Fehler wider den Takt mit Fleiß begehen, doch mit diesem Unterschied, daß, wenn man alleine oder mit wenigen und zwar verständigen Personen spielt, solches dergestalt geschehen kann, daß man der ganzen Bewegung zuweilen einige Gewalt antut; die Begleitenden werden darüber, anstatt sich irren zu lassen, vielmehr aufmerksam werden, und in unsere Absichten einschlagen; daß aber, wenn man mit starker Begleitung, und zwar wenn selbige aus vermischten Personen von ungleicher Stärke besteht, man bloß in seiner Stimme allein wider die Einteilung des Takts eine Änderung vornehmen kann, indem die Hauptbewegung desselben genau gehalten werden muß.
+
+.. index::
+    single: Konzert; Vorbereitung
 
 .. rubric:: §9
 
-Alle Schwierigkeiten in Passagien sind durch eine starke Übung zu erlernen, und erfordern in der Tat nicht so viele Mühe als der gute Vortrag einfacher Noten. Diese machen manchem zu schaffen, welcher das Klavier für simpler hält als es ist. So faustfertig man unterdessen sei: so traue man sich nicht mehr zu als man bezwingen kann, wenn man öffentlich spielt, indem man alsdann selten in der gehörigen Gelassenheit, auch nicht allezeit gleich aufgeräumt ist. Seine Fähigkeit und Disposition kann man an den geschwindesten und schwersten Passagien abmessen, damit man sich nicht übertreibe und hernach stecken bleibe. Diejenigen Gänge, welche zu Hause mit Mühe und sogar nur dann und wann glücken, muß man öffentlich weglassen, man müßte denn in einer ganz besonderen Fassung des Gemütes sein. Auch durch Probierung der Triller und anderer kleinen Manieren kann man das Jnstrumeut zuvor erforschen. Alle diese Vorsichten sind aus zweierlei Ursachen notwendig, erstlich, damit der Vortrag leicht und fließend sei, und ferner, damit man gewisse ängstliche gebärden vermeiden könne, die die Zuhörer, anstatt sie zu ermuntern, vielmehr verdrießlich machen müssen.
+Alle Schwierigkeiten in Passagien sind durch eine starke Übung zu erlernen, und erfordern in der Tat nicht so viele Mühe als der gute Vortrag einfacher Noten. 
+Diese machen manchem zu schaffen, welcher das Klavier für simpler hält als es ist. 
+So faustfertig man unterdessen sei: so traue man sich nicht mehr zu als man bezwingen kann, wenn man öffentlich spielt, indem man alsdann selten in der gehörigen Gelassenheit, auch nicht allezeit gleich aufgeräumt ist. 
+Seine Fähigkeit und Disposition kann man an den geschwindesten und schwersten Passagien abmessen, damit man sich nicht übertreibe und hernach stecken bleibe. 
+Diejenigen Gänge, welche zu Hause mit Mühe und sogar nur dann und wann glücken, muß man öffentlich weglassen, man müßte denn in einer ganz besonderen Fassung des Gemütes sein. 
+Auch durch Probierung der Triller und anderer kleinen Manieren kann man das Instrumeut zuvor erforschen.
+Alle diese Vorsichten sind aus zweierlei Ursachen notwendig, erstlich, damit der Vortrag leicht und fließend sei, und ferner, damit man gewisse ängstliche gebärden vermeiden könne, die die Zuhörer, anstatt sie zu ermuntern, vielmehr verdrießlich machen müssen.
+
+.. index::
+    single: Allegro
+    single: Adagio
 
 .. rubric:: §10
 
-Der Grad der Bewegung läßt sich so wohl nach dem Inhalte des Stückes überhaupt, den man durch gewisse bekannte italienische Kunst-Wörter anzuzeigen pflegt, als besonders aus den geschwindesten Noten und Figuren darinnen beurteilen. Bei dieser Untersuchung wird man sich in den Stand setzen, weder im Allegro übereilend, noch im Adagio zu schläfrig zu werden.
+Der Grad der Bewegung läßt sich so wohl nach dem Inhalte des Stückes überhaupt, den man durch gewisse bekannte italienische Kunstwörter anzuzeigen pflegt, als besonders aus den geschwindesten Noten und Figuren darinnen beurteilen. 
+Bei dieser Untersuchung wird man sich in den Stand setzen, weder im Allegro übereilend, noch im Adagio zu schläfrig zu werden.
 
 .. rubric:: §11
 
 Die begleitenden Stimmen muß man, soviel möglich, von derjenigen Hand verschonen, welche den herrschenden Gesang führt, damit sie selbigen mit aller Freiheit ungehindert geschickt herausbringen könne.
 
+.. index::
+    single: Abhören
+    single: Cantabile
+
 .. rubric:: §12
 
-Wir haben im :ref:`vortrag-paragraph-8` als ein Mittel, den guten Vortrag zu erlernen, die Besuchung guter Musiken vorgeschlagen. Wir fügen allhier noch hinzu, daß man keine Gelegenheit verabsäumen müsse, geschickte Sänger besonders zu hören: Man lernet dadurch singend denken, und wird man wohl tun, daß man sich hernach selbst einen Gedanken vorsinget, um den rechten Vortrag desselben zu treffen. Dieses wird allezeit von größerem Nutzen sein, als solches aus weitläufigen Büchern und Diskursen zu hohlen, worin man von nichts anderem als von Natur, Geschmack, Gesang, Melodie, höret, ungeachtet ihre Urheber öfters nicht im Stande sind, zwei Noten zu setzen, welche natürlich, schmackhaft, singend und melodisch sind, da sie doch gleichwohl alle diese Gaben und Vorzüge nach ihrer Willkür bald diesem bald jenem, jedoch meistens mit einer unglücklichen Wahl, austeilen.
+Wir haben im :ref:`vortrag-paragraph-8` als ein Mittel, den guten Vortrag zu erlernen, die Besuchung guter Musiken vorgeschlagen. 
+Wir fügen allhier noch hinzu, daß man keine Gelegenheit verabsäumen müsse, geschickte Sänger besonders zu hören: Man lernet dadurch singend denken, und wird man wohl tun, daß man sich hernach selbst einen Gedanken vorsinget, um den rechten Vortrag desselben zu treffen. 
+Dieses wird allezeit von größerem Nutzen sein, als solches aus weitläufigen Büchern und Diskursen zu holen, worin man von nichts anderem als von Natur, Geschmack, Gesang, Melodie, höret, ungeachtet ihre Urheber öfters nicht im Stande sind, zwei Noten zu setzen, welche natürlich, schmackhaft, singend und melodisch sind, da sie doch gleichwohl alle diese Gaben und Vorzüge nach ihrer Willkür bald diesem bald jenem, jedoch meistens mit einer unglücklichen Wahl, austeilen.
+
+.. index::
+    single: Mit-Empfinden
+    single: Konzert; Gemütsempfindungen
+    single: Kopfkino
+    single: Zärtlichkeit
 
 .. rubric:: §13
 
-Indem ein Musikus nicht anders rühren kann, er sei dann selbst gerührt; so muß er notwendig sich selbst in alle Affekten setzen können, welche er bei seinen Zuhörern erregen will; er gibt ihnen seine Empfindungen zu verstehen und bewegt sie solchergestalt am besten zur Mit-Empfindung. Bei matten und traurigen Stellen wird er matt und traurig. Man sieht und hört es ihm an. Dieses geschieht ebenfalls bei heftigen, lustigen, und anderen Arten von Gedanken, wo er sich alsdann in diese Affekten setzet. Kaum, daß er einen stillt, so erregt er einen anderen, folglich wechselt er beständig mit Leidenschaften ab. Diese Schuldigkeit beobachtet er überhaupt bei Stücken, welche ausdrückend gesetzt sind, sie mögen von ihm selbst oder von jemanden anders herrühren; im letzteren Falle muß er dieselbe Leidenschaften bei sich empfinden, welche der Urheber des fremden Stücks bei dessen Verfertigung hatte. Besonders aber kann ein Klavieriste vorzüglich auf allerlei Art sich der Gemüter seiner Zuhörer durch Fantasien aus dem Kopfe bemeistern. Daß alles dieses ohne die geringsten Gebärden abgehen könne, wird derjenige bloß leugnen, welcher durch seine Unempfindlichkeit genötigt ist, wie ein geschnitztes Bild vor dem Instrumente zu sitzen. So unanständig und schädlich häßliche gebärden sind: so nützlich sind die guten, indem sie unseren Absichten bei den Zuhörern zu Hilfe kommen. Diese letzteren Ausüber machen ungeachtet ihrer Fertigkeit ihren sonst nicht üblen Stücken oft selbst schlechte Ehre. Sie wissen nicht, was darinnen steckt, weil sie es nicht herausbringen können. Spielt solche Stücke aber ein anderer, welcher zärtliche Empfindungen besitzet, und den guten Vortrag in seiner Gewalt hat; so erfahren sie mit Verwunderung, daß ihre Werke mehr enthalten, als sie gewusst und geglaubt haben. Man sieht hieraus, daß ein guter Vortrag auch ein mittelmäßiges Stück erheben, und ihm Beifall erwerben kann.
+Indem ein Musikus nicht anders rühren kann, er sei dann selbst gerührt; so muß er notwendig sich selbst in alle Affekten setzen können, welche er bei seinen Zuhörern erregen will; er gibt ihnen seine Empfindungen zu verstehen und bewegt sie solchergestalt am besten zur Mit-Empfindung. 
+Bei matten und traurigen Stellen wird er matt und traurig. 
+Man sieht und hört es ihm an. 
+Dieses geschieht ebenfalls bei heftigen, lustigen, und anderen Arten von Gedanken, wo er sich alsdann in diese Affekten setzet. 
+Kaum, daß er einen stillt, so erregt er einen anderen, folglich wechselt er beständig mit Leidenschaften ab. 
+Diese Schuldigkeit beobachtet er überhaupt bei Stücken, welche ausdrückend gesetzt sind, sie mögen von ihm selbst oder von jemanden anders herrühren; im letzteren Falle muß er dieselbe Leidenschaften bei sich empfinden, welche der Urheber des fremden Stücks bei dessen Verfertigung hatte. 
+Besonders aber kann ein Klavierist vorzüglich auf allerlei Art sich der Gemüter seiner Zuhörer durch Fantasien aus dem Kopfe bemeistern. 
+Daß alles dieses ohne die geringsten Gebärden abgehen könne, wird derjenige bloß leugnen, welcher durch seine Unempfindlichkeit genötigt ist, wie ein geschnitztes Bild vor dem Instrumente zu sitzen. 
+So unanständig und schädlich häßliche gebärden sind: so nützlich sind die guten, indem sie unseren Absichten bei den Zuhörern zu Hilfe kommen. 
+Diese letzteren Ausüber machen ungeachtet ihrer Fertigkeit ihren sonst nicht üblen Stücken oft selbst schlechte Ehre. 
+Sie wissen nicht, was darinnen steckt, weil sie es nicht herausbringen können. 
+Spielt solche Stücke aber ein anderer, welcher zärtliche Empfindungen besitzet, und den guten Vortrag in seiner Gewalt hat; so erfahren sie mit Verwunderung, daß ihre Werke mehr enthalten, als sie gewusst und geglaubt haben. 
+Man sieht hieraus, daß ein guter Vortrag auch ein mittelmäßiges Stück erheben, und ihm Beifall erwerben kann.
 
 .. rubric:: §14
 
-Aus der Menge der Affekten, welche die Musik erregen kann, sieht man, was für besondere Gaben ein vollkommener Musikus haben müsse, und mit wie vieler Klugheit er sie zu gebrauchen habe, damit er zugleich seine Zuhörer, und nach dieser ihrer Gesinnung den Inhalt seiner vorzutragenden Wahrheiten, den Ort, und andere Umstände mehr in Erwägung ziehe. Da die Natur auf eine so weise Art die Musik mit so vielen Veränderungen begabet hat, damit ein jeder daran Anteil nehmen könne: so ist ein Musikus also auch schuldig, so viel ihm möglich ist, allerlei Arten von Zuhörern zu befriedigen.
+Aus der Menge der Affekten, welche die Musik erregen kann, sieht man, was für besondere Gaben ein vollkommener Musikus haben müsse, und mit wie vieler Klugheit er sie zu gebrauchen habe, damit er zugleich seine Zuhörer, und nach dieser ihrer Gesinnung den Inhalt seiner vorzutragenden Wahrheiten, den Ort, und andere Umstände mehr in Erwägung ziehe. 
+Da die Natur auf eine so weise Art die Musik mit so vielen Veränderungen begabet hat, damit ein jeder daran Anteil nehmen könne: so ist ein Musikus also auch schuldig, so viel ihm möglich ist, allerlei Arten von Zuhörern zu befriedigen.
+
+Nicht korrigierte OCR-Texte
+++++++++++++++++++++++++++++
 
 .. rubric:: §15
 
