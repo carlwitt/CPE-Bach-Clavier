@@ -279,36 +279,99 @@ Die Punkte bei kurzen Noten, worauf ungleich kürzere nachfolgen, werden ausgeha
 Die erste Note von den bei Fig. IX. befindlichen Figuren, weil sie geschleift werden, wird nicht zu kurz abgefertigt, wenn das Tempo gemäßigt oder langsam ist, weil sonst zu viel Zeitraum übrig bleiben würde.
 Diese erste Note wird durch einen gelinden Druck, aber ja nicht durch einen kurzen Stoß oder zu schnellen Ruck markiert.
 
- 
-Nicht korrigierte OCR-Texte
-++++++++++++++++++++++++++++
-
-
 .. rubric:: §25
 
 Bei langen Aushaltungen hat man die Freiheit, die lange gebundene Note dann und wann wieder anzuschlagen Fig. X.
 
+.. index::
+    single: Acciaccatura
+    single: Arpeggio
+
 .. rubric:: §26
 
-Die gewöhnlichen Zeichen der gebrochenen Harmonie sehen wir samt ihrer Wirkung Fig. XI. Unter (*) bemerken wir die Brechungen mit Acciaccaturen. Wenn bei langen Noten das Wort arpeggio steht, so wird die Harmonie einige Mal hinauf und herunter gebrochen.
+Die gewöhnlichen Zeichen der gebrochenen Harmonie sehen wir samt ihrer Wirkung in Fig. XI. 
+Unter (\*) bemerken wir die Brechungen mit Acciaccaturen. 
+Wenn bei langen Noten das Wort arpeggio steht, so wird die Harmonie einige Mal hinauf und herunter gebrochen.
 
 .. rubric:: §27
 
-Seit dem häufigen Gebrauche der Triolen bei dem so genannten schlechten oder Vier Vierteil-Takte, ingleichen bei dem Zwey- oder Dreivierteil-Takte findet man viele Stücke, die statt dieser Takt-Arten oft bequemer mit dem Zwölf, Neun oder Sechs Achtteil-Takte vorgezeichnet würden. Man teilt alsdann die bei Fig. XII. befindlichen Noten wegen der anderen Stimme so ein, wie wir allda sehen. Hierdurch wird der Nachschlag, welcher oft unangenehm, allezeit aber schwer fällt, vermieden.
+Seit dem häufigen Gebrauche der Triolen bei dem so genannten schlechten oder Vier-Viertel-Takte, ingleichen bei dem Zwei- oder Dreiviertel-Takte findet man viele Stücke, die statt dieser Taktarten oft bequemer mit dem Zwölf-, Neun- oder Sechs-Achtteil-Takte vorgezeichnet würden. 
+Man teilt alsdann die bei Fig. XII. befindlichen Noten wegen der anderen Stimme so ein, wie wir allda sehen. 
+Hierdurch wird der Nachschlag, welcher oft unangenehm, allezeit aber schwer fällt, vermieden.
 
+.. index::
+    single: Zeitmaß; länger als notiert
+    single: Sonate; in H-Moll
+    single: Abbildungen; Fig. XIII
+    
 .. rubric:: §28
 
-Fig. XIII. zeigt uns unterschiedene Exempel, wo man aus Affekt bisweilen so wohl die Noten als Pausen länger gelten läßt, als die Schreibart erfordert. Dieses Anhalten habe ich teils deutlich ausgeschrieben, teils durch kleine Kreuze angedeutet. Das letzte Exempel zeigt, daß ein Gedanke mit zwei verschiedenen Begleitungen Gelegenheit zum Anhalten gibt. Überhaupt geht dieser Ausdruck eher im langsamen oder gemäßigten als sehr geschwinden Zeitmaß an. Im ersten Allegro und drauf folgenden Adagio der sechsten Sonate in H Moll meines zweiten gedruckten Teils sind auch Exempel hiervon. Besonders im Adagio kommt ein Gedanke durch eine dreimalige Transposition, in der rechten Hand mit Oktaven und in der Linken mit geschwinden Noten vor; dieser wird geschickt durch ein allmähliches gelindes Eilen bei jeder Übersetzung ausgeführt, welches kurz drauf sehr wohl mit einem schläfrigen Anhalten im Takte abwechselt.
+Fig. XIII. zeigt uns unterschiedene Exempel, wo man aus Affekt bisweilen sowohl die Noten als Pausen länger gelten läßt, als die Schreibart erfordert. 
+Dieses Anhalten habe ich teils deutlich ausgeschrieben, teils durch kleine Kreuze angedeutet. 
+Das letzte Exempel zeigt, daß ein Gedanke mit zwei verschiedenen Begleitungen Gelegenheit zum Anhalten gibt. 
+Überhaupt geht dieser Ausdruck eher im langsamen oder gemäßigten als sehr geschwinden Zeitmaß an. 
+Im ersten Allegro und drauf folgenden Adagio der sechsten Sonate in H Moll meines zweiten gedruckten Teils sind auch Exempel hiervon. 
+Besonders im Adagio kommt ein Gedanke durch eine dreimalige Transposition, in der rechten Hand mit Oktaven und in der Linken mit geschwinden Noten vor; dieser wird geschickt durch ein allmähliches gelindes Eilen bei jeder Übersetzung ausgeführt, welches kurz drauf sehr wohl mit einem schläfrigen Anhalten im Takte abwechselt.
+
+.. index::
+    single: Dynamik; Zeichen
+    single: Dynamik; Verwendung
+    single: Dynamik; Konsonanzen und Dissonanzen
+    single: Dynamik; Wahl des Griffbretts auf dem Cembalo
+    single: Betrügereien
+    single: Abbildungen; Fig. XIV
 
 .. rubric:: §29
 
-P\. bedeutet Piano; dieses piano wird durch die Vermehrung dieses Buchstabens noch schwächer. M. f. bedeutet mezzo forte oder halb stark. F bedeutet forte, dieses forte wird stärker wenn man diesem f mehrere beifügt. Damit man alle Artern vom pianissimo bis zum Fortissimo deutlich zu hören kriege, so muß man das Klavier etwas ernsthaft mit einiger Kraft, nur nicht dreschend angreifen; man muß Gegenteils auch nicht zu heuchlerisch darüber wegfahren. Es ist nicht wohl möglich, die Fälle zu bestimmen, wo forte oder piano statt hat, weil auch die besten Regeln eben so viel Ausnahmen leiden als sie fest setzen; die besondere Wirkung dieses Schatten und Lichts hängt von den Gedanken, von der Verbindung der Gedanken, und überhaupt von dem Komponisten ab, welcher eben so wohl mit Ursache das Forte da anbringen kann, wo ein andermal piano gewesen ist, und oft einen Gedanken samt seinen Con- und Dissonanzen einmal forte und das andere Mal piano bezeichnet. Deswegen pflegt man gerne die wiederholten Gedanken, sie mögen in eben derjenigen Modulation oder in einer anderen, zumal wenn sie mit verschiedenen Harmonien begleitet werden, wiederum erscheinen, durch forte und piano zu unterscheiden. Indessen kann man merken, daß die Dissonanzen insgemein stärker und die Konsonanzen schwächer gespielt werden, weil jene die Leidenschaften mit Nachdruck erheben und diese solche beruhigen, Fig. XIV. (a). Ein besonderer Schwung der Gedanken, welcher einen heftigen Affekt erregen soll, muß stark ausgedrückt werden. Die so genannten Betrügereien spielt man daher, weil sie oft deswegen angebracht werden, gemeiniglich forte (b). Man kann allenfalls auch diese Regel merken, welche nicht ohne Grund ist, daß die Töne eines Gesangs, welche außer der Leiter ihrer Tonart sind, gerne das forte vertragen, ohne Absicht, ob es Con- oder Dissonanzen sind, und daß Gegenteils die Töne, welche in der Leiter ihrer modulierenden Tonart stehen, gerne piano gespielt werden, sie mögen konsonieren oder dissonieren (c). Wegen der Kürze habe ich in den Exempeln hierüber das f. und p. häufen müssen, ungeachtet ich wohl weiß, daß diese Art, alle Augenblicke Schatten und Licht anzubringen, verwerflich ist, weil sie statt der Deutlichkeit eine Dunkelheit hervor bringt, und statt des Frappanten zuletzt etwas gewöhnliches wird. Ohngeacht alle forte und piano in den Probestücken sorgfältig angedeutet sind, so ist es doch nötig, wegen der Manieren das im zweiten Haupt-Stücke davon bemerkte, in so ferne der Vortrag dieser Manieren sich mit dem forte und piano beschäftigt, in acht zu nehmen. Spielt man diese Probestücke auf einem Flügel mit mehr als einem Griffbrette, so bleibt man mit dem forte und piano, welches bei einzeln Noten vorkommt, auf demselben; man wechselt hierinnen nicht eher, als bis ganze Passagien sich durch forte und piano unterscheiden. Auf dem Clavicorde fällt diese Unbequemlichkeit weg, indem man hierauf alle Arten des forte und piano so deutlich und reine heraus bringen kann, als kaum auf manchem anderen Instrumente. Bei starker oder lärmender Begleitung muß man allezeit die Haupt-Melodie durch einen stärkeren Anschlag hervorragen lassen.
+P\. bedeutet piano; dieses piano wird durch die Vermehrung dieses Buchstabens noch schwächer. 
+M\. f. bedeutet mezzo forte oder halb stark. 
+F bedeutet forte, dieses forte wird stärker wenn man diesem f mehrere beifügt. 
+Damit man alle Artern vom pianissimo bis zum fortissimo deutlich zu hören kriege, so muß man das Klavier etwas ernsthaft mit einiger Kraft, nur nicht dreschend angreifen; man muß Gegenteils auch nicht zu heuchlerisch darüber wegfahren. 
+Es ist nicht wohl möglich, die Fälle zu bestimmen, wo forte oder piano statt hat, weil auch die besten Regeln eben so viel Ausnahmen leiden als sie fest setzen; die besondere Wirkung dieses Schatten und Lichts hängt von den Gedanken, von der Verbindung der Gedanken, und überhaupt von dem Komponisten ab, welcher eben so wohl mit Ursache das forte da anbringen kann, wo ein andermal piano gewesen ist, und oft einen Gedanken samt seinen Kon- und Dissonanzen einmal forte und das andere Mal piano bezeichnet. 
+Deswegen pflegt man gerne die wiederholten Gedanken, sie mögen in eben derjenigen Modulation oder in einer anderen, zumal wenn sie mit verschiedenen Harmonien begleitet werden, wiederum erscheinen, durch forte und piano zu unterscheiden. 
+Indessen kann man merken, daß die Dissonanzen insgemein stärker und die Konsonanzen schwächer gespielt werden, weil jene die Leidenschaften mit Nachdruck erheben und diese solche beruhigen, Fig. XIV. (a). 
+Ein besonderer Schwung der Gedanken, welcher einen heftigen Affekt erregen soll, muß stark ausgedrückt werden. 
+Die sogenannten Betrügereien spielt man daher, weil sie oft deswegen angebracht werden, gemeiniglich forte (b). 
+Man kann allenfalls auch diese Regel merken, welche nicht ohne Grund ist, daß die Töne eines Gesangs, welche außer der Leiter ihrer Tonart sind, gerne das forte vertragen, ohne Absicht, ob es Kon- oder Dissonanzen sind, und daß Gegenteils die Töne, welche in der Leiter ihrer modulierenden Tonart stehen, gerne piano gespielt werden, sie mögen konsonieren oder dissonieren (c). 
+Wegen der Kürze habe ich in den Exempeln hierüber das f. und p. häufen müssen, ungeachtet ich wohl weiß, daß diese Art, alle Augenblicke Schatten und Licht anzubringen, verwerflich ist, weil sie statt der Deutlichkeit eine Dunkelheit hervor bringt, und statt des Frappanten zuletzt etwas gewöhnliches wird. 
+Ohngeacht alle forte und piano in den Probestücken sorgfältig angedeutet sind, so ist es doch nötig, wegen der Manieren das im zweiten Haupt-Stücke davon bemerkte, in so ferne der Vortrag dieser Manieren sich mit dem forte und piano beschäftigt, in acht zu nehmen. 
+Spielt man diese Probestücke auf einem Flügel mit mehr als einem Griffbrette, so bleibt man mit dem forte und piano, welches bei einzeln Noten vorkommt, auf demselben; man wechselt hierinnen nicht eher, als bis ganze Passagien sich durch forte und piano unterscheiden. 
+Auf dem Clavicorde fällt diese Unbequemlichkeit weg, indem man hierauf alle Arten des forte und piano so deutlich und reine heraus bringen kann, als kaum auf manchem anderen Instrumente. Bei starker oder lärmender Begleitung muß man allezeit die Haupt-Melodie durch einen stärkeren Anschlag hervorragen lassen.
+
+.. index::
+    single: Kadenzen; Zeitmaß
+    single: Kadenzen; Mehrstimmigkeit
+    single: Probestücke; Weiße Noten
+    single: Proposition
 
 .. rubric:: §30
 
-Die verzierten Kadenzen sind gleichsam eine Komposition aus dem Stegreif. Sie werden nach dem Inhalte eines Stückes mit einer Freiheit wider den Takt vorgetragen. Deswegen ist die angedeutete Geltung der Noten bei diesen Kadenzen in den Probestücken nur ungefähr. Sie stellt bloß einiger maßen die Geschwindigkeit und Verschiedenheit dieser Noten vor. Bei zwey- oder dreistimmigen Kadenzen wird allezeit zwischen jeder Proposition ein wenig stille gehalten, ehe die andere Stimme anfängt; Dieses Stillehalten und zugleich das Ende jeder Proposition habe ich durch weiße Noten, ohne mich an die gewöhnliche Schreibart der Bindungen zu kehren, und ohne weitere Absicht, in den Probestücken angedeutet. Diese weißen Noten werden so lange ausgehalten, bis sie in derselben Stimme von anderen abgelöst werden. Man merke hier, wenn eine andere Stimme in die Quere kommt, daß man alsdann die auszuhaltende Note zwar auf einige Zeit aufheben muß; dem ungeachtet aber läßt man sie aufs neue liegen, wenn die in die Quere gekommene Stimme solche das letzte Mal anschlägt. Sollte dieser Fall bei zwei beschäftigten Händen vorkommen, so ergreift so gleich die andere Hand diese zuletzt angeschlagene Note bevor ihn die erste Hand verläßt. Hierdurch erhält man das Nachsingen ohne einen neuen Anschlag zu machen. Das bei diesen weißen Noten erforderte Stillehalten geschieht deswegen, damit man das Kadenzenmachen zweier oder dreier Personen, ohne Abrede zu nehmen, nachahme, indem man dadurch gleichsam vorstellet, als wenn eine Person auf die andere genau Achtung gebe, ob deren Proposition zu Ende sei oder nicht. Außer dem würden die Kadenzen ihre natürliche Eigenschaft verlieren, und es dürfte scheinen, als ob man, statt eine Kadenz zu machen, ein ausdrücklich nach dem Takt gesetztes Stück mit Bindungen spielte. Dem ungeachtet fällt dieses Stillehalten weg, so bald die Auflösung der Harmonie, welche bei dem Eintritt einer weißen Note vorgehet, erfordert, daß die gerade über dieser weißen stehende Note zugleich mit ihr angeschlagen werden muß.
+Die verzierten Kadenzen sind gleichsam eine Komposition aus dem Stegreif. 
+Sie werden nach dem Inhalte eines Stückes mit einer Freiheit wider den Takt vorgetragen. 
+Deswegen ist die angedeutete Geltung der Noten bei diesen Kadenzen in den Probestücken nur ungefähr. 
+Sie stellt bloß einigermaßen die Geschwindigkeit und Verschiedenheit dieser Noten vor. 
+Bei zwei- oder dreistimmigen Kadenzen wird allezeit zwischen jeder Proposition ein wenig stille gehalten, ehe die andere Stimme anfängt; Dieses Stillehalten und zugleich das Ende jeder Proposition habe ich durch weiße Noten, ohne mich an die gewöhnliche Schreibart der Bindungen zu kehren, und ohne weitere Absicht, in den Probestücken angedeutet. 
+Diese weißen Noten werden so lange ausgehalten, bis sie in derselben Stimme von anderen abgelöst werden. 
+Man merke hier, wenn eine andere Stimme in die Quere kommt, daß man alsdann die auszuhaltende Note zwar auf einige Zeit aufheben muß; dem ungeachtet aber läßt man sie aufs neue liegen, wenn die in die Quere gekommene Stimme solche das letzte Mal anschlägt. 
+Sollte dieser Fall bei zwei beschäftigten Händen vorkommen, so ergreift so gleich die andere Hand diese zuletzt angeschlagene Note bevor ihn die erste Hand verläßt. 
+Hierdurch erhält man das Nachsingen ohne einen neuen Anschlag zu machen. 
+Das bei diesen weißen Noten erforderte Stillehalten geschieht deswegen, damit man das Kadenzenmachen zweier oder dreier Personen, ohne Abrede zu nehmen, nachahme, indem man dadurch gleichsam vorstellet, als wenn eine Person auf die andere genau Achtung gebe, ob deren Proposition zu Ende sei oder nicht.
+ Außer dem würden die Kadenzen ihre natürliche Eigenschaft verlieren, und es dürfte scheinen, als ob man, statt eine Kadenz zu machen, ein ausdrücklich nach dem Takt gesetztes Stück mit Bindungen spielte. 
+ Dem ungeachtet fällt dieses Stillehalten weg, so bald die Auflösung der Harmonie, welche bei dem Eintritt einer weißen Note vorgehet, erfordert, daß die gerade über dieser weißen stehende Note zugleich mit ihr angeschlagen werden muß.
+
+.. index::
+    single: Probestücke; F-Dur
+    single: Variation; in Wiederholungen
 
 .. rubric:: §31
 
-Das Probestücke aus dem F Dur ist ein Abriß, wie man heute zu Tage die Allegros mit 2 Rebrisen das andere Mal zu verändern pflegt. So löblich diese Erfindung ist, so sehr wird sie gemißbrauchet. Meine Gedanken hiervon sind diese: Man muß nicht alles verändern, weil es sonst ein neu Stück sein würde. Viele, besonders die affektuosen oder sprechenden Stellen eines Stückes lassen sich nicht wohl verändern. Hierher gehöret auch diejenige Schreibart in galanten Stücken, welche so beschaffen ist, daß man sie wegen gewisser neuen Ausdrücke und Wendungen selten das erste Mal vollkommen einsieht. Alle Veränderungen müssen dem Affekt des Stückes gemäß sein. Sie müssen allezeit, wo nicht besser, doch wenigstens eben so gut, als das Original sein. Simple Gedanken werden zuweilen sehr wohl bunt verändert und umgekehrt. Dieses muß mit keiner geringen Überlegung geschehen, man muß hierbei beständig auf die vorhergehenden und folgenden Gedanken sehen; man muß eine Absicht auf das ganze Stück haben, damit die gleiche Vermischung des brillanten und simplen, des feurigen und matten, des traurigen und fröhlichen, des sangbaren und des dem Instrument eigenen beibehalten werde. Bei Klavier-Sachen kann zugleich der Bass in der Veränderung anders sein, als er war, indessen muß die Harmonie dieselbe bleiben. Überhaupt muß man, ungeachtet der vielen Veränderungen, welche gar sehr Mode sind, es allezeit so einrichten, daß die Grundliniamenten des Stückes, welche den Affekt desselben zu erkennen geben, dennoch hervor leuchten.
-"
+Das Probestücke aus dem F-Dur ist ein Abriß, wie man heute zu Tage die Allegros mit 2 Reprisen das andere Mal zu verändern pflegt. 
+So löblich diese Erfindung ist, so sehr wird sie mißbrauchet. 
+Meine Gedanken hiervon sind diese: Man muß nicht alles verändern, weil es sonst ein neues Stück sein würde. 
+Viele, besonders die affektuosen oder sprechenden Stellen eines Stückes lassen sich nicht wohl verändern. 
+Hierher gehöret auch diejenige Schreibart in galanten Stücken, welche so beschaffen ist, daß man sie wegen gewisser neuen Ausdrücke und Wendungen selten das erste Mal vollkommen einsieht. 
+Alle Veränderungen müssen dem Affekt des Stückes gemäß sein. 
+Sie müssen allezeit, wo nicht besser, doch wenigstens eben so gut, als das Original sein. 
+Simple Gedanken werden zuweilen sehr wohl bunt verändert und umgekehrt. 
+Dieses muß mit keiner geringen Überlegung geschehen, man muß hierbei beständig auf die vorhergehenden und folgenden Gedanken sehen; man muß eine Absicht auf das ganze Stück haben, damit die gleiche Vermischung des brillanten und simplen, des feurigen und matten, des traurigen und fröhlichen, des sangbaren und des dem Instrument eigenen beibehalten werde. 
+Bei Klavier-Sachen kann zugleich der Bass in der Veränderung anders sein, als er war, indessen muß die Harmonie dieselbe bleiben. Überhaupt muß man, ungeachtet der vielen Veränderungen, welche gar sehr Mode sind, es allezeit so einrichten, daß die Grundliniamenten des Stückes, welche den Affekt desselben zu erkennen geben, dennoch hervorleuchten.
