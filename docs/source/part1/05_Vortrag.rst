@@ -25,7 +25,7 @@ Die meisten Treffer werden viemals nichts mehr tun, als daß sie die Noten treff
 Es ist ein Vorzug fürs Klavier, daß man es in der Geschwindigkeit darauf höher als einem anderen Instrumente bringen kann. 
 Man muß aber diese Geschwindigkeit nicht mißbrauchen. 
 Man verspare sie bis auf die Gänge, wo man ihrer nötig hat, ohne gleich das Tempo vom Anfange zu überschreiten. 
-Daß ich der Geschwindigkeit nicht ihr Verdienst, und folglich weder ihren Nutzen noch Notwendigkeit nehme, wird man daraus abnehmen, daß ich verlange, daß die Probestücke aus dem G und F Moll, und die aus den kleinsten Noten bestehenden Läufer in dem, aus dem C Moll aufs hurtigste wiewohl deutlich gespielt werden müssen. 
+Daß ich der Geschwindigkeit nicht ihr Verdienst, und folglich weder ihren Nutzen noch Notwendigkeit nehme, wird man daraus abnehmen, daß ich verlange, daß die Probestücke aus dem G und F-Moll, und die aus den kleinsten Noten bestehenden Läufer in dem, aus dem C-Moll aufs hurtigste wiewohl deutlich gespielt werden müssen. 
 In einigen auswärtigen Gegenden herrschet Gegenteils besonders dieser Fehler sehr stark, daß man die Adagios zu hurtig und die Allegros zu langsam spielet. 
 Was für ein Widerspruch in einer solchen Art von Ausführung stecke, braucht man nicht methodisch darzutun. 
 Doch halte man nicht dafür, als ob ich hiermit diejenigen trägen und steifen Hände rechtfertigen will, die einen aus Gefälligkeit einschläfern, die unter dem Vorwande des sangbaren das Instrument nicht zu beleben wissen, und durch den verdrießlichen Vortrag ihrer gähnenden Einfälle noch weit mehrere Vorwürfe, als die geschwinden Spieler verdienen. 
@@ -233,7 +233,7 @@ Bei Figuren von 2 und 4 solcher Noten, kriegt die erste und dritte einen etwas s
 Bei Figuren von drei Noten kriegt die erste diesen Druck. Bei anderen Fällen kriegt die Note diesen Druck, wo der Bogen anfängt. 
 Man pflegt zuweilen der Bequemlichkeit wegen bei Stücken, wo viele gestoßene oder gezogene Noten hintereinander vorkommen, nur im Anfange die ersteren zu bezeichnen, und es versteht sich, daß diese Zeichen so lange gelten, bis sie aufgehoben werden. 
 Wenn Schleifungen über gebrochene Harmonien vorkommen, so kann man zugleich mit der ganzen Harmonie liegen bleiben Fig. III. 
-In dem Probestück aus dem E Dur kommt dieser Fall oft vor, man erhält hierdurch außer der besonders guten Wirkung eine leichtere und besser zu übersehende Schreibart. 
+In dem Probestück aus dem E-Dur kommt dieser Fall oft vor, man erhält hierdurch außer der besonders guten Wirkung eine leichtere und besser zu übersehende Schreibart. 
 In dem Probestück aus dem As ist dieser Fall in besonderen Stimmen ausgeschrieben, damit man diese Schreibart, welche die Franzosen besonders stark brauchen, kennen lerne. Überhaupt zu sagen, so kommen die Schleifungen mehrenteils bei gehenden Noten und im langsamen oder gemäßigten Zeitmaß vor.
 
 .. rubric:: §19
@@ -310,7 +310,7 @@ Fig. XIII. zeigt uns unterschiedene Exempel, wo man aus Affekt bisweilen sowohl 
 Dieses Anhalten habe ich teils deutlich ausgeschrieben, teils durch kleine Kreuze angedeutet. 
 Das letzte Exempel zeigt, daß ein Gedanke mit zwei verschiedenen Begleitungen Gelegenheit zum Anhalten gibt. 
 Überhaupt geht dieser Ausdruck eher im langsamen oder gemäßigten als sehr geschwinden Zeitmaß an. 
-Im ersten Allegro und drauf folgenden Adagio der sechsten Sonate in H Moll meines zweiten gedruckten Teils sind auch Exempel hiervon. 
+Im ersten Allegro und drauf folgenden Adagio der sechsten Sonate in H-Moll meines zweiten gedruckten Teils sind auch Exempel hiervon. 
 Besonders im Adagio kommt ein Gedanke durch eine dreimalige Transposition, in der rechten Hand mit Oktaven und in der Linken mit geschwinden Noten vor; dieser wird geschickt durch ein allmähliches gelindes Eilen bei jeder Übersetzung ausgeführt, welches kurz drauf sehr wohl mit einem schläfrigen Anhalten im Takte abwechselt.
 
 .. index::
