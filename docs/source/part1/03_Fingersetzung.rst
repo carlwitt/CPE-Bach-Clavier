@@ -29,7 +29,7 @@ Aus dem Grunde, dass jeder neue Gedanke beinahe seine eigene Finger-Setzung habe
 Unsere Vorfahren, welche sich überhaupt mehr mit der Harmonie als der Melodie abgaben, spielten folglich auch meistenteils vollstimmig.
 Wir werden aus der Folge ersehen, dass bei dergleichen Gedanken, indem man sie meistenteils nur auf eine Art herausbringen kann, und sie nicht so gar viel Veränderungen haben, jedem Finger seine Stelle gleichsam angewiesen ist; 
 folglich sind sie nicht so verführerisch wie die melodischen Passagien, weil der Gebrauch der Finger bei diesen letzteren viel willkürlicher ist, als bei jenen. 
-Vor diesem war das Klavier nicht so gut temperiert wie heute zu Tage, folglich brauchte man nicht alle vierundzwanzig Tonarten wie jetzt und man hatte also auch nicht die Verschiedenheit von Passagien.
+Vor diesem war das Klavier nicht so gut temperiert wie heute zu Tage, folglich brauchte man nicht alle 24 Tonarten wie jetzt und man hatte also auch nicht die Verschiedenheit von Passagien.
 
 .. index::
     single: Daumen; Spiel ohne
@@ -141,7 +141,7 @@ Die Verschiedenheit der Gedanken, vermöge welcher sie bald ein- bald mehrstimmi
 
 .. rubric:: §24
 
-Die einstimmigen gehenden Gedanken werden nach ihrer Ton-Art beurteilt, folglich muß ich bei der Abbildung derselben von allen vier und zwanzig Ton-Arten so wohl im Herauf- als Heruntergehen den Anfang machen. 
+Die einstimmigen gehenden Gedanken werden nach ihrer Tonart beurteilt, folglich muß ich bei der Abbildung derselben von allen 24 Tonarten so wohl im Herauf- als Heruntergehen den Anfang machen. 
 Hierauf werde ich die mehrstimmigen Gedanken durchgehen; 
 diesen werden Exempel mit Spannungen und Sprüngen folgen, weil man sie leicht nach den mehrstimmigen Gedanken abmessen oder gar auf harmonische Zusammenklänge zurückführen kann; 
 endlich werde ich von den Bindungen, von einigen Freiheiten wider die Regeln, einigen schweren Exempeln und Hilfsmitteln handeln; 
@@ -435,7 +435,7 @@ Man könnte auch mit dem kleinen Finger in der rechten Hand anfangen und den Dau
 
 .. rubric:: §50
 
-A Dur im Aufsteigen finden wir unter Fig. XXIV. mit einer Applicatur für die rechte und zweien für die linke Hand. Die nächste unter den Noten ist nach der oft angeführten Regel, und bei allerlei Fällen brauchbarer als die so darunter steht, ungach sie auch zuweilen nötig sein kann.
+A Dur im Aufsteigen finden wir unter Fig. XXIV. mit einer Applicatur für die rechte und zweien für die linke Hand. Die nächste unter den Noten ist nach der oft angeführten Regel, und bei allerlei Fällen brauchbarer als die so darunter steht, ungeachtet sie auch zuweilen nötig sein kann.
 
 .. figure:: bilder/tab1/tab1-fig24.pdf
     :width: 800px
@@ -470,7 +470,7 @@ Fis Moll im Aufsteigen sehen wir bei Fig. XXVI. einfach. Weiter ist hierbei nich
 .. rubric:: §53
 
 Fis Moll im Absteigen hat nach Fig. XXVII. mit A Dur einerlei Finger-Setzung, die einzige im Aufsteigen für die linke Hand, welche, wie wir im :ref:`fingersetzung-paragraph-50` gesehen haben, nur dann und wann zu gebrauchen ist, ausgenommen. 
-Wir werden aus der Folge ersehen, daß nunmehr alle noch vorkommende weiche Ton-Arten im Absteigen einerlei Applicatur mit den harten Ton-Arten annehmen, welche einerlei Versetzungs-Zeichen mit jenen gemein haben, oder, wegen Angrenzung der Ton-Arten mit den kreuzen an die mit Been noch deutlicher zu sagen, deren Grund-Ton die kleine Terzie von der weichen Ton-Art ist.
+Wir werden aus der Folge ersehen, daß nunmehr alle noch vorkommende weiche Tonarten im Absteigen einerlei Applicatur mit den harten Tonarten annehmen, welche einerlei Versetzungs-Zeichen mit jenen gemein haben, oder, wegen Angrenzung der Tonarten mit den kreuzen an die mit Been noch deutlicher zu sagen, deren Grund-Ton die kleine Terzie von der weichen Tonart ist.
 
 .. figure:: bilder/tab1/tab1-fig27.pdf
     :width: 800px
@@ -483,7 +483,7 @@ Wir werden aus der Folge ersehen, daß nunmehr alle noch vorkommende weiche Ton-
 
 E Dur hat bei Fig. XXVIII. für beide Hände so wohl im Aufsteigen als auch im Absteigen einerlei einfache Finger-Ordnung. 
 Cis Moll im Absteigen hat dieselbe. 
-Da jedem aus dem vorigen die Leitern von den absteigenden weichen Ton-Arten bekannt sein können, so werde ich die Abbildung derselben, in so fern sie keine besondere Applicatur haben, als etwas überflüssiges weglassen.
+Da jedem aus dem vorigen die Leitern von den absteigenden weichen Tonarten bekannt sein können, so werde ich die Abbildung derselben, in so fern sie keine besondere Applicatur haben, als etwas überflüssiges weglassen.
 
 .. figure:: bilder/tab1/tab1-fig28.pdf
     :width: 800px
@@ -528,7 +528,7 @@ Von der Finger-Setzung.
 gesetzt worden. Man muss dieses Einsetzen nicht mit dem Überlegen verwechseln. Überschlagen heißt: wenn ein Finger über den anderen gleichsam weggleitet, indem der andere noch über der Taste bleibt, welche er nieder- gedrückt hat; beim Einsetzen hingegen ist der andere Finger schon weg, und die Hand gerückt.
 63.8. Endlich sehen wir bei dieser Abbildung der Tonleitern, dass die, ohne, oder mit den wenigsten Versetzungs-Zeichen, die meisten Veränderungen von Applicaturen erlauben, indem sowohl das Untersetzen als auch das Überschlagen angebracht; und dass die übrigen nur einseitigen Wechsel der Finger gestatten. Folglich sind die oft genannten leichten Tonarten (weil ihre Applicatur oft verschieden ist, und man beide Hilfsmittel zur rechten Zeit gebrauchen lernen muss, ohne sie zu verwirren; weil es nötig ist die einmal gewählte Ordnung in der Folge"
 "beizubehalten, und man also wohl zu merken hat, wo der Daumen eingesetzt worden,) viel verführerischer und schwerer als die oft genannten schweren
-Ton-Arten, indem sie nur eine Art von Finger-Gesang haben, als ob der Daumen durch die Hebung nirgends seinen ordentlichen Platz sich von selbst eindringen lernt. Diese letzten behalten den Rahmen der schweren nur aus der Ursache bei, weil entweder gar nicht, oder selten aus selbigen gespielt und ge-übt wird. Hierdurch bleibt ihre Schreib-Kunst so wohl als die Lage ihrer Saiten allezeit fremde. Durch die wahre Lehre und Anwendung der Finger-Ordnung werden uns also diese schweren Ton-Arten eben so leicht, als groß die Schwierigkeit war, auf eine falsche Zeit, besonders ohne Daumen oder den rechten Gebrauch desselben in solchen fortzukommen. Einer der größten Vorzüge des Klaviers, vermöge dessen man mit besonderer Leichtigkeit aus allen vier und zwanzig Ton-Arten spielen kann, ist also durch die Unwissenheit der rechten Applicatur verborgen geblieben.
+Tonarten, indem sie nur eine Art von Finger-Gesang haben, als ob der Daumen durch die Hebung nirgends seinen ordentlichen Platz sich von selbst eindringen lernt. Diese letzten behalten den Rahmen der schweren nur aus der Ursache bei, weil entweder gar nicht, oder selten aus selbigen gespielt und ge-übt wird. Hierdurch bleibt ihre Schreib-Kunst so wohl als die Lage ihrer Saiten allezeit fremde. Durch die wahre Lehre und Anwendung der Finger-Ordnung werden uns also diese schweren Tonarten eben so leicht, als groß die Schwierigkeit war, auf eine falsche Zeit, besonders ohne Daumen oder den rechten Gebrauch desselben in solchen fortzukommen. Einer der größten Vorzüge des Klaviers, vermöge dessen man mit besonderer Leichtigkeit aus allen 24 Tonarten spielen kann, ist also durch die Unwissenheit der rechten Applicatur verborgen geblieben.
 "
 "eben.
 
@@ -639,7 +639,7 @@ Also empfinden wir dann und wann, ungeachtet des besseren Gebrauchs der Finger b
 [Tab. III.] Fig. LXI.
 
 Da dieses Herabgleiten sehr leicht fällt, so kann es auch außer dieser Passage und in gesonderter Seit-Masse gebraucht werden als das Fortsetzen und Ablösen."
-"Übrigens merke man besonders hierbei an, daß das Fortsetzen in gewissen Fällen eben so geschickt ist, gestossene Noten herauszubringen als gespielte. Von der ersten Art finden wir bald zu Anfang des Probe-Stücks aus dem fis-moll, und von der andern Art bei Sig. LVI. Tab. II. Exempel. Übrigens haben wir aus dem vorigen §. gehört, daß dieses Fortsetzen natürlicher sei, zumal der Bindungen, wenn man die Zahl hat, als das Ablösen.
+"Übrigens merke man besonders hierbei an, daß das Fortsetzen in gewissen Fällen eben so geschickt ist, gestossene Noten herauszubringen als gespielte. Von der ersten Art finden wir bald zu Anfang des Probestücks aus dem fis-moll, und von der andern Art bei Sig. LVI. Tab. II. Exempel. Übrigens haben wir aus dem vorigen §. gehört, daß dieses Fortsetzen natürlicher sei, zumal der Bindungen, wenn man die Zahl hat, als das Ablösen.
 *) In Couperins Klavierschule „L'art de toucher le clavecin", Datum 1717, dem ersten eigentlichen Lehrbuch des Klavierspiels. Dieser stumme Fingerwechsel auf einer Taste ist für Couperin gleich dem häufigeren Gebrauch des 5. Fingers beider Hände charakteristisch.
 
 Von der Finger-Setzung. 
@@ -671,7 +671,7 @@ Einige brauchen diese Art von Applicatur bei Passagen, wo noch große Töne nach
 
 .. rubric:: §93
 
-In den Probe-Stücken findet sich ein paar Stellen, wo wider die gegebene Regel, in einer einzelnen Stimme der kleine Finger gebraucht wird an einem Orte, wo die Weite der Passage nicht mit ihm zu Ende geht. Die Abbildung jener Passagen findet sich bei Fig."
+In den Probestücken findet sich ein paar Stellen, wo wider die gegebene Regel, in einer einzelnen Stimme der kleine Finger gebraucht wird an einem Orte, wo die Weite der Passage nicht mit ihm zu Ende geht. Die Abbildung jener Passagen findet sich bei Fig."
 ". LXIV.
 (Sab. III.] Sig. LXIV.
 Der erste Fall ist durch das mäßige Zeit-Maß der Takte zu entschuldigen. Man darf dieses Überschlagen nicht anders gebrauchen, als wenn der vierte längere Finger über den auf einer der untersten Tasten liegenden kleinen, auf einen halben Ton ziemlich bequem durch eine kleine Wendung der Hand herüberziehen kann, und dieses muss nur einmal und nicht öfter hintereinander geschehen. Der andere Fall ist ein Zeichen der nötigen Zusammenfügung der Hand und wird
@@ -694,7 +694,7 @@ Von der Finger-Gebung. 23
 .. rubric:: §96
 
 In gewissen Fällen, wo man leicht ungewiß hätte sein oder gar irren können, welche Noten mit dieser oder jener Hand müssen gespielt werden, habe ich die für die rechte den Strich in die Höhe und die für die linke den Strich herunter ziehen lassen. Wenn wegen Mangel des Raums einige Noten in den Mittelstimmen nicht besonders geschwänzt worden sind, so muss man ihre Geltung und Zuschaltung nach der Einteilung anderer mit ihnen zugleich anschlagenden Mittel- oder Grundstimmen-"
-"Noten beurteilen. Da ich in der Schreib-Art der Probe-Etüde hauptsächlich darauf gegeben habe, dass den Anfängern so viel möglich eine Erleichterung verschafft und alle Gelegenheit benommen werde, die Hände gegen die ihnen zu- kommenden Noten zu verwirren, so wird es niemand Wunder nehmen, wenn manchmal die Geltung jeder Note und der Gang jeder Stimme nicht ausdrücklich so, wie man wohl sonsten zu tun pflegt, angedeutet worden. Ein Kenner wird dem ohngeachtet gar leicht den Gesang jeder Stimme und die Geltung jeder Note auseinander finden können; in den Probe-Etüden aus dem Buche und aus dem zweiten Band ereignet sich diese Tatsache zu diesem § einige Male.
+"Noten beurteilen. Da ich in der Schreibart der Probe-Etüde hauptsächlich darauf gegeben habe, dass den Anfängern so viel möglich eine Erleichterung verschafft und alle Gelegenheit benommen werde, die Hände gegen die ihnen zu- kommenden Noten zu verwirren, so wird es niemand Wunder nehmen, wenn manchmal die Geltung jeder Note und der Gang jeder Stimme nicht ausdrücklich so, wie man wohl sonsten zu tun pflegt, angedeutet worden. Ein Kenner wird dem ohngeachtet gar leicht den Gesang jeder Stimme und die Geltung jeder Note auseinander finden können; in den Probe-Etüden aus dem Buche und aus dem zweiten Band ereignet sich diese Tatsache zu diesem § einige Male.
 
 
 

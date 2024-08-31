@@ -142,10 +142,10 @@ Denen zu Gefallen, welche noch keine Instrumente von dieser vorgeschriebenen Wei
 
 .. rubric:: §14
     
-Beide Arten von Instrumenten müssen gut temperiert sein, indem man durch die Stimmung der Quinten, Quarten, Probierung der kleinen und großen Terzen und ganzer Akkorde, den meisten Quinten besonders so viel von ihrer größten Reinigkeit abnimmt, dass es das Gehör kaum merkt und man alle vierundzwanzig Tonarten gut brauchen kann. 
+Beide Arten von Instrumenten müssen gut temperiert sein, indem man durch die Stimmung der Quinten, Quarten, Probierung der kleinen und großen Terzen und ganzer Akkorde, den meisten Quinten besonders so viel von ihrer größten Reinigkeit abnimmt, dass es das Gehör kaum merkt und man alle 24 Tonarten gut brauchen kann. 
 Durch Probierung der Quarten hat man den Vorteil, dass man die notwendige Schwebung der Quinten deutlicher hören kann, weil die Quarten dem Grundton näher liegen als die Quinten. 
 Sind die Claviere so gestimmt, so kann man sie wegen der Ausübung mit Recht für die reinsten Instrumente unter allen ausgeben, indem zwar einige reiner gestimmt aber nicht gespielt werden. 
-Auf dem Claviere spielt man aus allen vierundzwanzig Tonarten gleich rein und welches wohl zu merken vollstimmig, ohngeachtet die Harmonie wegen der Verhältnisse der geringsten Unreinigkeit sogleich entdeckt. 
+Auf dem Claviere spielt man aus allen 24 Tonarten gleich rein und welches wohl zu merken vollstimmig, ohngeachtet die Harmonie wegen der Verhältnisse der geringsten Unreinigkeit sogleich entdeckt. 
 Durch diese neue Art zu temperieren sind wir weiter gekommen als vordem, obschon die alte Temperatur so beschaffen war, dass einige Tonarten reiner waren als man noch jetzt bei vielen Instrumenten antrifft.
 Bei manchem anderen Musico würde man vielleicht Unreinheit eher vermerken ohne einen Klangmesser dabei nötig zu haben, wenn man die hervorgebrachten melodischen Töne harmonisch hören sollte.
 Diese Melodie betrügt uns oft und lässt uns nicht eher ihre unreinen Töne verspüren, bis diese Unreinheit so groß ist, als kaum bei manchem schlecht gestimmten Klavier.
@@ -192,10 +192,11 @@ Alsdann gehe man das Kapitel von den Manieren fleißig durch und übe solche, da
 .. index::
     single: Lernmethode
     single: Stückarbeit
+    single: Probestücke
 
 .. rubric:: §19
 
-Man gehe sogleich an die Probe-Stücke, man lehre sie erstlich ohne Manieren, welche besonders zu üben sind, und hernach mit denselben nach den Regeln, welche in dem Kapitel von dem guten Vortrag abgehandelt sind, zu spielen. 
+Man gehe sogleich an die Probestücke, man lehre sie erstlich ohne Manieren, welche besonders zu üben sind, und hernach mit denselben nach den Regeln, welche in dem Kapitel von dem guten Vortrag abgehandelt sind, zu spielen. 
 Dieses muss im Anfang auf dem Clavichorde allein geschehen, danach kann man mit dem Flügel abwechseln.
 
 .. index::
@@ -214,28 +215,28 @@ Einen großen Nutzen und Erleichterung in die ganze Spiel-Art wird derjenige sp�
 Damit man die Tasten auswendig finden lerne und das notwendige Notenlesen nicht beschwerlich falle, wird man wohl tun, wenn man das Gelernte fleißig auswendig im Finstern spielt.
 
 .. index::
-    single: Probe-Stücke
+    single: Probestücke
 
 .. rubric:: §22
     
-Da ich bei der Bezeichnung der Probe-Stücke alles nötige beigefügt habe, und ich solche zu vielen malen mit der größten Achtsamkeit durchgespielt, damit mir auch nicht die geringste Kleinigkeit entwischen möchte, so glaube ich, dass, wenn man alles in Acht nimmt, hierdurch die Geschicklichkeit der Hände sowohl als der Geschmack hinlänglich gebildet werden kann, andere und schwerere Sachen zu erlernen.
+Da ich bei der Bezeichnung der Probestücke alles nötige beigefügt habe, und ich solche zu vielen malen mit der größten Achtsamkeit durchgespielt, damit mir auch nicht die geringste Kleinigkeit entwischen möchte, so glaube ich, dass, wenn man alles in Acht nimmt, hierdurch die Geschicklichkeit der Hände sowohl als der Geschmack hinlänglich gebildet werden kann, andere und schwerere Sachen zu erlernen.
 
 .. index::
-    single: Probe-Stücke
+    single: Probestücke
 
 .. rubric:: §23
     
 Ich habe zu Vermeidung aller Zweideutigkeit die Triolen ohne 3, das Abstoßen der Noten ohne Striche mit bloßen Punkten, und die abgekürzten Wörter: f. p. u. s. w., an den meisten Orten ohne hintenstehende Punkte angedeutet.
 
 .. index::
-    single: Probe-Stücke
+    single: Probestücke
     single: Lernmethode
     single: Schwierigkeitsgrad
     single: Pädagogik
 
 .. rubric:: §24
 
-Damit ich allerlei Exempel der Fingersetzungen in allen Tonarten, des Gebrauchs der Manieren und des guten Vortrags bei allerlei Leidenschaften habe anbringen können, und dieses Werk vollständig erscheine, so habe ich nicht verhindern können, dass nicht zuletzt die Probe-Stücke in der Schwierigkeit zugenommen hätten. 
+Damit ich allerlei Exempel der Fingersetzungen in allen Tonarten, des Gebrauchs der Manieren und des guten Vortrags bei allerlei Leidenschaften habe anbringen können, und dieses Werk vollständig erscheine, so habe ich nicht verhindern können, dass nicht zuletzt die Probestücke in der Schwierigkeit zugenommen hätten. 
 Ich habe geglaubt es sei gut, man zu dienen, nicht lauter Stücke von der ersten Leichtigkeit beizufügen und nicht vieles unberührt zu lassen.
 Ich hoffe, dass die mühsam hinzugegebene Applicatur und Spielart die schwereren Stücken nach vorhergegangenem deutlichen Unterricht ganz leicht machen werde.
 Es ist schädlich, die Scholaren mit zu vielen leichten Sachen aufzuhalten; sie bleiben hierdurch immer auf einer Stelle, einige wenige von der ersten Art können zum Anfang hinlänglich sein. 
@@ -243,7 +244,7 @@ Es ist also besser, dass ein geschickter Lehrmeister seine Schüler nach und nac
 Es beruht alles auf der Art zu unterweisen und auf vorher gelegten guten Gründen, hierdurch empfindet der Schüler nicht mehr, dass er an schwerere Stücke gebracht worden ist. 
 Mein seliger Vater hat in dieser Art glückliche Proben abgelegt. 
 Bei ihm mussten seine Scholaren gleich an seine nicht gar leichten Stücke gehen. 
-Solchergestalt darf sich auch niemand vor meinen Probe-Stücken fürchten.
+Solchergestalt darf sich auch niemand vor meinen Probestücken fürchten.
 
 .. rubric:: §25
     
