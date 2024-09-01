@@ -13,7 +13,7 @@ Das dritte Hauptstück. Vom Vortrage.
 .. rubric:: §1
 
 Es ist unstreitig ein Vorurteil, als wenn die Stärke eines Klavieristen in der bloßen Geschwindigkeit bestünde. 
-Man kann die fertigsten Finger, einfache und doppelte Triller haben, die Applikatur verstehen, vom Blatte treffen, es mögen so viele Schlüssel im Laufe des Stückes vorkommen als sie wollen, alles ohne viele Mühe aus dem Stegreif transponieren, Dezimen, ja Duodezimen greifen, Läufer und Kreuzsprünge von allerlei Arten machen können, und was dergleichen mehr ist; und man kann bei dem allen noch nicht ein deutlicher, ein gefälliger, ein rührender Klavieriste sein. 
+Man kann die fertigsten Finger, einfache und doppelte Triller haben, die Applicatur verstehen, vom Blatte treffen, es mögen so viele Schlüssel im Laufe des Stückes vorkommen als sie wollen, alles ohne viele Mühe aus dem Stegreif transponieren, Dezimen, ja Duodezimen greifen, Läufer und Kreuzsprünge von allerlei Arten machen können, und was dergleichen mehr ist; und man kann bei dem allen noch nicht ein deutlicher, ein gefälliger, ein rührender Klavieriste sein. 
 Die Erfahrung lehrt es mehr als zu oft, wie die Treffer und geschwinden Spieler von Profession nichts weniger als diese Eigenschaften besitzen, wie sie zwar durch die Finger das Gesicht in Verwunderung setzen, der empfindlichen Seele eines Zuhörers aber gar nichts zu tun geben. 
 Sie überraschen das Ohr, ohne es zu vergnügen, und betäuben den Verstand, ohne ihm genug zu tun. 
 Ich spreche hiermit dem Spielen aus dem Stegreif nicht sein gebührendes Lob ab. 

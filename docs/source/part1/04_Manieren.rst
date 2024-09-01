@@ -928,7 +928,7 @@ wie"
 
 .. rubric:: §26
 
-Das nötige Schnellen bei dem Doppelschlage, wozu der kleine Finger nicht geschickt genug ist, erfordert zuweilen eine etwas weniges gespannte Applikatur [Fig. LXII. (Tab. V.) Fig. LXI].
+Das nötige Schnellen bei dem Doppelschlage, wozu der kleine Finger nicht geschickt genug ist, erfordert zuweilen eine etwas weniges gespannte Applicatur [Fig. LXII. (Tab. V.) Fig. LXI].
 
 
 .. rubric:: §27
@@ -967,7 +967,7 @@ zu machen, und die Ausnahmen, sobald sie den Eingang natürlich und leicht ausfa
 
 ---
 
-Liefer 2. Art. Bei dem Beispiel (a) wird durch einen kleinen Ruck mit der Hand nach der linken Seite nach dem e mit dem ersten Finger, der dritte darauf folgende d gesetzt, aber nicht über den zweiten geschlagen, wie die herkömmlichen Applikaturen lehren. Das Beispiel (b) erfordert wegen dieser zusammengesetzten Manier, dass man mit dem dritten Finger von dem halben Tone heruntergleite. Die leichteste Finger-Setzung also bei diesem prallenden Doppelschlag ist die bei (c) abgebildete. Dem ungeachtet tut man dennoch wohl, wenn man ihn fleißig mit allen Fingern übet, weil sie dadurch stark und fertig werden; jedoch hängt es nicht allezeit von uns ab, welche Finger wir gerne zu dieser oder jener Manier nehmen. 
+Liefer 2. Art. Bei dem Beispiel (a) wird durch einen kleinen Ruck mit der Hand nach der linken Seite nach dem e mit dem ersten Finger, der dritte darauf folgende d gesetzt, aber nicht über den zweiten geschlagen, wie die herkömmlichen Applicaturen lehren. Das Beispiel (b) erfordert wegen dieser zusammengesetzten Manier, dass man mit dem dritten Finger von dem halben Tone heruntergleite. Die leichteste Finger-Setzung also bei diesem prallenden Doppelschlag ist die bei (c) abgebildete. Dem ungeachtet tut man dennoch wohl, wenn man ihn fleißig mit allen Fingern übet, weil sie dadurch stark und fertig werden; jedoch hängt es nicht allezeit von uns ab, welche Finger wir gerne zu dieser oder jener Manier nehmen. 
 [Tab. V.] Fig. LXVII.
 (c)
 (b)
@@ -1112,7 +1112,7 @@ Wegen der Versetzungs-Zeichen richtet sich diese Manier, wie der Spieler nach de
 .. rubric:: §12
 
 Damit man nach einer kurzen Note die nötigen Finger zum Mordent gleich und"
-"frem babe, so nimmt man zuweilen eine besondere Fingerstellung vor Sig. LXXVI. Diese Applikatur erfordert ein mäßiges Tempo und rechtfertigt sich aus der guten Ausfertigung der punktierten Noten, vermöge welcher nach eingesetztem vierten Finger der Daumen und der zweite Finger zur Ausübung des Mordenten gleich bereit da sein müssen. Man hat bei der langen Note mit dem dritten Finger Zeit genug, die Hand um ein weniges nach der rechten Seite zu rücken. Denn diese Passage ohne Punkte oder in schneller Zeitmaße vorkommt, alsdann bleibt man bei der gewöhnlichen Stellung der Finger. [90]
+"frem babe, so nimmt man zuweilen eine besondere Fingerstellung vor Sig. LXXVI. Diese Applicatur erfordert ein mäßiges Tempo und rechtfertigt sich aus der guten Ausfertigung der punktierten Noten, vermöge welcher nach eingesetztem vierten Finger der Daumen und der zweite Finger zur Ausübung des Mordenten gleich bereit da sein müssen. Man hat bei der langen Note mit dem dritten Finger Zeit genug, die Hand um ein weniges nach der rechten Seite zu rücken. Denn diese Passage ohne Punkte oder in schneller Zeitmaße vorkommt, alsdann bleibt man bei der gewöhnlichen Stellung der Finger. [90]
 
 
 .. rubric:: §13
