@@ -5,9 +5,8 @@ Vorwort
     "There is this wonderful book - everybody should know it. I think it's the greatest book on music. It is a source of constant learning for us. Obviously, you couldn't be closer to the source."
     -- András Schiff 
 
-Dies ist eine digitalisierte Version von Carl Philipp Emanuel Bachs "Versuch über die wahre Art das Clavier zu spielen".
-Das Buch ist ein interessantes zeitgeschichtliches Dokument, das sowohl unterhaltsam als auch aufschlussreich im Bezug auf 
-die Musik und Aufführungspraxis des 18. Jahrhunderts ist.
+Dies ist eine digitalisierte Version des ersten Bands von Carl Philipp Emanuel Bachs "Versuch über die wahre Art das Clavier zu spielen".
+Das Buch ist ein interessantes zeitgeschichtliches Dokument, das sowohl unterhaltsam als auch aufschlussreich im Bezug auf die Musik und Aufführungspraxis des 18. Jahrhunderts ist.
 Es gilt als die erste umfassende Klavierschule in deutscher Sprache.
 
 Das Buch ist in zwei Teile gegliedert. Der erste Teil behandelt
