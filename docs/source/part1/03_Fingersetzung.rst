@@ -287,7 +287,7 @@ Wer diese Haupt-Regel in den Fingern hat, dem wird es allezeit fremde fallen, be
 
 .. rubric:: §34
 
-A-Moll im Absteigen sehen wir bei Fig. VII. mit dreierlei Finger-Ordnung. 
+A-Moll im Absteigen sehen wir bei Fig. VII. mit dreierlei Fingerordnung. 
 Da hier, wie bei C-Dur, auch kein halber Ton vorkommt, so sind sie alle drei gut, und zu gebrauchen. 
 Die, wo der Daumen in das D eingesetzt wird, ist ungewöhnlicher als die anderen.
 
@@ -576,7 +576,7 @@ Es versteht sich von selbst, wie wir schon gehört haben, daß, wenn der Anfang 
 .. rubric:: §52
 
 Fis-Moll im Aufsteigen sehen wir bei Fig. XXVI. einfach. 
-Weiter ist hierbei nichts zu merken, als der Nutzen von der im :ref:`fingersetzung-paragraph-33` angeführten Regel, welcher die nunmehr noch vorkommende Skalen, jemehr Versetzungs-Zeichen sie haben, und jemehr halben Töne dabei vorkommen, desto einfacher und desto weniger gefährlich, folglich zur Übung ganz leichte machen wird.
+Weiter ist hierbei nichts zu merken, als der Nutzen von der im :ref:`fingersetzung-paragraph-33` angeführten Regel, welcher die nunmehr noch vorkommende Skalen, jemehr Versetzungszeichen sie haben, und jemehr halben Töne dabei vorkommen, desto einfacher und desto weniger gefährlich, folglich zur Übung ganz leichte machen wird.
 
 .. figure:: bilder/tab1/tab1-fig26.pdf
     :width: 800px
@@ -591,7 +591,7 @@ Weiter ist hierbei nichts zu merken, als der Nutzen von der im :ref:`fingersetzu
 .. rubric:: §53
 
 Fis-Moll im Absteigen hat nach Fig. XXVII. mit A-Dur einerlei Fingersetzung, die einzige im Aufsteigen für die linke Hand, welche, wie wir im :ref:`fingersetzung-paragraph-50` gesehen haben, nur dann und wann zu gebrauchen ist, ausgenommen. 
-Wir werden aus der Folge ersehen, daß nunmehr alle noch vorkommende weiche Tonarten im Absteigen einerlei Applicatur mit den harten Tonarten annehmen, welche einerlei Versetzungs-Zeichen mit jenen gemein haben, oder, wegen Angrenzung der Tonarten mit den kreuzen an die mit Been noch deutlicher zu sagen, deren Grund-Ton die kleine Terzie von der weichen Tonart ist.
+Wir werden aus der Folge ersehen, daß nunmehr alle noch vorkommende weiche Tonarten im Absteigen einerlei Applicatur mit den harten Tonarten annehmen, welche einerlei Versetzungszeichen mit jenen gemein haben, oder, wegen Angrenzung der Tonarten mit den kreuzen an die mit Been noch deutlicher zu sagen, deren Grund-Ton die kleine Terzie von der weichen Tonart ist.
 
 .. figure:: bilder/tab1/tab1-fig27.pdf
     :width: 800px
@@ -605,7 +605,7 @@ Wir werden aus der Folge ersehen, daß nunmehr alle noch vorkommende weiche Tona
 
 .. rubric:: §54
 
-E-Dur hat bei Fig. XXVIII. für beide Hände so wohl im Aufsteigen als auch im Absteigen einerlei einfache Finger-Ordnung. 
+E-Dur hat bei Fig. XXVIII. für beide Hände so wohl im Aufsteigen als auch im Absteigen einerlei einfache Fingerordnung. 
 Cis-Moll im Absteigen hat dieselbe. 
 Da jedem aus dem vorigen die Leitern von den absteigenden weichen Tonarten bekannt sein können, so werde ich die Abbildung derselben, in so fern sie keine besondere Applicatur haben, als etwas überflüssiges weglassen.
 
@@ -651,18 +651,18 @@ Man muß dieses Einsetzen nicht mit dem überschlagen verwechseln.
 
 .. rubric:: §63
 
-Endlich sehen wir bei dieser Abbildung der Tonleitern, daß die, ohne, oder mit den wenigsten Versetzungs-Zeichen die meiste Veränderungen von Applicaturen erlauben, indem allda das Untersetzen sowohl als das Überschlagen angehet; und daß die übrigen nur einerlei Abwechslung der Finger gestatten. 
+Endlich sehen wir bei dieser Abbildung der Tonleitern, daß die, ohne, oder mit den wenigsten Versetzungszeichen die meiste Veränderungen von Applicaturen erlauben, indem allda das Untersetzen sowohl als das Überschlagen angehet; und daß die übrigen nur einerlei Abwechslung der Finger gestatten. 
 Folglich sind die so genannten leichten Tonarten (weil ihre Applicatur so verschieden ist, und man beide Hilfsmittel zur rechten Zeit gebrauchen lernen muß, ohne sie zu verwirren; weil es nötig ist die einmal erwählte Ordnung in der Folge beizubehalten, und man also wohl zu merken hat, wo der Daumen eingesetzt worden) viel verführerischer und schwerer als die sogenannten schweren Tonarten, indem sie nur eine Art von Fingersetzung haben, wo der Daumen durch die Übung in seinen ordentlichen Platz sich von selbst eindringen lernt. 
 Diese letzteren behalten den Namen der schweren nur aus der Ursache bei, weil entweder gar nicht, oder selten aus selbigen gespielt und gesetzt wird. 
-Hierdurch bleibt ihre Schreib-Art so wohl als die Lage ihrer Tasten allezeit fremde. 
-Durch die wahre Lehre und Anwendung der Finger-Ordnung werden uns also diese schwere Tonarten eben so leichte, als groß die Schwierigkeit war, auf eine falsche Art, besonders ohne Daumen oder den rechten Gebrauch desselben in solchen fort zu kommen. 
-Einer der größten Vorzüge des Klaviers, vermöge dessen man mit besonderer Leichtigkeit aus allen vier- und zwanzig Tonarten spielen kann, ist also durch die Unwissenheit der rechten Applicatur verborgen geblieben.
+Hierdurch bleibt ihre Schreibart so wohl als die Lage ihrer Tasten allezeit fremde. 
+Durch die wahre Lehre und Anwendung der Fingerordnung werden uns also diese schwere Tonarten eben so leichte, als groß die Schwierigkeit war, auf eine falsche Art, besonders ohne Daumen oder den rechten Gebrauch desselben in solchen fort zu kommen. 
+Einer der größten Vorzüge des Klaviers, vermöge dessen man mit besonderer Leichtigkeit aus allen 24 Tonarten spielen kann, ist also durch die Unwissenheit der rechten Applicatur verborgen geblieben.
 
 .. rubric:: §64
 
-Das Untersetzen und überschlagen als die Haupt- Hilfsmittel in der Abwechslung der Finger müssen so gebraucht werden, daß alle Töne dadurch gut zusammen gehängt werden können. 
-Deswegen ist in den Tonarten mit keinen oder wenigen Versetzungs-Zeichen bei gewissen Fällen das überschlagen des dritten Fingers über den vierten und des zweiten über den Daumen besser und nützlicher, um alles mögliche Absetzen zu vermeiden, als der übrige Gebrauch des Überschlagens und das Untersetzen des Daumens, weil selbiger bei vorkommenden halben Tönen mehr Platz und folglich auch mehr Bequemlichkeit hat, unter die anderen Finger durchzukriechen, als bei einer Folge von lauter unten liegenden Tasten. 
-Bei den Tonarten ohne Versetzungs-Zeichen geschieht dieses überschlagen ohne Gefahr des Stolperns hinter einander; bei den anderen aber muß man wegen der halben Töne mehr Behutsamkeit brauchen.
+Das Untersetzen und überschlagen als die Haupt-Hilfsmittel in der Abwechslung der Finger müssen so gebraucht werden, daß alle Töne dadurch gut zusammengehängt werden können. 
+Deswegen ist in den Tonarten mit keinen oder wenigen Versetzungszeichen bei gewissen Fällen das überschlagen des dritten Fingers über den vierten und des zweiten über den Daumen besser und nützlicher, um alles mögliche Absetzen zu vermeiden, als der übrige Gebrauch des Überschlagens und das Untersetzen des Daumens, weil selbiger bei vorkommenden halben Tönen mehr Platz und folglich auch mehr Bequemlichkeit hat, unter die anderen Finger durchzukriechen, als bei einer Folge von lauter unten liegenden Tasten. 
+Bei den Tonarten ohne Versetzungszeichen geschieht dieses überschlagen ohne Gefahr des Stolperns hinter einander; bei den anderen aber muß man wegen der halben Töne mehr Behutsamkeit brauchen.
 
 .. rubric:: §65
 
@@ -869,13 +869,13 @@ In Stücken von drei und mehreren Stimmen, wo jede Stimme ihren ausdrücklichen 
 
 .. rubric:: §95
 
-Endlich habe ich um beiden Händen GelegenheitTab. III. zu geben, sich gleich zu üben, bei Fig. LXVI. zwei Exempel aus den verführerischsten Tonarten mit einem Versetzungs-Zeichen beigefügt, in welchen bei dem ersten durch lauter gehende Noten, und bei dem zweiten durch eingemischte Sprünge das Untersetzen so wohl als das überschlagen nebst dem Gebrauche des kleinen Fingers deutlich zu ersehen ist.
+Endlich habe ich um beiden Händen GelegenheitTab. III. zu geben, sich gleich zu üben, bei Fig. LXVI. zwei Exempel aus den verführerischsten Tonarten mit einem Versetzungszeichen beigefügt, in welchen bei dem ersten durch lauter gehende Noten, und bei dem zweiten durch eingemischte Sprünge das Untersetzen so wohl als das überschlagen nebst dem Gebrauche des kleinen Fingers deutlich zu ersehen ist.
 
 .. rubric:: §96
 
 In gewissen Fällen, wo man leicht ungewiß hätte sein oder gar irren können, welche Noten mit dieser oder jener Hand müssen gespielt werden, habe ich die für die rechte den Strich in die Höhe und die für die linke den Strich herunter kehren lassen. 
 Wenn wegen Mangel des Raums einige Noten in den Mittelstimmen nicht besonders geschwänzt worden sind, so muß man ihre Geltung und Aushaltung nach der Einteilung anderer mit ihnen zugleich anschlagenden Mittel- oder Grund-Stimmen-Noten beurteilen. 
-Da ich in der Schreib-Art der Probe- Stücke hauptsächlich darauf gesehen habe, daß denen Anfängern so viel möglich eine Erleichterung verschaffet und alle Gelegenheit benommen werde, die Hände wegen der ihnen zukommenden Noten zu verwirren: so wird es niemand Wunder nehmen, wenn manchmal die Geltung jeder Note und der Gang jeder Stimme nicht ausdrücklich so, wie man wohl sonsten zu tun pflegt, angedeutet worden. 
+Da ich in der Schreibart der Probe- Stücke hauptsächlich darauf gesehen habe, daß denen Anfängern so viel möglich eine Erleichterung verschaffet und alle Gelegenheit benommen werde, die Hände wegen der ihnen zukommenden Noten zu verwirren: so wird es niemand Wunder nehmen, wenn manchmal die Geltung jeder Note und der Gang jeder Stimme nicht ausdrücklich so, wie man wohl sonsten zu tun pflegt, angedeutet worden. 
 Ein Kenner wird dem ungeachtet gar leicht den Gesang jeder Stimme und die Geltung jeder Note aus einander finden können; In den Probe-Stücken aus dem D Dur und aus dem As ereignet sich die Ursache zu diesem §. einige Mal.
 
 .. rubric:: §97

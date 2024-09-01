@@ -1105,7 +1105,7 @@ Von dem Mordent.
 
 .. rubric:: §1
 
-Wegen der Versetzungs-Zeichen richtet sich diese Manier, wie der Spieler nach den Umständen. Oft trägt der unterste Ton dieser Manier, wegen der Schärfe, ein Versetzungs-Zeichen. Tab. VI. Fig. LXXVI.
+Wegen der Versetzungszeichen richtet sich diese Manier, wie der Spieler nach den Umständen. Oft trägt der unterste Ton dieser Manier, wegen der Schärfe, ein Versetzungszeichen. Tab. VI. Fig. LXXVI.
 [Tab. VI.] Fig. LXXVI.
 
 
