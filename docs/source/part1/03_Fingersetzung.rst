@@ -6,6 +6,9 @@ Das erste Hauptstück. Von der Finger-Setzung
 
 Die Setzung der Finger ist bei den allermeisten Instrumenten durch die natürliche Beschaffenheit derselben gewissermaßen festgesetzt: bei dem Klaviere aber scheint sie am willkürlichsten zu sein, indem die Lage der Tasten so beschaffen ist, dass sie von jedem Finger niedergedrückt werden können. 
 
+.. index::
+    single: Fingersetzung; Grundlagen
+
 .. rubric:: §2
 
 Da nichts destoweniger nur eine Art des Gebrauchs der Finger bei dem Klaviere gut ist, und wenige Fälle in Betrachtung der übrigen mehr als eine Applicatur erlauben; da jeder neue Gedanke beinahe eine neue und eigene Finger-Setzung erfordert, welche oft durch die bloße Verbindung eines Gedankens mit den anderen wieder verändert wird; da die Vollkommenheit des Klaviers eine unerschöpfliche Menge von Möglichkeiten vorzüglich darbietet; da endlich der echte Gebrauch der Finger bisher so unbekannt gewesen und nach Art der Geheimnisse nur unter wenigen geblieben ist, so hat es nicht fehlen können, dass die allermeisten auf diesem schlüpfrigen und verführerischen Wege haben irren müssen. 
@@ -14,6 +17,9 @@ Da nichts destoweniger nur eine Art des Gebrauchs der Finger bei dem Klaviere gu
 
 Dieser Irrtum ist um so viel beträchtlicher, je weniger man ihn oft hat merken können, indem auf dem Klavier das meiste auch mit einer falschen Applicatur, obschon mit entsetzlicher Mühe und ungeschickt, herausgebracht werden kann, anstatt dass bei anderen Instrumenten die geringste falsche Fingersetzung sich mehrenteils durch die bloße Unmöglichkeit, das vorgeschriebene zu spielen, entdeckt. 
 Man hat daher alles der Schwierigkeit des Instruments und der dafür gesetzten Stücke so gleich zugeschrieben und geglaubt, es müsse so und könne nicht anders sein.
+
+.. index::
+    single: Fingersetzung; Notwendigkeit
 
 .. rubric:: §4
     
@@ -54,16 +60,19 @@ Es ist nötig, bevor ich an die Lehre der Applicatur selbst gehe, vorher gewisse
     
 Ein Clavierist muss mitten vor der Tastatur sitzen, damit er mit gleicher Leichtigkeit sowohl die höchsten als tiefsten Töne anschlagen könne.
 
+.. index::
+    single: Sitzhöhe
+
 .. rubric:: §11
     
 Hängt der Vorderteil des Armes etwas weniges nach dem Griffbrette herunter, so ist man in der gehörigen Höhe.
 
 .. index::
-    single: Grimassen
     single: Daumen
     single: Finger; runde
     single: Finger; lange
     single: Daumen; Entfernung der anderen Finger vom
+    single: Nerven; schlappe
 
 .. _part1-paragraph-12:
 
@@ -82,6 +91,11 @@ Wer den Daumen nicht braucht, der lässt ihn herunterhangen, damit er ihm nicht 
 Was kann man auf diese Art wohl besonders ausrichten? 
 Der Gebrauch des Daumens gibt der Hand nicht nur einen Finger mehr, sondern zugleich den Schlüssel zur ganzen möglichen Applicatur. Dieser Haupt-Finger macht sich auch überdem dadurch verdient, weil er die übrigen Finger in ihrer Geschmeidigkeit erhält, indem sie sich allezeit biegen müssen, wenn der Daumen sich bald bei diesem, bald jenem Finger einbringt. 
 Was man ohne ihn mit steifen und gestreckten Nerven bespringen musste, das spielt man durch seine Hilfe rund, deutlich, mit ganz natürlichen Spannungen, folglich leicht.
+
+.. index::
+    single: Nerven; schlappe
+    single: Sprünge
+    single: Hand; Ausdehnung 
 
 .. rubric:: §14
 
@@ -106,7 +120,8 @@ Man muß beim Spielen beständig auf die Folge sehen, indem diese oft Ursache is
 
 Die entgegengesetzte Lage der Finger an beiden Händen verbindet mich, die Exempel über besondere Vorfälle, in zweierlei Bewegung anzuführen, um solche beiden Händen aus der Ursache, warum es hingesetzet worden ist, brauchbar zu machen. 
 Dem ungeachtet habe ich die Exempel von einiger Erheblichkeit für beide Hände beziffert, damit man zugleich solche mit beiden Händen üben könne. 
-Man kann nicht zu viel Gelegenheit geben, diese schon oben in der Einleitung :ref:`einleitung-paragraph-17` angepriesene Art von Übung im Einklange anzuwenden. Jeder vorgezeichnete Schlüssel deutet an, für welche Hand die Ziffern gehören;
+Man kann nicht zu viel Gelegenheit geben, diese schon oben in der Einleitung :ref:`einleitung-paragraph-17` angepriesene Art von Übung im Einklange anzuwenden. 
+Jeder vorgezeichnete Schlüssel deutet an, für welche Hand die Ziffern gehören;
 stehen über und unter den Noten zugleich Ziffern, so gehen allezeit, unabhängig davon, was für ein Schlüssel vorgezeichnet ist, die obersten die rechte und die untersten die linke Hand an.
 
 .. rubric:: §18
@@ -126,9 +141,16 @@ Nach dieser finden wir, dass einige Tasten tiefer liegen und vor den andern vors
 
 Ich werde nach der gewöhnlichen Art die Daumen mit der Ziffer 1, die kleinen mit 5, die Mittelfinger mit 3, die Finger nächst dem Daumen mit 2 und die neben dem kleinen Finger mit 4 bezeichnen.
 
+.. index::
+    single: Halbentöne (schwarze Tasten)
+
 .. rubric:: §21
 
 Die erhabenen und hinten stehenden Tasten werde ich in der Folge durch ihren mehr gewöhnlichen als richtigen Namen der Halbentöne von den übrigen unterscheiden.
+
+.. index::
+    single: Daumen; auf schwarzen Tasten
+    single: Kleiner Finger; auf schwarzen Tasten
 
 .. rubric:: §22
 
@@ -145,11 +167,13 @@ Die einstimmigen gehenden Gedanken werden nach ihrer Tonart beurteilt, folglich 
 Hierauf werde ich die mehrstimmigen Gedanken durchgehen; 
 diesen werden Exempel mit Spannungen und Sprüngen folgen, weil man sie leicht nach den mehrstimmigen Gedanken abmessen oder gar auf harmonische Zusammenklänge zurückführen kann; 
 endlich werde ich von den Bindungen, von einigen Freiheiten wider die Regeln, einigen schweren Exempeln und Hilfsmitteln handeln; 
-zuletzt werden die Probe- Stücke das noch übrige nachholen, durch deren Anhängung ich in verbundenen Gedanken von allerlei Art mehr Nutzen zu stiften, und mehr Lust zu dem schweren Studio der Applicatur zu erregen geglaubt habe, als wenn ich durch Überhäufung vieler, aus ihrem Zusammenhäng gerissenen Exempel unerträglich und zu weitläufig worden wäre.
+zuletzt werden die Probestücke das noch übrige nachholen, durch deren Anhängung ich in verbundenen Gedanken von allerlei Art mehr Nutzen zu stiften, und mehr Lust zu dem schweren Studio der Applicatur zu erregen geglaubt habe, als wenn ich durch Überhäufung vieler, aus ihrem Zusammenhäng gerissenen Exempel unerträglich und zu weitläufig worden wäre.
 
 .. rubric:: §25
 
-Die Abwechslung der Finger ist der hauptsächlichste Vorwurf der Applicatur. Wir können mit unseren fünf Fingern nur fünf Töne nach einander anschlagen; folglich merke man vornehmlich zwei Mittel, wodurch wir bequem so viel Finger gleichsam kriegen als wir brauchen. Diese zwei Mittel bestehen in dem Untersetzen und überschlagen.
+Die Abwechslung der Finger ist der hauptsächlichste Vorwurf der Applicatur. 
+Wir können mit unseren fünf Fingern nur fünf Töne nach einander anschlagen; folglich merke man vornehmlich zwei Mittel, wodurch wir bequem so viel Finger gleichsam kriegen als wir brauchen. 
+Diese zwei Mittel bestehen in dem Untersetzen und überschlagen.
 
 .. rubric:: §26
 
@@ -161,16 +185,28 @@ Das überschlagen geschieht von den anderen Fingern und wird dadurch erleichtert
 
 .. rubric:: §28
 
-Das Untersetzen des Daumens nach dem kleinen Finger, das Überschachen des zweiten Fingers über den dritten, des dritten über den zweiten, des vierten über den kleinen, ingleichen des kleinen Fingers über den Daumen ist verwerflich.
+Das Untersetzen des Daumens unter den kleinen Finger, das Übersetzen 
+    * des zweiten Fingers über den dritten
+    * des dritten über den zweiten
+    * des vierten über den kleinen
+    * des kleinen Fingers über den Daumen
+ist verwerflich.
 
 .. rubric:: §29
 
-Den rechten Gebrauch dieser zwei Hilfsmittel werden wir aus der Ordnung der Ton-Leitern aufs deutlichste ersehen. Dieses ist der Haupt-Nutzen dieser Vorschrift. Bei gehenden Passagien durch die Ton-Leitern, welche sich nicht eben so anfangen und endigen, wie sie hier abgebildet sind, verstehet es sich von selbst, daß man wegen der Folge die Finger so einteilt, daß man just damit auskommt, ohne allezeit verbunden zu sein, denselben Finger eben auf die Taste zu setzen und keinen anderen.
+Den rechten Gebrauch dieser zwei Hilfsmittel werden wir aus der Ordnung der Tonleitern aufs deutlichste ersehen. 
+Dieses ist der Haupt-Nutzen dieser Vorschrift. 
+Bei gehenden Passagien durch die Tonleitern, welche sich nicht eben so anfangen und endigen, wie sie hier abgebildet sind, verstehet es sich von selbst, daß man wegen der Folge die Finger so einteilt, daß man just damit auskommt, ohne allezeit verbunden zu sein, denselben Finger eben auf die Taste zu setzen und keinen anderen.
+
+.. index::
+    single: Tonleiter; C-Dur im Aufsteigen
 
 .. rubric:: §30
 
 Bei Tab. I. Fig. I. ist uns die Scala C-Dur im Aufsteigen vorgemalt. 
-Wir sehen hierbei drei Arten von Finger-Setzung für jede Hand. Keine davon ist verwerflich, ungeachtet die mit dem überschlagen des dritten Fingers über den vierten in der rechten Hand und in der Linken des zweiten Fingers über den Daumen, und die, wo der Daumen in F wieder eingesetzt wird, vielleicht gewöhnlicher sein mögen als die dritte Art. In wie fern jede gut zu brauchen ist, sehen wir aus den Exempeln bei Fig. II.
+Wir sehen hierbei drei Arten von Finger-Setzung für jede Hand. 
+Keine davon ist verwerflich, ungeachtet die mit dem überschlagen des dritten Fingers über den vierten in der rechten Hand und in der Linken des zweiten Fingers über den Daumen, und die, wo der Daumen in F wieder eingesetzt wird, vielleicht gewöhnlicher sein mögen als die dritte Art. 
+In wie fern jede gut zu brauchen ist, sehen wir aus den Exempeln bei Fig. II.
 
 .. figure:: bilder/tab1/tab1-fig1.pdf
     :width: 800px
@@ -186,9 +222,13 @@ Wir sehen hierbei drei Arten von Finger-Setzung für jede Hand. Keine davon ist 
 
     Fig. II.: Beispielhafte Fingersätze
 
+.. index::
+    single: Tonleiter; C-Dur im Absteigen
+
 .. rubric:: §31
 
-Fig. III. zeigt uns C-Dur im Absteigen. Es finden sich hier abermals drei Arten von Applicatur, welche alle drei gut sein können in gewissen Absichten, wie wir aus den unter Fig. IV. angeführten Exempeln sehen, ob schon außer diesen Fällen, wobei sie so und nicht anders sein müssen, eine mehr üblich sein kann wie die andere.
+Fig. III. zeigt uns C-Dur im Absteigen. 
+Es finden sich hier abermals drei Arten von Applicatur, welche alle drei gut sein können in gewissen Absichten, wie wir aus den unter Fig. IV. angeführten Exempeln sehen, ob schon außer diesen Fällen, wobei sie so und nicht anders sein müssen, eine mehr üblich sein kann wie die andere.
 
 .. figure:: bilder/tab1/tab1-fig3.pdf
     :width: 800px
@@ -209,7 +249,11 @@ Fig. III. zeigt uns C-Dur im Absteigen. Es finden sich hier abermals drei Arten 
 .. rubric:: §32
 
 Wir lernen hierbei aus den unter Fig. II. und IV. befindlichen Exempeln, daß außer der Notwendigkeit beständig auf die Folge zu sehen, der kleine Finger allezeit gleichsam zum Hinterhalt in gehenden Passagien bleibt und hierbei nicht eher gebraucht wird, als entweder im Anfange, oder wenn derselben Umfang just mit ihm zu Ende geht; 
-dieses verstehet sich gleichfalls bei den Skalen, wo er manchmal drüber steht. Außer diesem Falle nimmt man dafür den Daumen. Um wegen dieses kleinen Fingers keine Verwirrung anzurichten, habe ich die Skalen bis über die Oktave verlängert, damit man die Folge desto deutlicher sehen könne.
+dieses verstehet sich gleichfalls bei den Skalen, wo er manchmal drüber steht. Außer diesem Falle nimmt man dafür den Daumen. 
+Um wegen dieses kleinen Fingers keine Verwirrung anzurichten, habe ich die Skalen bis über die Oktave verlängert, damit man die Folge desto deutlicher sehen könne.
+
+.. index::
+    single: Tonleiter; A-Moll im Aufsteigen
 
 .. _fingersetzung-paragraph-33:
 
@@ -235,6 +279,8 @@ Wer diese Haupt-Regel in den Fingern hat, dem wird es allezeit fremde fallen, be
 
     Fig. VI.: Fingersätze, die den Daumen auf D rechtfertigen
 
+.. index::
+    single: Tonleiter; A-Moll im Absteigen
 
 .. rubric:: §34
 
@@ -247,6 +293,9 @@ Da hier, wie bei C-Dur, auch kein halber Ton vorkommt, so sind sie alle drei gut
     :alt: Fig. VII.: A-Moll im Absteigen
 
     Fig. VII.: A-Moll im Absteigen
+
+.. index::
+    single: Tonleiter; G-Dur im Aufsteigen
 
 .. _fingersetzung-paragraph-35:
 
@@ -269,6 +318,9 @@ Das bei Fig. IX. angeführte Exempel (a) könnte eine Ausnahme wider unsere Rege
 
     Fig. IX.: Beispielhafte Fingersätze
 
+.. index::
+    single: Tonleiter; G-Dur im Absteigen
+
 .. rubric:: §36
 
 G-Dur im Absteigen erscheint bei Fig. X. ebenfalls mit dreierlei Ordnungen der Finger. Die, wo der Daumen ins C steigt, ist ohne Zweifel die ungewöhnlichste; die von den Noten entfernste, die gefährlichste; alle 3 aber brauchbar.
@@ -279,6 +331,9 @@ G-Dur im Absteigen erscheint bei Fig. X. ebenfalls mit dreierlei Ordnungen der F
     :alt: Fig. X.: G-Dur im Absteigen
 
     Fig. X.: G-Dur im Absteigen
+
+.. index::
+    single: Tonleiter; E-Moll im Aufsteigen
 
 .. rubric:: §37
 
@@ -294,6 +349,9 @@ Diese sonst so gewisse Regel leidet wie wir in der Folge sehen werden, nur ein P
 
     Fig. XI.: E-Moll im Aufsteigen
 
+.. index::
+    single: Tonleiter; E-Moll im Absteigen
+
 .. rubric:: §38
 
 E-Moll im Absteigen sehen wir bei Fig. XII. mit zweierlei Finger-Setzung, wovon die, nächst über und unter den Noten, die beste ist.
@@ -304,6 +362,9 @@ E-Moll im Absteigen sehen wir bei Fig. XII. mit zweierlei Finger-Setzung, wovon 
     :alt: Fig. XII.: E-Moll im Absteigen
 
     Fig. XII.: E-Moll im Absteigen
+
+.. index::
+    single: Tonleiter; F-Dur im Aufsteigen
 
 .. rubric:: §39
 
@@ -316,6 +377,9 @@ F-Dur im Aufsteigen hat im Diskante nur eine gute Applicatur, laut Fig. XIII. hi
 
     Fig. XIII.: F-Dur im Aufsteigen
 
+.. index::
+    single: Tonleiter; F-Dur im Absteigen
+
 .. rubric:: §40
 
 F-Dur im Absteigen zeigt sich bei Fig. XIV. im Diskante mit zweien, und im Basse mit drei Applikaturen. Die nächst über und unter den Noten sind die gewöhnlichsten; in den anderen ist nichts unregelmäßiges, sie können bei gewissen Fällen nötig sein, folglich kann man sie dabei mit merken.
@@ -326,6 +390,9 @@ F-Dur im Absteigen zeigt sich bei Fig. XIV. im Diskante mit zweien, und im Basse
     :alt: Fig. XIV.: F-Dur im Absteigen
 
     Fig. XIV.: F-Dur im Absteigen
+
+.. index::
+    single: Tonleiter; D-Moll im Aufsteigen
 
 .. rubric:: §41
 
@@ -338,6 +405,9 @@ D-Moll im Aufsteigen bei Fig. XV. hat für jede Hand dreierlei Finger-Setzung, w
 
     Fig. XV.: D-Moll im Aufsteigen
 
+.. index::
+    single: Tonleiter; D-Moll im Absteigen
+
 .. rubric:: §42
 
 D-Moll im Absteigen finden wir bei Fig. XVI. mit zweierlei Arten von Setzung der Finger für jede Hand. Die beiden, welche am weitesten von den Noten entfernt stehen, sind wegen des vorkommenden halben Tones nicht die besten, welcher hier gerne den Daumen in das a verlangt.
@@ -349,6 +419,9 @@ D-Moll im Absteigen finden wir bei Fig. XVI. mit zweierlei Arten von Setzung der
 
     Fig. XVI.: D-Moll im Absteigen
 
+.. index::
+    single: Tonleiter; B-Dur im Aufsteigen
+
 .. rubric:: §43
 
 B-Dur hat nur diese einzige bei Fig. XVII. angemerkte Applicatur so wohl im Auf- als Absteigen.
@@ -359,6 +432,9 @@ B-Dur hat nur diese einzige bei Fig. XVII. angemerkte Applicatur so wohl im Auf-
     :alt: Fig. XVII.: B-Dur im Aufsteigen
 
     Fig. XVII.: B-Dur im Aufsteigen
+
+.. index::
+    single: Tonleiter; G-Moll im Aufsteigen
 
 .. rubric:: §44
 
@@ -372,6 +448,9 @@ die anderen können dem ohngeachtet in gewissen Fällen auch gute Dienste tun.
 
     Fig. XVIII.: G-Moll im Aufsteigen
 
+.. index::
+    single: Tonleiter; G-Moll im Absteigen
+
 .. rubric:: §45
 
 G-Moll im Absteigen ist nach Fig. XIX. nur einfach. Man wird von selbst begreifen, wenn eine Passagie nicht just sich so anfinge, was man im Anfange vor einen Finger einsetzen müsste.
@@ -382,6 +461,9 @@ G-Moll im Absteigen ist nach Fig. XIX. nur einfach. Man wird von selbst begreife
     :alt: Fig. XIX.: G-Moll im Absteigen
 
     Fig. XIX.: G-Moll im Absteigen
+
+.. index::
+    single: Tonleiter; D-Dur im Aufsteigen
 
 .. rubric:: §46
 
@@ -394,6 +476,9 @@ D-Dur im Aufsteigen bei Fig. XX. hat in der rechten Hand nur eine, in der Linken
 
     Fig. XX.: D-Dur im Aufsteigen
 
+.. index::
+    single: Tonleiter; D-Dur im Absteigen
+
 .. rubric:: §47
 
 D-Dur im Absteigen zeigt in Fig. XXI. für die rechte Hand dreierlei und für die linke zweierlei Finger-Setzung, wovon jede in ihrer Art brauchbar ist.
@@ -404,6 +489,9 @@ D-Dur im Absteigen zeigt in Fig. XXI. für die rechte Hand dreierlei und für di
     :alt: Fig. XXI.: D-Dur im Absteigen
 
     Fig. XXI.: D-Dur im Absteigen
+
+.. index::
+    single: Tonleiter; H-Moll im Aufsteigen
 
 .. rubric:: §48
 
@@ -419,6 +507,9 @@ Wer solche Regel gut in den Fingern hat, muß wohl acht haben, damit er nicht de
 
     Fig. XXII.: H-Moll im Aufsteigen
 
+.. index::
+    single: Tonleiter; H-Moll im Absteigen
+
 .. rubric:: §49
 
 H-Moll im Absteigen treffen wir bei Fig. XXIII. einfach an. 
@@ -430,6 +521,9 @@ Man könnte auch mit dem kleinen Finger in der rechten Hand anfangen und den Dau
     :alt: Fig. XXIII.: H-Moll im Absteigen
 
     Fig. XXIII.: H-Moll im Absteigen
+
+.. index::
+    single: Tonleiter; A-Dur im Aufsteigen
 
 .. _fingersetzung-paragraph-50:
 
@@ -444,6 +538,9 @@ A-Dur im Aufsteigen finden wir unter Fig. XXIV. mit einer Applicatur für die re
 
     Fig. XXIV.: A-Dur im Aufsteigen
 
+.. index::
+    single: Tonleiter; A-Dur im Absteigen
+    
 .. rubric:: §51
 
 A-Dur im Absteigen zeigt Fig. XXV. einfach. 
@@ -456,6 +553,9 @@ Es versteht sich von selbst, wie wir schon gehört haben, daß, wenn der Anfang 
 
     Fig. XXV.: A-Dur im Absteigen
 
+.. index::
+    single: Tonleiter; Fis-Moll im Aufsteigen
+
 .. rubric:: §52
 
 Fis-Moll im Aufsteigen sehen wir bei Fig. XXVI. einfach. Weiter ist hierbei nichts zu merken, als der Nutzen von der im :ref:`fingersetzung-paragraph-33` angeführten Regel, welcher die nunmehr noch vorkommende Skalen, jemehr Versetzungs-Zeichen sie haben, und jemehr halben Töne dabei vorkommen, desto einfacher und desto weniger gefährlich, folglich zur Übung ganz leichte machen wird.
@@ -466,6 +566,9 @@ Fis-Moll im Aufsteigen sehen wir bei Fig. XXVI. einfach. Weiter ist hierbei nich
     :alt: Fig. XXVI.: Fis-Moll im Aufsteigen
 
     Fig. XXVI.: Fis-Moll im Aufsteigen
+
+.. index::
+    single: Tonleiter; Fis-Moll im Absteigen
 
 .. rubric:: §53
 
@@ -479,6 +582,9 @@ Wir werden aus der Folge ersehen, daß nunmehr alle noch vorkommende weiche Tona
 
     Fig. XXVII.: Fis-Moll im Absteigen
 
+.. index::
+    single: Tonleiter; E-Dur im Aufsteigen
+
 .. rubric:: §54
 
 E-Dur hat bei Fig. XXVIII. für beide Hände so wohl im Aufsteigen als auch im Absteigen einerlei einfache Finger-Ordnung. 
@@ -491,6 +597,9 @@ Da jedem aus dem vorigen die Leitern von den absteigenden weichen Tonarten bekan
     :alt: Fig. XXVIII.: E-Dur im Aufsteigen
 
     Fig. XXVIII.: E-Dur im Aufsteigen
+
+.. index::
+    single: Tonleiter; Cis-Moll im Aufsteigen
 
 .. rubric:: §55
 

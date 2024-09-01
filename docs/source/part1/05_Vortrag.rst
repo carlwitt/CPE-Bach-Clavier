@@ -356,11 +356,11 @@ Man merke hier, wenn eine andere Stimme in die Quere kommt, daß man alsdann die
 Sollte dieser Fall bei zwei beschäftigten Händen vorkommen, so ergreift so gleich die andere Hand diese zuletzt angeschlagene Note bevor ihn die erste Hand verläßt. 
 Hierdurch erhält man das Nachsingen ohne einen neuen Anschlag zu machen. 
 Das bei diesen weißen Noten erforderte Stillehalten geschieht deswegen, damit man das Kadenzenmachen zweier oder dreier Personen, ohne Abrede zu nehmen, nachahme, indem man dadurch gleichsam vorstellet, als wenn eine Person auf die andere genau Achtung gebe, ob deren Proposition zu Ende sei oder nicht.
- Außer dem würden die Kadenzen ihre natürliche Eigenschaft verlieren, und es dürfte scheinen, als ob man, statt eine Kadenz zu machen, ein ausdrücklich nach dem Takt gesetztes Stück mit Bindungen spielte. 
- Dem ungeachtet fällt dieses Stillehalten weg, so bald die Auflösung der Harmonie, welche bei dem Eintritt einer weißen Note vorgehet, erfordert, daß die gerade über dieser weißen stehende Note zugleich mit ihr angeschlagen werden muß.
+Außer dem würden die Kadenzen ihre natürliche Eigenschaft verlieren, und es dürfte scheinen, als ob man, statt eine Kadenz zu machen, ein ausdrücklich nach dem Takt gesetztes Stück mit Bindungen spielte. 
+Dem ungeachtet fällt dieses Stillehalten weg, so bald die Auflösung der Harmonie, welche bei dem Eintritt einer weißen Note vorgehet, erfordert, daß die gerade über dieser weißen stehende Note zugleich mit ihr angeschlagen werden muß.
 
 .. index::
-    single: Probestücke; F-Dur
+    single: Probestück; in F-Dur
     single: Variation; in Wiederholungen
 
 .. rubric:: §31

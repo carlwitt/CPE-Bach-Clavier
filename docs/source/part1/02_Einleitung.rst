@@ -7,8 +7,8 @@ Einleitung
 Zur wahren Art das Klavier zu spielen, gehören hauptsächlich drei Stücke, welche so genau mit einander verbunden sind, daß eines ohne das andere weder sein kann, noch darf; nämlich die rechte Finger-Setzung, die guten Manieren, und der gute Vortrag.
 
 .. index::
-    single: Ekel
-    single: Gehacke
+    single: Vortrag; guter
+    single: Cantabile
 
 .. rubric:: §2
 
@@ -23,14 +23,16 @@ Ich weiß nicht, da man solchergestalt das Clavier für unsere heutige Musik so 
 Außer den Fehlern wider oben angeführte drei Punkte, hat man den Scholaren eine falsche Haltung der Hände gewiesen, wenigstens hat man ihnen solche nicht abgewöhnt; dadurch ist ihnen folgends alle Möglichkeit abgeschnitten worden, etwas Gutes herauszubringen, und man hat von den steifen und am Draht gezogenen Fingern schon auf das übrige schließen können.
 
 .. index::
-    single: Lehrmeister
-    single: Clavier-Sachen; französische
+    single: Klavierausbildung; Mängel der
+    single: Klavierausbildung; Lehrmeister
+    single: Klaviermusik; französische
+    single: Vortrag; wohl zusammenhängender
 
 .. rubric:: §4 
 
 Jeder Lehrmeister beinahe drängt seinen Schülern seine eigenen Arbeiten auf, da es heute zu Tage eine Schande zu sein scheinet, nichts selber setzen zu können. 
 Daher werden den Lehrlingen, andere gute Clavier-Sachen, woraus sie was lernen könnten, unter dem Vorwande, als ob sie zu alt oder zu schwer wären, vorenthalten. 
-Besonders ist man durch ein übles Vorurteil wider die französischen Clavier-Sachen eingenommen, welche doch allzeit eine gute Schule für Clavier-Spieler gewesen sind, indem diese Nation durch eine zusammenhängende und propre Spiel-Art sich besonders vor anderen unterschieden hat. 
+Besonders ist man durch ein übles Vorurteil wider die französischen Clavier-Sachen eingenommen, welche doch allzeit eine gute Schule für Clavier-Spieler gewesen sind, indem diese Nation durch eine zusammenhängende und propre Spielart sich besonders vor anderen unterschieden hat. 
 Alle nötigen Manieren sind ausdrücklich dabei gesetzt, die linke Hand ist nicht geschont und an Bindungen fehlt es nicht. 
 Diese aber tragen zur Erlernung des wohl zusammenhängenden Vortrages das hauptsächlichste bei. 
 Der Lehrmeister kann oft selbst nicht mehr als sein Machwerk spielen; seine verwöhnte und ungeschickte Maschine teilt seinen Gedanken das Steife mit; er kann nichts anders setzen, als was er bezwingen kann;
@@ -40,7 +42,7 @@ folglich sehen wir daher eine große Menge elender Arbeiten für das Clavier und
 .. index::
     single: Gassenhauer
     single: Mourquis-Bass
-    single: Hand; linke
+    single: Linke Hand; Schulung der
 
 .. rubric:: §5 
 
@@ -61,11 +63,12 @@ Man martert am Anfang die Scholaren mit abgeschmackten Mourquis-Bässen [#mourqu
 Fängt endlich der Schüler durch Anhörung guter Musiken an, einen etwas feineren Geschmack zu kriegen, so ekelt ihm vor seinen vorgeschriebenen Stücken, er glaubt alle Clavier Sachen sind von derselben Art, folglich nimmt er seine Zuflucht besonders zu Singe-Arien, welche, wenn sie gut gesetzt sind, und die Gelegenheit da ist, solche von guten Meistern singen zu hören, zur Bildung eines guten Geschmacks und zur Übung des guten Vortrages sehr förderlich sind, aber nicht zur Formierung der Finger. 
 
 .. index::
-    single: Hand; linke
+    single: Trommelbass
 
 .. rubric:: §7 
 
-Der Lehr-Meister muss diesen Arien Gewalt antun und sie auf das Clavier setzen. Außer anderen daraus entstehenden Ungleichheiten leidet hier abermals die linke Hand, indem solche mehrenteils mit faulen oder gar Trommel-Bässen [#trommel]_ gesetzt sind, welche zu ihrer Absicht so sein mussten, aber beim Clavierspielen der linken Hand mehr Schaden als Nutzen bringen. 
+Der Lehr-Meister muss diesen Arien Gewalt antun und sie auf das Clavier setzen. 
+Außer anderen daraus entstehenden Ungleichheiten leidet hier abermals die linke Hand, indem solche mehrenteils mit faulen oder gar Trommel-Bässen [#trommel]_ gesetzt sind, welche zu ihrer Absicht so sein mussten, aber beim Clavierspielen der linken Hand mehr Schaden als Nutzen bringen. 
 
 .. [#trommel] *Walter Niemann:* Spöttische Bezeichnung für denselben Ton zum Überdruß wiederholende unkünstlerische Bassbegleitungen wie
 
@@ -83,7 +86,7 @@ Nach allem diesem verliert der Clavier-Spieler diesen besonderen Vorteil, welche
 Auf unserem Instrumente fallen diese sonst schweren Takt-Teilchen zu erlernen besonders leicht, weil eine Hand der anderen zu Hilfe kommt; folglich entsteht hieraus unbemerkt eine Fertigkeit im Takte. 
 
 .. index::
-    single: Hand; linke
+    single: Linke Hand; faule
 
 .. rubric:: §9 
 
@@ -93,8 +96,7 @@ Mancher hat es schon mit seinem Nachteil durch ein vieljähriges fleißiges Gene
 .. [#f1] Ich habe es für nötig gefunden, denen zu gefallen, welchen das Amt, den General-Bass zu spielen, aufgetragen ist, meine Gedanken über die Art, geschwinde Noten auf einem Tone mit der linken Hand abzufertigen, bei dieser Gelegenheit zu eröffnen. Es ist dieses sonst die sicherste Gelegenheit, wodurch die besten Hände verdorben und steif werden können, indem dergleichen Noten bei unserer jetzigen Setz-Art sehr gewöhnlich sind. Es können ferner diejenigen durch diese Anmerkung sich rechtfertigen, vor welchen ausdrücklich verlangt wird, alle Noten mit der linken Hand auszudrücken. Da das Durchgehen der Noten im General-Bass überhaupt bekannt genug ist, so versteht es sich von selbst, dass die rechte Hand in diesem Falle ebenfalls nicht alle Noten anschlägt. Die geschwinden Noten auf einem Tone, von deren Schädlichkeit ich spreche, sind die Achtel im geschwinden Zeitmaße, und im gemäßigten die Sechzehntel. Ich setze ferner voraus, dass außer dem Claviere noch ein anderes Instrument den Bass mitspielt. Ist das Clavier alleine, so spielt man solche Noten, wie die Schwärmer, mit abwechselnden Fingern. Es wird zwar auf diese Art, durch Weglassung der Oktave, der Bass nicht allezeit durchdringend genug sein, man muss aber diese kleine Unvollkommenheit anderen größeren Übeln vorziehen. Man tut also am besten, man lässt von solchen Noten nach Beschaffenheit des Zeit-Maßen und der Taktart, eine, drei, oder fünf ohne Anschlag durchgehen, und die anzuschlagenden spielt man mit der Oktave auch wohl bei fortissimo mit beiden vollen Händen, mit schweren Anschlägen, etwas unterhalten, damit die Saiten genugsam Zittern können, und ein Ton sich mit dem anderen wohl vereinige. Man kann allenfalls, um die Mitbegleitenden nicht zu verwirren, den ersten Takt, wie er geschrieben steht, spielen, und nachher die Noten durchgehen lassen. Sonst hätte man, wenn ja jede Note auf dem Flügel fehlte und müsste gehört werden, noch dieses Mittel übrig, das man in diesem Falle durch einen mit beiden Händen abwechselnden Anschlag die vorgeschriebene Bewegung hervorbrächte; doch habe ich die Erfahrung, dass diese Art zu begleiten für die Mitspielenden etwas verführerisch ist, weil die rechte Hand beständig zu spät kommt, und dieses hat man in meiner Meinung bestärkt, dass das Clavier allezeit das Augenmerk des Taktes sein und bleiben wird. So wenig unrecht, ja so nützlich die Art der Begleitung in gewissen Fällen ist, wenn bei haltenden Noten, welche alle Stimmen haben, das Clavier die Takt-Teile durch den Anschlag deutlich hören lässt: so leicht kann man das Nötige und Nützliche sowohl aus dem Durchgehen-lassen, als das Schädliche und Unmögliche aus dem Ausdruck aller Noten erweisen. Dieses letztere ist schädlich; andere Instrumentisten können diese Art Noten mit der Zunge und dem Gelenk herausbringen; der Clavierist allein muss mit dem ganzen steifen Arm dieses Zittern hervorbringen, wenn er wegen Verdoppelung der Oktave mit den Fingern nicht abwechseln kann. Hierdurch wird die linke Hand aus doppelter Ursache steif, und folglich unvermögend Passagien rund herauszubringen, erstlich, weil alle Nerven in einer beständigen Steife erhalten werden, zweitens, weil die übrigen Finger nichts zu tun haben. Man versuche es, und spiele einen mit Passagien versehenen Bass, nachdem man sich vorher an Trommel-Bässen müde gepaukt hat, man wird merken, dass die linke Hand und der ganze Arm in einer solchen Müdigkeit, Drehung und Steife sich befinden wird, dass man in der Folge unbrauchbar ist. Solchergestalt ist dieses Tockiren auch nicht möglich, indem man heute zu Tage sehr viele solche Bässe zu sehen kriegt, von denen mannigmal kaum einer wegen seiner Länge durchzudauern ist. Bei allen Arten von Musik ruhen bisweilen die anderen Musici nur allein. Das Clavier ist meistenteils ohne Ablösung beständig drei, vier und noch mehrere Stunden durch in beständiger Arbeit. Gesetzt man wäre dieser Arbeit gewachsen, so wird auch der festeste Musikus durch eine ganz natürlich erfolgende Müdigkeit schläfrig und unvermerkt im Takte schleppend werden. Er wird hierdurch aus dem Vermögen und der Lust gesetzt, andere rührende Gedanken richtig vorzutragen, weil er durch die Trommel-Bässe, welche oft ohne besonderen Ausdruck sind, und wobei sich nichts denken lässt, müde und verdrüßlich worden ist. Dieses schädliche Tockiren ist ferner wider die Natur der Flügel sowohl als der piano forte, beide Instrumente verlieren hierdurch ihren natürlichen Ton, und die Deutlichkeit; der Tangente von den Flügeln spricht selten geschwind genug an. Die Franzosen, welche die Natur des Claviers sehr gut wissen, und welchen wohl bekannt ist, dass man auf solchem etwas mehr als ein bloßes Geklimper hervorbringen kann, pflegen zu dem Ende noch jetzt in ihren Generalbässen bei solchen Arten von Noten dem Clavieristen besonders anzudeuten, dass er solche nicht alle anschlagen darf. Außerdem kommt man durch langsame schwere Anschläge dem in vielen Bässen durch Punkte oder Striche über die erste Note einer Figur angedeuteten Ausdruck zu Hilfe. Es können ein Haufen Fälle vorkommen, wo ein deutlicher und in beiden Händen gleicher Anschlag nicht nur nützlich, sondern auch höchstnotwendig ist. Das Clavier, welchem unsere Vorfahren schon die Anführung anvertrauten, ist solchergestalt am besten im Stande, nicht allein die übrigen Bässe sondern auch die ganze Musik in der nötigen Gleichheit vom Takte zu erhalten; diese Gleichheit kann auch dem besten Musico, ob er schon übrigens sein Feuer in seiner Gewalt hat, im andern Falle durch die Ermüdung schwer werden. Da dies nun bei einem geschehen kann, so ist diese Vorsicht, wenn viele zusammen musizieren, um so viel nötiger, je mehr hierdurch das Takt-Schlagen, welches heut zu Tage bloß den weitläuftigen Musiken gebräuchlich ist, vollkommen ersetzt wird. Der Ton des Flügels, welcher ganz recht von den Mitmusizierenden umgeben steht, fällt allen deutlich ins Gehör. Daher weiß ich, dass sogar zerstreute und weitläufige Musiken, bei welchen oft viele freiwillige und mittelmäßige Musici sich befunden haben, bloß durch den Ton des Flügels in Ordnung erhalten worden sind. Steht der erste Violinist folglich, wie es sich gehört, nahe am Flügel; so kann nicht leicht eine Unordnung einreißen. Bei Singe-Arien, worinnen das Zeitmaß sich schleunig verändert, oder worinnen alle Stimmen gleich lärmen, und die Singstimme allein lange Noten oder Triolen hat, welche wegen Einteilung einen deutlichen Taktschlag erfordern haben die Sänger auf diese Art eine große Erleichterung. Dem Basse wird es ohnehin am leichtesten, die Gleichheit des Taktes zu erhalten, je weniger er gemeiniglich mit schweren und bunten Passagien beschäftigt ist, und je öfter dieser Umstand oft Gelegenheit gibt, dass man ein Stück feuriger anfängt als beschließt. Will jemand anfangen und eilen oder schleppen, so kann er durchs Klavier am deutlichsten zu Rechte gebracht werden, indem die andern wegen vieler Passagien oder Rückungen mit sich selbst genug beschäftigt sind; besonders haben die Stimmen, welche Tempo rubato haben, hierdurch den nötigen nachdrücklichen Vorschlag des Taktes. Endlich kann auf diese Art, weil man durch das zu viele Geräusche des Flügels an der genauesten Wahrnehmung nicht verhindert wird, sehr leicht das Zeitmaß, wie es oft nötig ist, um etwas weniges geändert werden, und die hinter oder neben dem Flügel sich befindenden Musici haben einen in beiden Händen gleichen, durchdringenden und folglich den merklichsten Schlag des Taktes vor Augen. 
 
 .. index::
-    single: Ekel
-    single: Triller
+    single: Verzierungen; übermäßiger Gebrauch
     single: Schulmeister-Manieren
 
 .. rubric:: §10 
@@ -104,12 +106,16 @@ Bei dieser Steife der linken Hand versucht der Meister es bei der rechten wieder
 .. index::
     single: Flügel
     single: Clavichord
+    single: Forte Piano
 
 .. rubric:: §11
 
-Bevor wir diesen Fehlern durch gegründete Vorschriften abzuhelfen suchen, müssen wir noch etwas von dem Instrument sagen. Man hat außer vielen Arten der Klaviere, welche teils wegen ihrer Mängel unbekannt geblieben, teils noch nicht überall eingeführt sind, hauptsächlich zwei Arten, nämlich die Flügel und Clavichorde [#arten]_, welche bis hierher den meisten Beifall erhalten haben. Jene braucht man insgemein zu starken Musiken, diese zum allein spielen.
+Bevor wir diesen Fehlern durch gegründete Vorschriften abzuhelfen suchen, müssen wir noch etwas von dem Instrument sagen. 
+Man hat außer vielen Arten der Klaviere, welche teils wegen ihrer Mängel unbekannt geblieben, teils noch nicht überall eingeführt sind, hauptsächlich zwei Arten, nämlich die Flügel und Clavichorde [#arten]_, welche bis hierher den meisten Beifall erhalten haben. 
+Jene braucht man insgemein zu starken Musiken, diese zum allein spielen.
 Die neueren Forte Piano, wenn sie dauerhaft und gut gearbeitet sind, haben viele Vorzüge, ungeachtet ihre Tractirung besonders und nicht ohne Schwierigkeit ausstudiert werden muss.
-Sie tun gut beim allein spielen und bei einer nicht gar zu stark gesetzten Musik, ich glaube aber doch, dass ein gutes Clavichord, ausgenommen dass es einen schwächeren Ton hat, alle Schönheiten mit jenem gemein und überdem noch die Bebung und das Tragen der Töne voraus hat, weil ich nach dem Anschlage noch jeder Note einen Druck geben kann. Das Clavichord ist also das Instrument, worauf man einen Clavieristen auf genaueste zu beurteilen fähig ist.
+Sie tun gut beim allein spielen und bei einer nicht gar zu stark gesetzten Musik, ich glaube aber doch, dass ein gutes Clavichord, ausgenommen dass es einen schwächeren Ton hat, alle Schönheiten mit jenem gemein und überdem noch die Bebung und das Tragen der Töne voraus hat, weil ich nach dem Anschlage noch jeder Note einen Druck geben kann. 
+Das Clavichord ist also das Instrument, worauf man einen Clavieristen auf genaueste zu beurteilen fähig ist.
 
 .. [#arten] *Wikipedia:* Im damaligen Sprachgebrauch wurden Cembali als „Flügel“ bezeichnet, während Bach mit „Clavier“ meist das Clavichord meint. Das Hammerklavier lernte Bach erst in den 1780er Jahren kennen, wobei sich die gerade erst entwickelnden Instrumente nur schlecht spielen ließen und sehr teuer waren.
 
@@ -226,7 +232,7 @@ Da ich bei der Bezeichnung der Probestücke alles nötige beigefügt habe, und i
 
 .. rubric:: §23
     
-Ich habe zu Vermeidung aller Zweideutigkeit die Triolen ohne 3, das Abstoßen der Noten ohne Striche mit bloßen Punkten, und die abgekürzten Wörter: f. p. u. s. w., an den meisten Orten ohne hintenstehende Punkte angedeutet.
+Ich habe zu Vermeidung aller Zweideutigkeit die Triolen ohne 3, das Abstoßen der Noten ohne Striche mit bloßen Punkten, und die abgekürzten Wörter: f. p. u.s.w., an den meisten Orten ohne hintenstehende Punkte angedeutet.
 
 .. index::
     single: Probestücke
