@@ -1,5 +1,5 @@
 ************************************************
-Das erste Hauptstück. Von der Finger-Setzung
+Das erste Hauptstück. Von der Fingersetzung
 ************************************************
 
 .. rubric:: §1 
@@ -11,7 +11,7 @@ Die Setzung der Finger ist bei den allermeisten Instrumenten durch die natürlic
 
 .. rubric:: §2
 
-Da nichts destoweniger nur eine Art des Gebrauchs der Finger bei dem Klaviere gut ist, und wenige Fälle in Betrachtung der übrigen mehr als eine Applicatur erlauben; da jeder neue Gedanke beinahe eine neue und eigene Finger-Setzung erfordert, welche oft durch die bloße Verbindung eines Gedankens mit den anderen wieder verändert wird; da die Vollkommenheit des Klaviers eine unerschöpfliche Menge von Möglichkeiten vorzüglich darbietet; da endlich der echte Gebrauch der Finger bisher so unbekannt gewesen und nach Art der Geheimnisse nur unter wenigen geblieben ist, so hat es nicht fehlen können, dass die allermeisten auf diesem schlüpfrigen und verführerischen Wege haben irren müssen. 
+Da nichts destoweniger nur eine Art des Gebrauchs der Finger bei dem Klaviere gut ist, und wenige Fälle in Betrachtung der übrigen mehr als eine Applicatur erlauben; da jeder neue Gedanke beinahe eine neue und eigene Fingersetzung erfordert, welche oft durch die bloße Verbindung eines Gedankens mit den anderen wieder verändert wird; da die Vollkommenheit des Klaviers eine unerschöpfliche Menge von Möglichkeiten vorzüglich darbietet; da endlich der echte Gebrauch der Finger bisher so unbekannt gewesen und nach Art der Geheimnisse nur unter wenigen geblieben ist, so hat es nicht fehlen können, dass die allermeisten auf diesem schlüpfrigen und verführerischen Wege haben irren müssen. 
 
 .. rubric:: §3
 
@@ -23,12 +23,12 @@ Man hat daher alles der Schwierigkeit des Instruments und der dafür gesetzten S
 
 .. rubric:: §4
     
-Da man hieraus erkennen kann, dass der rechte Gebrauch der Finger einen unzertrennlichen Zusammenhang mit der ganzen Spielart hat, so verliert man bei einer unrichtigen Finger-Setzung mehr als man durch alle mögliche Kunst und guten Geschmack ersetzen kann. 
+Da man hieraus erkennen kann, dass der rechte Gebrauch der Finger einen unzertrennlichen Zusammenhang mit der ganzen Spielart hat, so verliert man bei einer unrichtigen Fingersetzung mehr als man durch alle mögliche Kunst und guten Geschmack ersetzen kann. 
 Die ganze Fertigkeit hängt hiervon ab, und man kann aus der Erfahrung beweisen, dass ein mittelmäßiger Kopf mit gut gewöhnten Fingern allezeit den größten Musicum im Spielen übertreffen wird, wenn dieser letztere wegen seiner falschen Applicatur gezwungen ist, wider seine Überzeugung sich hören zu lassen. 
 
 .. rubric:: §5
     
-Aus dem Grunde, dass jeder neue Gedanke beinahe seine eigene Finger-Setzung habe, folgt, dass die jetzige Art zu denken, indem sie sich von der in vorherigen Zeiten ganz besonders unterscheidet, eine neue Applicatur eingeführt habe. 
+Aus dem Grunde, dass jeder neue Gedanke beinahe seine eigene Fingersetzung habe, folgt, dass die jetzige Art zu denken, indem sie sich von der in vorherigen Zeiten ganz besonders unterscheidet, eine neue Applicatur eingeführt habe. 
 
 .. rubric:: §6
 
@@ -50,7 +50,7 @@ Hierdurch ist er auf einmal von seiner bisherigen Untätigkeit zu der Stelle des
 
 .. rubric:: §8
     
-Da diese neue Finger-Setzung so beschaffen ist, dass man damit alles mögliche zur bestimmten Zeit leicht herausbringen kann; so lege ich solche hier zum Grunde. 
+Da diese neue Fingersetzung so beschaffen ist, dass man damit alles mögliche zur bestimmten Zeit leicht herausbringen kann; so lege ich solche hier zum Grunde. 
 
 .. rubric:: §9
 
@@ -107,7 +107,7 @@ Hierdurch werden sie die Tasten leichter und gewisser treffen lernen, und die H�
 
 .. rubric:: §15
 
-Man stoße sich nicht daran, wenn manchmal ein besonderer Umstand den Lehrmeister nötiget, solchen selbst zu probieren, um dessen beste Finger-Setzung mit aller Gewissheit seinen Schülern zu weisen. 
+Man stoße sich nicht daran, wenn manchmal ein besonderer Umstand den Lehrmeister nötiget, solchen selbst zu probieren, um dessen beste Fingersetzung mit aller Gewissheit seinen Schülern zu weisen. 
 Es kommen zuweilen zweifelhafte Fälle dort vor, die man auch beim ersten Anblick mit den rechten Fingern spielen wird, ohngeachtet es Bedenklichkeiten setzen würde, solche Finger einem anderen vorzusagen. 
 Beim Unterweisen hat man selten mehr als ein Instrument, damit der Lehrmeister zugleich mitspielen könne. 
 Wir sehen hieraus erstlich, dass ungeachtet der unendlichen Verschiedenheit der Applicaturen dennoch wenige gute Haupt-Regeln hinlänglich sind, alle vorkommenden Aufgaben aufzulösen; 
@@ -128,7 +128,7 @@ stehen über und unter den Noten zugleich Ziffern, so gehen allezeit, unabhängi
 .. rubric:: §18
 
 Nach diesen in der Natur gegründeten Vorschriften werde ich nunmehro zu der Lehre der Applicatur selbst schreiten. 
-Ich werde sie auch auf der Natur gründen, weil diese Finger-Setzung bloß die beste ist, welche nicht mit unnötigem Zwang und Spannungen vergesellschaftet ist.
+Ich werde sie auch auf der Natur gründen, weil diese Fingersetzung bloß die beste ist, welche nicht mit unnötigem Zwang und Spannungen vergesellschaftet ist.
 
 .. _fingersetzung-paragraph-19:
 
@@ -206,7 +206,7 @@ Bei gehenden Passagien durch die Tonleitern, welche sich nicht eben so anfangen 
 .. rubric:: §30
 
 Bei Tab. I. Fig. I. ist uns die Skala C-Dur im Aufsteigen vorgemalt. 
-Wir sehen hierbei drei Arten von Finger-Setzung für jede Hand. 
+Wir sehen hierbei drei Arten von Fingersetzung für jede Hand. 
 Keine davon ist verwerflich, ungeachtet die mit dem überschlagen des dritten Fingers über den vierten in der rechten Hand und in der Linken des zweiten Fingers über den Daumen, und die, wo der Daumen in F wieder eingesetzt wird, vielleicht gewöhnlicher sein mögen als die dritte Art. 
 In wie fern jede gut zu brauchen ist, sehen wir aus den Exempeln bei Fig. II.
 
@@ -262,7 +262,7 @@ Um wegen dieses kleinen Fingers keine Verwirrung anzurichten, habe ich die Skale
 
 .. rubric:: §33
 
-A-Moll im Aufsteigen finden wir bei Fig. V. mit zweierlei Finger-Setzung; doch ist die, so gleich über und unter den Noten steht, die beste; die andere kann allenfalls bei den unter Fig. VI. angeführten Exempeln gute Dienste tun;
+A-Moll im Aufsteigen finden wir bei Fig. V. mit zweierlei Fingersetzung; doch ist die, so gleich über und unter den Noten steht, die beste; die andere kann allenfalls bei den unter Fig. VI. angeführten Exempeln gute Dienste tun;
 indessen da man noch mehrere Arten ausfindig machen könnte, wenn man die Exempel danach einrichten wollte, und solche also dadurch dem ungeachtet nicht so natürlich wird, wie die nächst den Noten, so habe ich sie mehr zur Warnung, als zur Nachahmung angeführt, weil ich weiß daß sie hier und da Mode ist. 
 Das unnatürliche bestehet darinnen, daß der Daumen in das D eingesetzt wird, ungeachtet das E mit zwei halben Tönen darauf folgt; 
 denn der Daumen mag sich gerne nahe an den halben Tönen aufhalten, wenigstens ist diese Haupt-Regel hierbei zu merken, daß der Daumen der rechten Hand im Aufsteigen nach einem oder mehreren halben Tönen, im Absteigen aber vor einem oder mehreren halben Tönen, und der linke Daumen im Absteigen nach, und im Aufsteigen vor den halben Tönen, eingesetzt wird. 
@@ -348,7 +348,7 @@ Die, wo der Daumen ins C steigt, ist ohne Zweifel die ungewöhnlichste; die von 
 .. rubric:: §37
 
 E-Moll im Aufsteigen hat nur diese einzige gute Applicatur, Fig. XI. 
-Wer anstatt den Daumen in die Quinte h., solchen in die Quarte a setzen wollte, müßte solches bei Exempeln tun, wo die Folge dieses erfordert, sonsten ist diese Finger-Setzung nicht anzuraten. 
+Wer anstatt den Daumen in die Quinte h., solchen in die Quarte a setzen wollte, müßte solches bei Exempeln tun, wo die Folge dieses erfordert, sonsten ist diese Fingersetzung nicht anzuraten. 
 Man hüte sich bei diesem durch eine ganze Oktave aufsteigenden E-Moll, daß man den Daumen nicht ins g, nach der in :ref:`fingersetzung-paragraph-33` gegebenen Regel einsetzt, weil man sonst nicht mit den Fingern auskäme. 
 Diese sonst so gewisse Regel leidet wie wir in der Folge sehen werden, nur ein Paar Ausnahmen, welche gegen den Nutzen, den diese Regel übrigens in der ganzen Lehre der Applicatur schafft, nichts bedeuten wollen.
 
@@ -364,7 +364,7 @@ Diese sonst so gewisse Regel leidet wie wir in der Folge sehen werden, nur ein P
 
 .. rubric:: §38
 
-E-Moll im Absteigen sehen wir bei Fig. XII. mit zweierlei Finger-Setzung, wovon die, nächst über und unter den Noten, die beste ist.
+E-Moll im Absteigen sehen wir bei Fig. XII. mit zweierlei Fingersetzung, wovon die, nächst über und unter den Noten, die beste ist.
 
 .. figure:: bilder/tab1/tab1-fig12.pdf
     :width: 800px
@@ -407,7 +407,7 @@ Die nächst über und unter den Noten sind die gewöhnlichsten; in den anderen i
 
 .. rubric:: §41
 
-D-Moll im Aufsteigen bei Fig. XV. hat für jede Hand dreierlei Finger-Setzung, welche alle gut und zu üben sind, ungeachtet daß die von den Noten entfernteste etwas ungewöhnlicher als die anderen ist.
+D-Moll im Aufsteigen bei Fig. XV. hat für jede Hand dreierlei Fingersetzung, welche alle gut und zu üben sind, ungeachtet daß die von den Noten entfernteste etwas ungewöhnlicher als die anderen ist.
 
 .. figure:: bilder/tab1/tab1-fig15.pdf
     :width: 800px
@@ -450,7 +450,7 @@ B-Dur hat nur diese einzige bei Fig. XVII. angemerkte Applicatur so wohl im Auf-
 
 .. rubric:: §44
 
-G-Moll im Aufsteigen hat bei Fig. XVIII. in der rechten Hand zweierlei, und in der linken Hand dreierlei Arten von Finger-Setzung. Die nächste über den Noten und entfernteste unter den Noten sind der im :ref:`fingersetzung-paragraph-33` angeführten Regel gemäß;
+G-Moll im Aufsteigen hat bei Fig. XVIII. in der rechten Hand zweierlei, und in der linken Hand dreierlei Arten von Fingersetzung. Die nächste über den Noten und entfernteste unter den Noten sind der im :ref:`fingersetzung-paragraph-33` angeführten Regel gemäß;
 die anderen können dem ohngeachtet in gewissen Fällen auch gute Dienste tun.
 
 .. figure:: bilder/tab1/tab1-fig18.pdf
@@ -495,7 +495,7 @@ Die mittelste im Basse beweist den im :ref:`fingersetzung-paragraph-35` angefüh
 
 .. rubric:: §47
 
-D-Dur im Absteigen zeigt in Fig. XXI. für die rechte Hand dreierlei und für die linke zweierlei Finger-Setzung, wovon jede in ihrer Art brauchbar ist.
+D-Dur im Absteigen zeigt in Fig. XXI. für die rechte Hand dreierlei und für die linke zweierlei Fingersetzung, wovon jede in ihrer Art brauchbar ist.
 
 .. figure:: bilder/tab1/tab1-fig21.pdf
     :width: 800px
@@ -590,7 +590,7 @@ Weiter ist hierbei nichts zu merken, als der Nutzen von der im :ref:`fingersetzu
 
 .. rubric:: §53
 
-Fis-Moll im Absteigen hat nach Fig. XXVII. mit A-Dur einerlei Finger-Setzung, die einzige im Aufsteigen für die linke Hand, welche, wie wir im :ref:`fingersetzung-paragraph-50` gesehen haben, nur dann und wann zu gebrauchen ist, ausgenommen. 
+Fis-Moll im Absteigen hat nach Fig. XXVII. mit A-Dur einerlei Fingersetzung, die einzige im Aufsteigen für die linke Hand, welche, wie wir im :ref:`fingersetzung-paragraph-50` gesehen haben, nur dann und wann zu gebrauchen ist, ausgenommen. 
 Wir werden aus der Folge ersehen, daß nunmehr alle noch vorkommende weiche Tonarten im Absteigen einerlei Applicatur mit den harten Tonarten annehmen, welche einerlei Versetzungs-Zeichen mit jenen gemein haben, oder, wegen Angrenzung der Tonarten mit den kreuzen an die mit Been noch deutlicher zu sagen, deren Grund-Ton die kleine Terzie von der weichen Tonart ist.
 
 .. figure:: bilder/tab1/tab1-fig27.pdf
@@ -621,7 +621,7 @@ Da jedem aus dem vorigen die Leitern von den absteigenden weichen Tonarten bekan
 
 .. rubric:: §55
 
-Cis-Moll im Aufsteigen nach Fig. XXIX. hat eine einzige mögliche gute Finger-Setzung.
+Cis-Moll im Aufsteigen nach Fig. XXIX. hat eine einzige mögliche gute Fingersetzung.
 
 .. figure:: bilder/tab1/tab1-fig29.pdf
     :width: 800px
@@ -637,7 +637,7 @@ Cis-Moll im Aufsteigen nach Fig. XXIX. hat eine einzige mögliche gute Finger-Se
 
 Wir sehen aus der Vorschrift dieser Skalen, daß der Daumen niemals auf einen halben Ton gesetzt wird, und daß er bald nach dem zweiten Finger alleine, bald nach dem zweiten und dritten, bald nach dem zweiten, dritten und vierten Finger, niemals aber nach dem kleinen eingesetzt wird. 
 Weil jede Skala sieben Stufen hat, und die Wiederholung jeder Skale, um bei einer Ordnung zu bleiben, ihrem Anfange ähnlich sein muß, so merke man, daß der Daumen gemeiniglich einmal nach den zweiten darauf folgenden Fingern und das andere Mal nach allen drei eingesetzt wird; beim Aufsteigen mit der rechten Hand und beim Absteigen mit der linken heißt dieses untersetzen. 
-Übte man sich so lange, bis der Daumen auf eine mechanische Art sich von selbst auf diese Weise am gehörigen Ort ein- und untersetzt; so hat man das meiste in der Finger-Setzung gewonnen.
+Übte man sich so lange, bis der Daumen auf eine mechanische Art sich von selbst auf diese Weise am gehörigen Ort ein- und untersetzt; so hat man das meiste in der Fingersetzung gewonnen.
 
 .. index::
     single: Einsetzen vs. Überschlagen
@@ -651,8 +651,8 @@ Man muß dieses Einsetzen nicht mit dem überschlagen verwechseln.
 
 .. rubric:: §63
 
-Endlich sehen wir bei dieser Abbildung der Tonleitern, daß die, ohne, oder mit den wenigsten Versetzungs-Zeichen die meiste Veränderungen von Applicaturen erlauben, indem allda das Untersetzen sowohl als das überschlagen angehet; und daß die übrigen nur einerlei Abwechslung der Finger gestatten. 
-Folglich sind die so genannten leichten Tonarten (weil ihre Applicatur so verschieden ist, und man beide Hilfsmittel zur rechten Zeit gebrauchen lernen muß, ohne sie zu verwirren; weil es nötig ist die einmal erwählte Ordnung in der Folge beizubehalten, und man also wohl zu merken hat, wo der Daumen eingesetzt worden,) viel verführerischer und schwerer als die so genannten schweren Tonarten, indem sie nur eine Art von Finger-Setzung haben, wo der Daumen durch die Übung in seinen ordentlichen Platz sich von selbst eindringen lernt. 
+Endlich sehen wir bei dieser Abbildung der Tonleitern, daß die, ohne, oder mit den wenigsten Versetzungs-Zeichen die meiste Veränderungen von Applicaturen erlauben, indem allda das Untersetzen sowohl als das Überschlagen angehet; und daß die übrigen nur einerlei Abwechslung der Finger gestatten. 
+Folglich sind die so genannten leichten Tonarten (weil ihre Applicatur so verschieden ist, und man beide Hilfsmittel zur rechten Zeit gebrauchen lernen muß, ohne sie zu verwirren; weil es nötig ist die einmal erwählte Ordnung in der Folge beizubehalten, und man also wohl zu merken hat, wo der Daumen eingesetzt worden) viel verführerischer und schwerer als die sogenannten schweren Tonarten, indem sie nur eine Art von Fingersetzung haben, wo der Daumen durch die Übung in seinen ordentlichen Platz sich von selbst eindringen lernt. 
 Diese letzteren behalten den Namen der schweren nur aus der Ursache bei, weil entweder gar nicht, oder selten aus selbigen gespielt und gesetzt wird. 
 Hierdurch bleibt ihre Schreib-Art so wohl als die Lage ihrer Tasten allezeit fremde. 
 Durch die wahre Lehre und Anwendung der Finger-Ordnung werden uns also diese schwere Tonarten eben so leichte, als groß die Schwierigkeit war, auf eine falsche Art, besonders ohne Daumen oder den rechten Gebrauch desselben in solchen fort zu kommen. 
@@ -719,7 +719,7 @@ Diese Sprünge werden auch mit \begin{matrix}{1\\2}, \begin{matrix}{1\\3}, \begi
 .. rubric:: §72
 
 Die Quinten und Sexten werden auf dreierlei Art gegriffen, wie unter Fig. XLV zu sehen ist. 
-Aus Fig. XLVI sehen wir die Finger-Setzung von Sexten in einer Folge. 
+Aus Fig. XLVI sehen wir die Fingersetzung von Sexten in einer Folge. 
 Mit diesen gebrochenen Sexten wird es ebenfalls so gehalten, wie wir bei den Tertien und Quarten gesehen haben. 
 Bei diesen Spannungen Tab. II. kann der kleine Finger öfter als einmal hintereinander vorkommen, und wird also auch gebraucht, ohne daß eben die Weite der Passagie mit ihm zu Ende geht.
 
@@ -740,7 +740,7 @@ Der Daumen, wenn er auf einem halben Tone ist, kann nicht so übergeschlagen wer
 
 .. rubric:: §76
 
-Wir nehmen nunmehr die Anschläge dreier Klänge zusammen vor; bei Fig. XLIX. finden wir die Finger-Setzung von dergleichen Anschlägen in dem Bezirk einer Quarte. 
+Wir nehmen nunmehr die Anschläge dreier Klänge zusammen vor; bei Fig. XLIX. finden wir die Fingersetzung von dergleichen Anschlägen in dem Bezirk einer Quarte. 
 Bei den Exempeln (a) und (b) erfordert die Folge eine eigene Applicatur.
 
 .. rubric:: §77
@@ -776,7 +776,7 @@ Wenn bei solchen mehrstimmigen Griffen die beiden äußersten Stimmen auf halben
 
 .. rubric:: §82
 
-Da man alle Brechungen und springende Gedanken, so viel als es sein kann, auf diese mehrstimmige Anschläge zurück führt, so folgt hieraus, daß sie auch nach unserer vorgeschriebenen Finger-Setzung gespielt und zugleich nach den dabei angemerkten Umständen beurteilet werden müssen. 
+Da man alle Brechungen und springende Gedanken, so viel als es sein kann, auf diese mehrstimmige Anschläge zurück führt, so folgt hieraus, daß sie auch nach unserer vorgeschriebenen Fingersetzung gespielt und zugleich nach den dabei angemerkten Umständen beurteilet werden müssen. 
 Die aus dem bei Fig. LV. angezeigten Exempel heraus gezogenen GedankenTab. II. werden meinen Lesern meine Meinung noch deutlicher machen.
 
 .. rubric:: §83
@@ -795,7 +795,7 @@ Der erste zieht Schüler, welche nicht anders als durch Stolpern, Absätze Tab. 
 
 .. rubric:: §85
 
-Je verführischer die Finger-Setzung bei den einstimmigen und gehenden Gedanken vor den mehrstimmigen und springenden ist, wie wir aus den Skalen gesehen haben; desto weniger gefährlich ist sie bei denen Bindungen. 
+Je verführischer die Fingersetzung bei den einstimmigen und gehenden Gedanken vor den mehrstimmigen und springenden ist, wie wir aus den Skalen gesehen haben; desto weniger gefährlich ist sie bei denen Bindungen. 
 Indem die gebundenen Noten aufs strengste nach der Vorschrift gehalten werden müssen, so pflegt daher selten mehr als eine Art, solche heraus zu bringen, möglich zu sein. 
 Man muß also hierbei mehr Freiheiten erlauben, als sonsten. 
 Das Fortsetzen eines Fingers ohne Abwechslung, das Steigen des Daumens auf einen halben Ton und andere Hilfsmittel, wovon wir hernach handeln werden, kann man ohne Bedenken brauchen. 
@@ -891,7 +891,7 @@ Außerdem ist es vergeblicher Wind, welcher bloß Unverständige blenden kann; d
 
 .. rubric:: §98
 
-Was wegen der Finger-Setzung bei den Manieren zu merken ist, wird in dem besonderen Haupt-Stück von den Manieren abgehandelt werden, weil deren Erklärung vorher hierzu erfordert wird. 
+Was wegen der Fingersetzung bei den Manieren zu merken ist, wird in dem besonderen Haupt-Stück von den Manieren abgehandelt werden, weil deren Erklärung vorher hierzu erfordert wird. 
 Zuweilen sind bei einigen durch kleine Nöten angedeuteten Manieren die Ziffern weggelassen worden, weil man sie aus der folgenden bezifferten Haupt-Note beurteilen kann.
 
 .. rubric:: §99

@@ -4,7 +4,7 @@ Einleitung
 
 .. rubric:: §1 
 
-Zur wahren Art das Klavier zu spielen, gehören hauptsächlich drei Stücke, welche so genau mit einander verbunden sind, daß eines ohne das andere weder sein kann, noch darf; nämlich die rechte Finger-Setzung, die guten Manieren, und der gute Vortrag.
+Zur wahren Art das Klavier zu spielen, gehören hauptsächlich drei Stücke, welche so genau mit einander verbunden sind, daß eines ohne das andere weder sein kann, noch darf; nämlich die rechte Fingersetzung, die guten Manieren, und der gute Vortrag.
 
 .. index::
     single: Vortrag; guter
