@@ -89,7 +89,8 @@ Es wird ihm alles leichte: man kann dieses im Augenblick einem Spieler ansehen; 
 
 Wer den Daumen nicht braucht, der lässt ihn herunterhangen, damit er ihm nicht im Wege ist; solcher Gestalt fällt die mäßigste Spannung schon unbequem, folglich müssen die Finger ausgestreckt und steif werden, um solche herauszubringen. 
 Was kann man auf diese Art wohl besonders ausrichten? 
-Der Gebrauch des Daumens gibt der Hand nicht nur einen Finger mehr, sondern zugleich den Schlüssel zur ganzen möglichen Applicatur. Dieser Haupt-Finger macht sich auch überdem dadurch verdient, weil er die übrigen Finger in ihrer Geschmeidigkeit erhält, indem sie sich allezeit biegen müssen, wenn der Daumen sich bald bei diesem, bald jenem Finger einbringt. 
+Der Gebrauch des Daumens gibt der Hand nicht nur einen Finger mehr, sondern zugleich den Schlüssel zur ganzen möglichen Applicatur. 
+Dieser Haupt-Finger macht sich auch überdem dadurch verdient, weil er die übrigen Finger in ihrer Geschmeidigkeit erhält, indem sie sich allezeit biegen müssen, wenn der Daumen sich bald bei diesem, bald jenem Finger einbringt. 
 Was man ohne ihn mit steifen und gestreckten Nerven bespringen musste, das spielt man durch seine Hilfe rund, deutlich, mit ganz natürlichen Spannungen, folglich leicht.
 
 .. index::
@@ -181,7 +182,8 @@ Da die Natur keinen von allen Fingern so geschickt gemacht hat, sich unter die �
 
 .. rubric:: §27
 
-Das überschlagen geschieht von den anderen Fingern und wird dadurch erleichtert, indem ein größerer Finger über einen kleineren oder den Daumen geschlagen wird, wenn es gleichfalls an Fingern fehlen will. Dieses überschlagen muß durch die Übung auf eine geschickte Art ohne Schränkung geschehen.
+Das überschlagen geschieht von den anderen Fingern und wird dadurch erleichtert, indem ein größerer Finger über einen kleineren oder den Daumen geschlagen wird, wenn es gleichfalls an Fingern fehlen will. 
+Dieses überschlagen muß durch die Übung auf eine geschickte Art ohne Schränkung geschehen.
 
 .. rubric:: §28
 
@@ -249,7 +251,8 @@ Es finden sich hier abermals drei Arten von Applicatur, welche alle drei gut sei
 .. rubric:: §32
 
 Wir lernen hierbei aus den unter Fig. II. und IV. befindlichen Exempeln, daß außer der Notwendigkeit beständig auf die Folge zu sehen, der kleine Finger allezeit gleichsam zum Hinterhalt in gehenden Passagien bleibt und hierbei nicht eher gebraucht wird, als entweder im Anfange, oder wenn derselben Umfang just mit ihm zu Ende geht; 
-dieses verstehet sich gleichfalls bei den Skalen, wo er manchmal drüber steht. Außer diesem Falle nimmt man dafür den Daumen. 
+dieses verstehet sich gleichfalls bei den Skalen, wo er manchmal drüber steht. 
+Außer diesem Falle nimmt man dafür den Daumen. 
 Um wegen dieses kleinen Fingers keine Verwirrung anzurichten, habe ich die Skalen bis über die Oktave verlängert, damit man die Folge desto deutlicher sehen könne.
 
 .. index::
@@ -285,7 +288,8 @@ Wer diese Haupt-Regel in den Fingern hat, dem wird es allezeit fremde fallen, be
 .. rubric:: §34
 
 A-Moll im Absteigen sehen wir bei Fig. VII. mit dreierlei Finger-Ordnung. 
-Da hier, wie bei C-Dur, auch kein halber Ton vorkommt, so sind sie alle drei gut, und zu gebrauchen. Die, wo der Daumen in das D eingesetzt wird, ist ungewöhnlicher als die anderen.
+Da hier, wie bei C-Dur, auch kein halber Ton vorkommt, so sind sie alle drei gut, und zu gebrauchen. 
+Die, wo der Daumen in das D eingesetzt wird, ist ungewöhnlicher als die anderen.
 
 .. figure:: bilder/tab1/tab1-fig7.pdf
     :width: 800px
@@ -301,8 +305,13 @@ Da hier, wie bei C-Dur, auch kein halber Ton vorkommt, so sind sie alle drei gut
 
 .. rubric:: §35
 
-G-Dur im Aufsteigen zeigt sich bei Fig. VIII. dreifach. Die mit (\*) bezeichnete Applicatur ist die ungewöhnlichste. Die mittelste im Diskante und unterste im Basse gibt zu einer neuen Regel Gelegenheit, welche so heißt: Das überschlagen, welches mit dem zweiten Finger über den Daumen, und mit dem dritten Finger über den vierten geschieht, hat seinen eigentlichen Nutzen bei Passagien ohne halben Töne; allda geschieht es auch, wenn es nötig ist, oft hinter einander. Dann und wann geschieht es auch bei einem einzigen vorkommenden halben Ton; man setzet in der Folge den Daumen oder vierten Finger gleich an dem halben Tone ein, und der zweite oder dritte Finger, welche dieses wegen ihrer vorzüglichen Länge bequem tun können, steigen auf diesen halben Ton; hierauf nimmt ganz natürlich der Daumen nach der in :ref:`fingersetzung-paragraph-32` angeführten Regel seinen ihm zukommenden Platz ein. 
-Das bei Fig. IX. angeführte Exempel (a) könnte eine Ausnahme wider unsere Regel abgeben, doch wird solches gewöhnlicher mit Untersetzung des Daumens (b) gespielt. Folglich ist das überschlagen mit dem zweiten Finger über den Daumen auch in dergleichen Fällen brauchbarer als das mit dem dritten Finger über den vierten. Dieses überschlagen bei einem vorkommenden halben Tone hat mich genötigt, diese Scala durch zwei Oktaven wegen der Folge durchzuführen.
+G-Dur im Aufsteigen zeigt sich bei Fig. VIII. dreifach. 
+Die mit (\*) bezeichnete Applicatur ist die ungewöhnlichste. 
+Die mittelste im Diskante und unterste im Basse gibt zu einer neuen Regel Gelegenheit, welche so heißt: Das überschlagen, welches mit dem zweiten Finger über den Daumen, und mit dem dritten Finger über den vierten geschieht, hat seinen eigentlichen Nutzen bei Passagien ohne halben Töne; allda geschieht es auch, wenn es nötig ist, oft hinter einander. 
+Dann und wann geschieht es auch bei einem einzigen vorkommenden halben Ton; man setzet in der Folge den Daumen oder vierten Finger gleich an dem halben Tone ein, und der zweite oder dritte Finger, welche dieses wegen ihrer vorzüglichen Länge bequem tun können, steigen auf diesen halben Ton; hierauf nimmt ganz natürlich der Daumen nach der in :ref:`fingersetzung-paragraph-32` angeführten Regel seinen ihm zukommenden Platz ein. 
+Das bei Fig. IX. angeführte Exempel (a) könnte eine Ausnahme wider unsere Regel abgeben, doch wird solches gewöhnlicher mit Untersetzung des Daumens (b) gespielt. 
+Folglich ist das überschlagen mit dem zweiten Finger über den Daumen auch in dergleichen Fällen brauchbarer als das mit dem dritten Finger über den vierten. 
+Dieses überschlagen bei einem vorkommenden halben Tone hat mich genötigt, diese Scala durch zwei Oktaven wegen der Folge durchzuführen.
 
 .. figure:: bilder/tab1/tab1-fig8.pdf
     :width: 800px
@@ -323,7 +332,8 @@ Das bei Fig. IX. angeführte Exempel (a) könnte eine Ausnahme wider unsere Rege
 
 .. rubric:: §36
 
-G-Dur im Absteigen erscheint bei Fig. X. ebenfalls mit dreierlei Ordnungen der Finger. Die, wo der Daumen ins C steigt, ist ohne Zweifel die ungewöhnlichste; die von den Noten entfernste, die gefährlichste; alle 3 aber brauchbar.
+G-Dur im Absteigen erscheint bei Fig. X. ebenfalls mit dreierlei Ordnungen der Finger. 
+Die, wo der Daumen ins C steigt, ist ohne Zweifel die ungewöhnlichste; die von den Noten entfernste, die gefährlichste; alle 3 aber brauchbar.
 
 .. figure:: bilder/tab1/tab1-fig10.pdf
     :width: 800px
@@ -382,7 +392,8 @@ F-Dur im Aufsteigen hat im Diskante nur eine gute Applicatur, laut Fig. XIII. hi
 
 .. rubric:: §40
 
-F-Dur im Absteigen zeigt sich bei Fig. XIV. im Diskante mit zweien, und im Basse mit drei Applikaturen. Die nächst über und unter den Noten sind die gewöhnlichsten; in den anderen ist nichts unregelmäßiges, sie können bei gewissen Fällen nötig sein, folglich kann man sie dabei mit merken.
+F-Dur im Absteigen zeigt sich bei Fig. XIV. im Diskante mit zweien, und im Basse mit drei Applicaturen. 
+Die nächst über und unter den Noten sind die gewöhnlichsten; in den anderen ist nichts unregelmäßiges, sie können bei gewissen Fällen nötig sein, folglich kann man sie dabei mit merken.
 
 .. figure:: bilder/tab1/tab1-fig14.pdf
     :width: 800px
@@ -410,7 +421,8 @@ D-Moll im Aufsteigen bei Fig. XV. hat für jede Hand dreierlei Finger-Setzung, w
 
 .. rubric:: §42
 
-D-Moll im Absteigen finden wir bei Fig. XVI. mit zweierlei Arten von Setzung der Finger für jede Hand. Die beiden, welche am weitesten von den Noten entfernt stehen, sind wegen des vorkommenden halben Tones nicht die besten, welcher hier gerne den Daumen in das a verlangt.
+D-Moll im Absteigen finden wir bei Fig. XVI. mit zweierlei Arten von Setzung der Finger für jede Hand. 
+Die beiden, welche am weitesten von den Noten entfernt stehen, sind wegen des vorkommenden halben Tones nicht die besten, welcher hier gerne den Daumen in das a verlangt.
 
 .. figure:: bilder/tab1/tab1-fig16.pdf
     :width: 800px
@@ -453,7 +465,8 @@ die anderen können dem ohngeachtet in gewissen Fällen auch gute Dienste tun.
 
 .. rubric:: §45
 
-G-Moll im Absteigen ist nach Fig. XIX. nur einfach. Man wird von selbst begreifen, wenn eine Passagie nicht just sich so anfinge, was man im Anfange vor einen Finger einsetzen müsste.
+G-Moll im Absteigen ist nach Fig. XIX. nur einfach. 
+Man wird von selbst begreifen, wenn eine Passagie nicht just sich so anfinge, was man im Anfange vor einen Finger einsetzen müsste.
 
 .. figure:: bilder/tab1/tab1-fig19.pdf
     :width: 800px
@@ -467,7 +480,8 @@ G-Moll im Absteigen ist nach Fig. XIX. nur einfach. Man wird von selbst begreife
 
 .. rubric:: §46
 
-D-Dur im Aufsteigen bei Fig. XX. hat in der rechten Hand nur eine, in der Linken aber drei Arten von Applikaturen; die nächste unter den Noten ist nach der Regel wegen Einsetzung des Daumens und in allerlei Arten von Passagien, welche nicht eben sich so anfangen und endigen, wie hier vorgeschrieben ist, zu brauchen; im übrigen sind die anderen beiden, bei diesem Falle besonders auch gut und zu üben. Die mittelste im Basse beweist den im :ref:`fingersetzung-paragraph-35` angeführten Vorzug dieses Überschlagens.
+D-Dur im Aufsteigen bei Fig. XX. hat in der rechten Hand nur eine, in der Linken aber drei Arten von Applicaturen; die nächste unter den Noten ist nach der Regel wegen Einsetzung des Daumens und in allerlei Arten von Passagien, welche nicht eben sich so anfangen und endigen, wie hier vorgeschrieben ist, zu brauchen; im übrigen sind die anderen beiden, bei diesem Falle besonders auch gut und zu üben. 
+Die mittelste im Basse beweist den im :ref:`fingersetzung-paragraph-35` angeführten Vorzug dieses Überschlagens.
 
 .. figure:: bilder/tab1/tab1-fig20.pdf
     :width: 800px
@@ -497,8 +511,10 @@ D-Dur im Absteigen zeigt in Fig. XXI. für die rechte Hand dreierlei und für di
 
 H-Moll im Aufsteigen findet sich bei Fig. XXII. für beide Hände einfach. 
 Wenn die Passagie nicht just sich anfängt wie hier steht, so setzet man in der linken Hand an statt des vierten Fingers den Daumen ein. 
-Dieses merken wir überhaupt bei allen Skalen, daß, nach verändertem Anfange, der Finger eingesetzt werden muß, welcher in der Folge über der Oktave steht. Bei der rechten Hand findet sich eine unvermeidliche Ausnahme wider die im :ref:`fingersetzung-paragraph-33` angeführte Regel. 
-Wer solche Regel gut in den Fingern hat, muß wohl acht haben, damit er nicht den Daumen statt des e, in das d setze. Dieser Punkt macht diese Scale etwas verführerisch.
+Dieses merken wir überhaupt bei allen Skalen, daß, nach verändertem Anfange, der Finger eingesetzt werden muß, welcher in der Folge über der Oktave steht. 
+Bei der rechten Hand findet sich eine unvermeidliche Ausnahme wider die im :ref:`fingersetzung-paragraph-33` angeführte Regel. 
+Wer solche Regel gut in den Fingern hat, muß wohl acht haben, damit er nicht den Daumen statt des e, in das d setze. 
+Dieser Punkt macht diese Scale etwas verführerisch.
 
 .. figure:: bilder/tab1/tab1-fig22.pdf
     :width: 800px
@@ -529,7 +545,8 @@ Man könnte auch mit dem kleinen Finger in der rechten Hand anfangen und den Dau
 
 .. rubric:: §50
 
-A-Dur im Aufsteigen finden wir unter Fig. XXIV. mit einer Applicatur für die rechte und zweien für die linke Hand. Die nächste unter den Noten ist nach der oft angeführten Regel, und bei allerlei Fällen brauchbarer als die so darunter steht, ungeachtet sie auch zuweilen nötig sein kann.
+A-Dur im Aufsteigen finden wir unter Fig. XXIV. mit einer Applicatur für die rechte und zweien für die linke Hand. 
+Die nächste unter den Noten ist nach der oft angeführten Regel, und bei allerlei Fällen brauchbarer als die so darunter steht, ungeachtet sie auch zuweilen nötig sein kann.
 
 .. figure:: bilder/tab1/tab1-fig24.pdf
     :width: 800px
@@ -558,7 +575,8 @@ Es versteht sich von selbst, wie wir schon gehört haben, daß, wenn der Anfang 
 
 .. rubric:: §52
 
-Fis-Moll im Aufsteigen sehen wir bei Fig. XXVI. einfach. Weiter ist hierbei nichts zu merken, als der Nutzen von der im :ref:`fingersetzung-paragraph-33` angeführten Regel, welcher die nunmehr noch vorkommende Skalen, jemehr Versetzungs-Zeichen sie haben, und jemehr halben Töne dabei vorkommen, desto einfacher und desto weniger gefährlich, folglich zur Übung ganz leichte machen wird.
+Fis-Moll im Aufsteigen sehen wir bei Fig. XXVI. einfach. 
+Weiter ist hierbei nichts zu merken, als der Nutzen von der im :ref:`fingersetzung-paragraph-33` angeführten Regel, welcher die nunmehr noch vorkommende Skalen, jemehr Versetzungs-Zeichen sie haben, und jemehr halben Töne dabei vorkommen, desto einfacher und desto weniger gefährlich, folglich zur Übung ganz leichte machen wird.
 
 .. figure:: bilder/tab1/tab1-fig26.pdf
     :width: 800px
@@ -619,55 +637,94 @@ Nicht korrigierte OCR-Texte
 
 .. rubric:: §61
 
-Wir sehen aus der Vorschrift dieser Skalen, daß der Daumen niemals auf einen halben Ton gesetzt wird, und daß er bald nach dem zweiten Finger alleine, bald nach dem zweiten und dritten, bald nach dem zweiten, dritten und vierten Finger, niemals aber nach dem kleinen eingesetzt wird. Weil jede Scala sieben Stufen hat, und die Wiederholung jeder Scale, um bei einer Ordnung zu bleiben, ihrem Anfange ähnlich sein muß, so merke man, daß der Daumen gemeiniglich einmal nach den zweiten darauf folgenden Fingern und das andere Mal nach allen drei eingesetzt wird; beim Aufsteigen mit der rechten Hand und beim Absteigen mit der linken heißt dieses untersetzen. Übte man sich so lange, bis der Daumen auf eine mechanische Art sich von selbst auf diese Weise am gehörigen Ort ein und untersetzt; so hat man das meiste in der Finger-Setzung gewonnen.
+Wir sehen aus der Vorschrift dieser Skalen, daß der Daumen niemals auf einen halben Ton gesetzt wird, und daß er bald nach dem zweiten Finger alleine, bald nach dem zweiten und dritten, bald nach dem zweiten, dritten und vierten Finger, niemals aber nach dem kleinen eingesetzt wird. 
+Weil jede Scala sieben Stufen hat, und die Wiederholung jeder Scale, um bei einer Ordnung zu bleiben, ihrem Anfange ähnlich sein muß, so merke man, daß der Daumen gemeiniglich einmal nach den zweiten darauf folgenden Fingern und das andere Mal nach allen drei eingesetzt wird; beim Aufsteigen mit der rechten Hand und beim Absteigen mit der linken heißt dieses untersetzen. Übte man sich so lange, bis der Daumen auf eine mechanische Art sich von selbst auf diese Weise am gehörigen Ort ein und untersetzt; so hat man das meiste in der Finger-Setzung gewonnen.
 
 .. rubric:: §62
 
-Wir sehen ferner, daß das überschlagen bald mit dem zweiten Finger, bald mit dem zweiten und dritten, bald mit dem zweiten, dritten und vierten über den Daumen und mit dem dritten Finger über den vierten geschieht. Wir werden in der Folge eine kleine Ausnahme finden, vermöge welcher mit gewissen Umständen erlaubet ist, einmal den vierten Finger über den kleinen zu schlagen; desgleichen werden wir bei Gelegenheit der Manieren einen Fall bemerken, worin der dritte Finger nach dem zweiten, wohl zu merken, eingesetzt worden. Man muß dieses Einsetzen nicht mit dem überschlagen verwechseln. überschlagen heißt: wenn ein Finger über den anderen gleichsam wegklettert, indem der andere noch über der Taste schwebet, welche er niedergedruckt hat; bei dem Einsetzen hingegen ist der andere Finger schon weg, und die Hand gerückt.
+Wir sehen ferner, daß das überschlagen bald mit dem zweiten Finger, bald mit dem zweiten und dritten, bald mit dem zweiten, dritten und vierten über den Daumen und mit dem dritten Finger über den vierten geschieht. 
+Wir werden in der Folge eine kleine Ausnahme finden, vermöge welcher mit gewissen Umständen erlaubet ist, einmal den vierten Finger über den kleinen zu schlagen; desgleichen werden wir bei Gelegenheit der Manieren einen Fall bemerken, worin der dritte Finger nach dem zweiten, wohl zu merken, eingesetzt worden. 
+Man muß dieses Einsetzen nicht mit dem überschlagen verwechseln. überschlagen heißt: wenn ein Finger über den anderen gleichsam wegklettert, indem der andere noch über der Taste schwebet, welche er niedergedruckt hat; bei dem Einsetzen hingegen ist der andere Finger schon weg, und die Hand gerückt.
 
 .. rubric:: §63
 
-Endlich sehen wir bei dieser Abbildung der Ton-Leitern, daß die, ohne, oder mit den wenigsten Versetzungs-Zeichen die meiste Veränderungen von Applikaturen erlauben, indem allda das Untersetzen sowohl als das überschlagen angehet; und daß die übrigen nur einerlei Abwechslung der Finger gestatten. Folglich sind die so genannten leichten Ton-Arten (weil ihre Applicatur so verschieden ist, und man beide Hilfsmittel zur rechten Zeit gebrauchen lernen muß, ohne sie zu verwirren; weil es nötig ist die einmal erwählte Ordnung in der Folge beizubehalten, und man also wohl zu merken hat, wo der Daumen eingesetzt worden,) viel verführerischer und schwerer als die so genannten schweren Ton-Arten, indem sie nur eine Art von Finger-Setzung haben, wo der Daumen durch die Übung in seinen ordentlichen Platz sich von selbst eindringen lernt. Diese letzteren behalten den Namen der schweren nur aus der Ursache bei, weil entweder gar nicht, oder selten aus selbigen gespielt und gesetzt wird. Hierdurch bleibt ihre Schreib-Art so wohl als die Lage ihrer Tasten allezeit fremde. Durch die wahre Lehre und Anwendung der Finger-Ordnung werden uns also diese schwere Ton-Arten eben so leichte, als groß die Schwierigkeit war, auf eine falsche Art, besonders ohne Daumen oder den rechten Gebrauch desselben in solchen fort zu kommen. Einer der größten Vorzüge des Klaviers, vermöge dessen man mit besonderer Leichtigkeit aus allen vier- und zwanzig Ton-Arten spielen kann, ist also durch die Unwissenheit der rechten Applicatur verborgen geblieben.
+Endlich sehen wir bei dieser Abbildung der Ton-Leitern, daß die, ohne, oder mit den wenigsten Versetzungs-Zeichen die meiste Veränderungen von Applicaturen erlauben, indem allda das Untersetzen sowohl als das überschlagen angehet; und daß die übrigen nur einerlei Abwechslung der Finger gestatten. 
+Folglich sind die so genannten leichten Ton-Arten (weil ihre Applicatur so verschieden ist, und man beide Hilfsmittel zur rechten Zeit gebrauchen lernen muß, ohne sie zu verwirren; weil es nötig ist die einmal erwählte Ordnung in der Folge beizubehalten, und man also wohl zu merken hat, wo der Daumen eingesetzt worden,) viel verführerischer und schwerer als die so genannten schweren Ton-Arten, indem sie nur eine Art von Finger-Setzung haben, wo der Daumen durch die Übung in seinen ordentlichen Platz sich von selbst eindringen lernt. 
+Diese letzteren behalten den Namen der schweren nur aus der Ursache bei, weil entweder gar nicht, oder selten aus selbigen gespielt und gesetzt wird. 
+Hierdurch bleibt ihre Schreib-Art so wohl als die Lage ihrer Tasten allezeit fremde. 
+Durch die wahre Lehre und Anwendung der Finger-Ordnung werden uns also diese schwere Ton-Arten eben so leichte, als groß die Schwierigkeit war, auf eine falsche Art, besonders ohne Daumen oder den rechten Gebrauch desselben in solchen fort zu kommen. 
+Einer der größten Vorzüge des Klaviers, vermöge dessen man mit besonderer Leichtigkeit aus allen vier- und zwanzig Ton-Arten spielen kann, ist also durch die Unwissenheit der rechten Applicatur verborgen geblieben.
 
 .. rubric:: §64
 
-Das Untersetzen und überschlagen als die Haupt- Hilfsmittel in der Abwechslung der Finger müssen so gebraucht werden, daß alle Töne dadurch gut zusammen gehängt werden können. Deswegen ist in den Ton-Arten mit keinen oder wenigen Versetzungs-Zeichen bei gewissen Fällen das überschlagen des dritten Fingers über den vierten und des zweiten über den Daumen besser und nützlicher, um alles mögliche Absetzen zu vermeiden, als der übrige Gebrauch des Überschlagens und das Untersetzen des Daumens, weil selbiger bei vorkommenden halben Tönen mehr Platz und folglich auch mehr Bequemlichkeit hat, unter die anderen Finger durchzukriechen, als bei einer Folge von lauter unten liegenden Tasten. Bei den Ton-Arten ohne Versetzungs-Zeichen geschieht dieses überschlagen ohne Gefahr des Stolperns hinter einander; bei den anderen aber muß man wegen der halben Töne mehr Behutsamkeit brauchen.
+Das Untersetzen und überschlagen als die Haupt- Hilfsmittel in der Abwechslung der Finger müssen so gebraucht werden, daß alle Töne dadurch gut zusammen gehängt werden können. 
+Deswegen ist in den Ton-Arten mit keinen oder wenigen Versetzungs-Zeichen bei gewissen Fällen das überschlagen des dritten Fingers über den vierten und des zweiten über den Daumen besser und nützlicher, um alles mögliche Absetzen zu vermeiden, als der übrige Gebrauch des Überschlagens und das Untersetzen des Daumens, weil selbiger bei vorkommenden halben Tönen mehr Platz und folglich auch mehr Bequemlichkeit hat, unter die anderen Finger durchzukriechen, als bei einer Folge von lauter unten liegenden Tasten. 
+Bei den Ton-Arten ohne Versetzungs-Zeichen geschieht dieses überschlagen ohne Gefahr des Stolperns hinter einander; bei den anderen aber muß man wegen der halben Töne mehr Behutsamkeit brauchen.
 
 .. rubric:: §65
 
-Nach diesen Skalen und nach dem in selbigen befindlichen Gebrauch der beiden Hilfsmittel werden alle einstimmige gehende Gedanken beurteilt. Von einigen hierbei besonderen Fällen und Freiheiten wird zuletzt gehandelt werden.
+Nach diesen Skalen und nach dem in selbigen befindlichen Gebrauch der beiden Hilfsmittel werden alle einstimmige gehende Gedanken beurteilt. 
+Von einigen hierbei besonderen Fällen und Freiheiten wird zuletzt gehandelt werden.
 
 .. rubric:: §66
 
-Wir schreiten nunmehr zu mehrstimmigen Exempeln. Hierbei werden die Sprünge mit vorkommen, indem man sie, weil selbige so viel möglich ohne Zwang nach der ordentlichen Länge der Finger eingerichtet sein müssen, danach abzumessen hat. Findet jemand wegen seiner langen Finger für bequem, gewisse harmonische Anschläge, Brechungen oder Spannungen mit anderen Fingern zu nehmen, als hier vorgeschrieben ist, so steht es ihm frei, nur muß es keine eingebildete Bequemlichkeit sein. Indem ich bei Verfertigung der Probe-Stücke auf allerhand Fälle gesehen habe, so habe ich die Sprünge und Spannungen mit Fleiß in das Adagio aus dem B gelegt, um solche zu erleichtern; wer Lust hat, solche für sich geschwinde zu üben, dem steht es frei.
+Wir schreiten nunmehr zu mehrstimmigen Exempeln. 
+Hierbei werden die Sprünge mit vorkommen, indem man sie, weil selbige so viel möglich ohne Zwang nach der ordentlichen Länge der Finger eingerichtet sein müssen, danach abzumessen hat. 
+Findet jemand wegen seiner langen Finger für bequem, gewisse harmonische Anschläge, Brechungen oder Spannungen mit anderen Fingern zu nehmen, als hier vorgeschrieben ist, so steht es ihm frei, nur muß es keine eingebildete Bequemlichkeit sein. 
+Indem ich bei Verfertigung der Probe-Stücke auf allerhand Fälle gesehen habe, so habe ich die Sprünge und Spannungen mit Fleiß in das Adagio aus dem B gelegt, um solche zu erleichtern; wer Lust hat, solche für sich geschwinde zu üben, dem steht es frei.
 
 .. rubric:: §67
 
-Zwei Klänge zusammen, welche um eine SekundeTab. I. von einander unterschieden sind, werden mit zwei an einander liegenden Fingern gegriffen. Aus den vorhergehenden und folgenden Noten kann man leicht sehen, welche es sein müssen. Bei Fig. XXXX. finden sich Exempel von allerlei Art. Wir sehen, daß hier abermals der Daumen von den halben Tönen verschont bleibt. Bei den Noten ohne Ziffern bezieht man sich auf das vorhergegangene. Der einmal vorgezeichnete Schlüssel gilt so lange, bis er durch einen anderen aufgehoben wird.
+Zwei Klänge zusammen, welche um eine SekundeTab. I. von einander unterschieden sind, werden mit zwei an einander liegenden Fingern gegriffen. 
+Aus den vorhergehenden und folgenden Noten kann man leicht sehen, welche es sein müssen. 
+Bei Fig. XXXX. finden sich Exempel von allerlei Art. 
+Wir sehen, daß hier abermals der Daumen von den halben Tönen verschont bleibt. 
+Bei den Noten ohne Ziffern bezieht man sich auf das vorhergegangene. 
+Der einmal vorgezeichnete Schlüssel gilt so lange, bis er durch einen anderen aufgehoben wird.
 
 .. rubric:: §68
 
-Gebrochene Sekunden werden mit abgewechselten Fingern so gespielt wie bei Fig. XLI. zu sehen ist; Dieses Abwechseln ist der über solche Art Noten gewöhnlicher Massen angedeuteten Schleifung zuträglicher als das Fortsetzen eines Fingers, weil durch dieses letztere die Noten mehr gestoßen werden, als es sein soll. Wir sehen hier, und werden es in der Folge noch öfter erfahren, daß gemeiniglich der Daumen und der zweite Finger an der linken Hand am meisten an den Orten gebraucht wird, wo man in der rechten Hand den zweiten und dritten Finger einsetzt.
+Gebrochene Sekunden werden mit abgewechselten Fingern so gespielt wie bei Fig. XLI. zu sehen ist; Dieses Abwechseln ist der über solche Art Noten gewöhnlicher Massen angedeuteten Schleifung zuträglicher als das Fortsetzen eines Fingers, weil durch dieses letztere die Noten mehr gestoßen werden, als es sein soll. 
+Wir sehen hier, und werden es in der Folge noch öfter erfahren, daß gemeiniglich der Daumen und der zweite Finger an der linken Hand am meisten an den Orten gebraucht wird, wo man in der rechten Hand den zweiten und dritten Finger einsetzt.
 
 .. rubric:: §69
 
-Bei Anschlagung der Tertien merke man, daß sie mit denjenigen Fingern gegriffen werden, welche wir bei denen Tab. I. unter Fig. XLII. bezeichneten vielen Exempeln finden; man sieht hier ebenfalls auf das vorhergehende und folgende; der Daumen bleibt von den halben Tönen weg, desgleichen der kleine Finger; beide können bloß die Erlaubnis bekommen, auf solche halbe Töne gesetzt zu werden, wenn ein vorhergegangener oder nachfolgender Sprung dieses notwendig macht. Ich habe deswegen Tab. II. vielerlei Exempel hierbei angeführt, weil oft viele Tertien hinter einander vorzukommen pflegen, um die hierzu nötige Abwechslung der Finger deutlich zu zeigen. Der kleine Finger kann auch auf dem halben Tone sein, wenn der andere zugleich mit anschlagende Finger auch auf selbigem ist. Aus dieser Ursache ist die Applicatur der rechten Hand in dem bei (a) Tab. II. angeführten Exempel nicht so gut als die bei (b) und die für die linke Hand bei (c). Dieser kleine Finger wird ebenfalls so wenig fortgesetzt, als durch einen anderen abgelöst (d), sondern er kommt nur immer einmal und zwar in den äußersten Tönen (e) vor, es sei denn, wenn eine oder mehrere Noten zwischen die Tertien kommen, wie bei (f) zu sehen ist. Ferner merke man aus dem dritten und folgenden Exempeln bei Fig. XLII. daß einerlei Töne mit denselben Fingern genommen werden. Bei vielen hinter einander vorkommenden Tertien auf die Art wie die beiden Exempel (g) ausweisen, setzt man bei geschwinder Zeitmasse lieber mit den Fingern fort, indem alsdann das Abwechseln schwerer fällt. Übrigens sehen wir, daß allerlei Setzung von Fingern bei diesen Tertien vorkommen, obschon einige öfter als andere;Tab. II. bloß \begin{matrix}{5 5 4\\1 2 3} sind unnatürlich und folglich verwerflich.
+Bei Anschlagung der Tertien merke man, daß sie mit denjenigen Fingern gegriffen werden, welche wir bei denen Tab. I. unter Fig. XLII. bezeichneten vielen Exempeln finden; man sieht hier ebenfalls auf das vorhergehende und folgende; der Daumen bleibt von den halben Tönen weg, desgleichen der kleine Finger; beide können bloß die Erlaubnis bekommen, auf solche halbe Töne gesetzt zu werden, wenn ein vorhergegangener oder nachfolgender Sprung dieses notwendig macht. 
+Ich habe deswegen Tab. II. vielerlei Exempel hierbei angeführt, weil oft viele Tertien hinter einander vorzukommen pflegen, um die hierzu nötige Abwechslung der Finger deutlich zu zeigen. 
+Der kleine Finger kann auch auf dem halben Tone sein, wenn der andere zugleich mit anschlagende Finger auch auf selbigem ist. 
+Aus dieser Ursache ist die Applicatur der rechten Hand in dem bei (a) Tab. II. angeführten Exempel nicht so gut als die bei (b) und die für die linke Hand bei (c). 
+Dieser kleine Finger wird ebenfalls so wenig fortgesetzt, als durch einen anderen abgelöst (d), sondern er kommt nur immer einmal und zwar in den äußersten Tönen (e) vor, es sei denn, wenn eine oder mehrere Noten zwischen die Tertien kommen, wie bei (f) zu sehen ist. 
+Ferner merke man aus dem dritten und folgenden Exempeln bei Fig. XLII. daß einerlei Töne mit denselben Fingern genommen werden. 
+Bei vielen hinter einander vorkommenden Tertien auf die Art wie die beiden Exempel (g) ausweisen, setzt man bei geschwinder Zeitmasse lieber mit den Fingern fort, indem alsdann das Abwechseln schwerer fällt. Übrigens sehen wir, daß allerlei Setzung von Fingern bei diesen Tertien vorkommen, obschon einige öfter als andere;Tab. II. bloß \begin{matrix}{5 5 4\\1 2 3} sind unnatürlich und folglich verwerflich.
 
 .. rubric:: §70
 
-Gebrochene Terzien einzeln oder auch in einer Folge bei langsamer Zeitmaß werden so gespielt, wie wir sie zusammen anzuschlagen, im vorigen §. gelehrt haben. Viele hintereinander in geschwindem Tempo vorkommende Tertien-Sprünge werden, so lange keine halben Töne sich einmischen, ohne Abwechslung der Finger entweder mit \begin{matrix}{1\\3} oder \begin{matrix}{2\\4} gegriffen, Tab. II. Fig. XLIII. (a); so bald aber halbe Töne dabei vorkommen, so wechselt man mit den Fingern ab und hält den Daumen von den halben Tönen zurück (b). In Haltungen und Sprüngen wird auch die Setzung \begin{matrix}{5\\3} und \begin{matrix}{2\\1} gefunden. (c). Der Daumen kriegt hierbei die Erlaubnis, auf die halben Töne gesetzt zu werden, welche ihm die Notwendigkeit bei solchen Spannungen gibt.
+Gebrochene Terzien einzeln oder auch in einer Folge bei langsamer Zeitmaß werden so gespielt, wie wir sie zusammen anzuschlagen, im vorigen §. gelehrt haben. 
+Viele hintereinander in geschwindem Tempo vorkommende Tertien-Sprünge werden, so lange keine halben Töne sich einmischen, ohne Abwechslung der Finger entweder mit \begin{matrix}{1\\3} oder \begin{matrix}{2\\4} gegriffen, Tab. II. Fig. XLIII. (a); so bald aber halbe Töne dabei vorkommen, so wechselt man mit den Fingern ab und hält den Daumen von den halben Tönen zurück (b). 
+In Haltungen und Sprüngen wird auch die Setzung \begin{matrix}{5\\3} und \begin{matrix}{2\\1} gefunden. (c). 
+Der Daumen kriegt hierbei die Erlaubnis, auf die halben Töne gesetzt zu werden, welche ihm die Notwendigkeit bei solchen Spannungen gibt.
 
 .. rubric:: §71
 
-Die Quarten werden gegriffen, wie wir bei Fig. XLIV sehen. Bei dem Diskant-Schlüssel werden die untersten Noten mit der linken und bei dem Baß-Schlüssel die obersten mit der rechten Hand genommen. Die gebrochenen in langsamer Zeitmaß haben eben diese Setzung. Bei vielen hintereinander vorkommenden geschwinden Quarten-Sprüngen ohne halbe Töne wird ohne Abwechslung \begin{matrix}{1\\4} oder \begin{matrix}{5\\2} eingesetzt (a). Bei vorkommenden halben Tönen kann man auch dann und wann, aber nur einmal ohne Folge \begin{matrix}{2\\4} nehmen (b). Diese Sprünge werden auch mit \begin{matrix}{1\\2}, \begin{matrix}{1\\3}, \begin{matrix}{2\\4} und \begin{matrix}{5\\3} gespielt, sobald die nachfolgenden Noten solches erfordern, wie wir bei (c) und folgenden Exempeln sehen.
+Die Quarten werden gegriffen, wie wir bei Fig. XLIV sehen. 
+Bei dem Diskant-Schlüssel werden die untersten Noten mit der linken und bei dem Baß-Schlüssel die obersten mit der rechten Hand genommen. 
+Die gebrochenen in langsamer Zeitmaß haben eben diese Setzung. 
+Bei vielen hintereinander vorkommenden geschwinden Quarten-Sprüngen ohne halbe Töne wird ohne Abwechslung \begin{matrix}{1\\4} oder \begin{matrix}{5\\2} eingesetzt (a). 
+Bei vorkommenden halben Tönen kann man auch dann und wann, aber nur einmal ohne Folge \begin{matrix}{2\\4} nehmen (b). 
+Diese Sprünge werden auch mit \begin{matrix}{1\\2}, \begin{matrix}{1\\3}, \begin{matrix}{2\\4} und \begin{matrix}{5\\3} gespielt, sobald die nachfolgenden Noten solches erfordern, wie wir bei (c) und folgenden Exempeln sehen.
 
 .. rubric:: §72
 
-Die Quinten und Sexten werden auf dreierlei Art gegriffen, wie unter Fig. XLV zu sehen ist. Aus Fig. XLVI sehen wir die Finger-Setzung von Sexten in einer Folge. Mit diesen gebrochenen Sexten wird es ebenfalls so gehalten, wie wir bei den Tertien und Quarten gesehen haben. Bei diesen Spannungen Tab. II. kann der kleine Finger öfter als einmal hintereinander vorkommen, und wird also auch gebraucht, ohne daß eben die Weite der Passagie mit ihm zu Ende geht.
+Die Quinten und Sexten werden auf dreierlei Art gegriffen, wie unter Fig. XLV zu sehen ist. 
+Aus Fig. XLVI sehen wir die Finger-Setzung von Sexten in einer Folge. 
+Mit diesen gebrochenen Sexten wird es ebenfalls so gehalten, wie wir bei den Tertien und Quarten gesehen haben. 
+Bei diesen Spannungen Tab. II. kann der kleine Finger öfter als einmal hintereinander vorkommen, und wird also auch gebraucht, ohne daß eben die Weite der Passagie mit ihm zu Ende geht.
 
 .. rubric:: §73
 
-Die Septimen und Oktaven werden mit \begin{matrix}{5\\1} gegriffen. Wer lange Finger hat und kann die Septimen, wobei ein halber Ton ist, mit \begin{matrix}{5\\2} oder \begin{matrix}{4\\1} ohne Zwang nehmen, dem steht es frei. Außer dem aber ist es gar wohl erlaubt, daß hier der Daumen so wohl als der kleine Finger ohne Bedenken auf die halben Töne gesetzt wird.
+Die Septimen und Oktaven werden mit \begin{matrix}{5\\1} gegriffen. 
+Wer lange Finger hat und kann die Septimen, wobei ein halber Ton ist, mit \begin{matrix}{5\\2} oder \begin{matrix}{4\\1} ohne Zwang nehmen, dem steht es frei. 
+Außer dem aber ist es gar wohl erlaubt, daß hier der Daumen so wohl als der kleine Finger ohne Bedenken auf die halben Töne gesetzt wird.
 
 .. rubric:: §74
 
@@ -675,29 +732,40 @@ Weil diese Oktaven-Sprünge, besonders in der linken Hand, wo sie am öftesten v
 
 .. rubric:: §75
 
-Die bei Fig. XLVII. befindlichen Exempel zeigen, daß man zuweilen teils wegen der vorhergehenden, teils folgenden Noten an statt des Daumens den zweiten Finger, und an statt des kleinen den vierten Finger in Oktaven Sprüngen braucht. Der Daumen, wenn er auf einem halben Tone ist, kann nicht so übergeschlagen werden, wie wir bei Fig. XLVIII. sehen.
+Die bei Fig. XLVII. befindlichen Exempel zeigen, daß man zuweilen teils wegen der vorhergehenden, teils folgenden Noten an statt des Daumens den zweiten Finger, und an statt des kleinen den vierten Finger in Oktaven Sprüngen braucht. 
+Der Daumen, wenn er auf einem halben Tone ist, kann nicht so übergeschlagen werden, wie wir bei Fig. XLVIII. sehen.
 
 .. rubric:: §76
 
-Wir nehmen nunmehr die Anschläge dreier Klänge zusammen vor; bei Fig. XLIX. finden wir die Finger-Setzung von dergleichen Anschlägen in dem Bezirk einer Quarte. Bei den Exempeln (a) und (b) erfordert die Folge eine eigene Applicatur.
+Wir nehmen nunmehr die Anschläge dreier Klänge zusammen vor; bei Fig. XLIX. finden wir die Finger-Setzung von dergleichen Anschlägen in dem Bezirk einer Quarte. 
+Bei den Exempeln (a) und (b) erfordert die Folge eine eigene Applicatur.
 
 .. rubric:: §77
 
-Fig. L. zeigt uns die Finger zu dreifachen ZusammenklängenTab. II. in dem Umfange einer Quinte. Bei Gelegenheit des Exempels (a) merke man, daß außer diesem F Moll noch C, Cis, Fis, G, Gis, B und H mit der kleinen Tertie, dergleichen Setzung der Finger vertragen. Außer dem bei (b) angemerkten Exempel können auch Cis, Dies, E, Gis, A, B und H in der harten Ton-Art so gegriffen werden. Besonders hat bei diesen Moll und Dur Ton-Arten, wenn deren Tertie auf einen halben Ton fällt, der dritte Finger wegen seiner Länge mehr Bequemlichkeit, hierauf gesetzt zu werden als der vierte.
+Fig. L. zeigt uns die Finger zu dreifachen ZusammenklängenTab. II. in dem Umfange einer Quinte. 
+Bei Gelegenheit des Exempels (a) merke man, daß außer diesem F Moll noch C, Cis, Fis, G, Gis, B und H mit der kleinen Tertie, dergleichen Setzung der Finger vertragen. 
+Außer dem bei (b) angemerkten Exempel können auch Cis, Dies, E, Gis, A, B und H in der harten Ton-Art so gegriffen werden. 
+Besonders hat bei diesen Moll und Dur Ton-Arten, wenn deren Tertie auf einen halben Ton fällt, der dritte Finger wegen seiner Länge mehr Bequemlichkeit, hierauf gesetzt zu werden als der vierte.
 
 .. rubric:: §78
 
-Drei Stimmen zusammen in dem Bezirke einer Sexte werden so genommen, wie wir bei Fig. LI. sehen. Fig. LII. lehrt uns dasselbe bei einem Umfange von einer Septime und Fig. LIII. von einer Oktave. Bei diesen weiten Spannungen von Septimen und Oktaven, wie wir §. 73 gesehen haben, ist allen Fingern erlaubt, auf die halben Töne zu kommen, indem dieses allezeit besser ist, als ein überflüssiger Zwang.
+Drei Stimmen zusammen in dem Bezirke einer Sexte werden so genommen, wie wir bei Fig. LI. sehen. 
+Fig. LII. lehrt uns dasselbe bei einem Umfange von einer Septime und Fig. LIII. von einer Oktave. 
+Bei diesen weiten Spannungen von Septimen und Oktaven, wie wir §. 73 gesehen haben, ist allen Fingern erlaubt, auf die halben Töne zu kommen, indem dieses allezeit besser ist, als ein überflüssiger Zwang.
 
 .. rubric:: §79
 
-Um zu zeigen, mit was für Fingern vier Töne zugleich angeschlagen werden, finden wir bei Fig. LIV. die Exempel hiervon; (a) besonders zeigt uns diesen vierstimmigen Anschlag in einer Weite von einer Quinte; (b) von einer Sexte; nach dem Exempel mit dem Baß-Schlüssel können auch die im 77. §. angeführten Dur Ton-Arten gegriffen werden; (c) von einer Septime und (d) von einer Oktave. Die beiden nach (c) mit (*) (*) bezeichneten Exempel zeigen uns die Finger bei Personen welche solche besonders lang haben; und die mit (1) (2) (3) (4) bezeichneten Exempel beziehen sich auf die im 77. §. unter (a) und (b) vorgestellten Akkorde, folglich werden auch alle die allda angeführte harmonische Dreiklänge mit vier Stimmen nach dieser Art gegriffen.
+Um zu zeigen, mit was für Fingern vier Töne zugleich angeschlagen werden, finden wir bei Fig. LIV. die Exempel hiervon; (a) besonders zeigt uns diesen vierstimmigen Anschlag in einer Weite von einer Quinte; (b) von einer Sexte; nach dem Exempel mit dem Baß-Schlüssel können auch die im 77. §. angeführten Dur Ton-Arten gegriffen werden; (c) von einer Septime und (d) von einer Oktave. 
+Die beiden nach (c) mit (\*) (\*) bezeichneten Exempel zeigen uns die Finger bei Personen welche solche besonders lang haben; und die mit (1) (2) (3) (4) bezeichneten Exempel beziehen sich auf die im 77. §. unter (a) und (b) vorgestellten Akkorde, folglich werden auch alle die allda angeführte harmonische Dreiklänge mit vier Stimmen nach dieser Art gegriffen.
 
-Tab. II.
+Tab. 
+II.
 
 .. rubric:: §80
 
-Wenn bei diesen harmonischen Zusammenklängen eine von den äußersten Stimmen auf einen halben Ton fällt, so nimmt man eine Applicatur, wobei nach Erfordern der Daumen oder kleine Finger vermißt werden kann. Doch da man, zumal was den kleinen Finger betrifft, nicht allezeit alle Bequemlichkeit beibehalten kann, weswegen auch dieser Finger mehr Erlaubnis hat auf die halben Töne gesetzt zu werden, wie der Daumen: so muß man sich nach dem vorhergehenden so wohl als nach der Folge richten, und, da alle Finger nicht gleich sind, überhaupt bei allen Spannungen auf das ungezwungene und natürliche, so viel möglich, bedacht sein, folglich eine kleine Unbequemlichkeit einer größeren vorziehen, indem man oft den kleinen Finger, oder den Daumen lieber auf einen halben Ton setzt, als, ohne selbige Finger übertriebene Spannungen vornimmt, welche nicht allezeit glücken. Wenn viele vollstimmige Anschläge hinter einander vorkommen, so tut man wohl, wenn es sein kann, daß man sich solche durch die Abwechslung der Finger erleichtert.
+Wenn bei diesen harmonischen Zusammenklängen eine von den äußersten Stimmen auf einen halben Ton fällt, so nimmt man eine Applicatur, wobei nach Erfordern der Daumen oder kleine Finger vermißt werden kann. 
+Doch da man, zumal was den kleinen Finger betrifft, nicht allezeit alle Bequemlichkeit beibehalten kann, weswegen auch dieser Finger mehr Erlaubnis hat auf die halben Töne gesetzt zu werden, wie der Daumen: so muß man sich nach dem vorhergehenden so wohl als nach der Folge richten, und, da alle Finger nicht gleich sind, überhaupt bei allen Spannungen auf das ungezwungene und natürliche, so viel möglich, bedacht sein, folglich eine kleine Unbequemlichkeit einer größeren vorziehen, indem man oft den kleinen Finger, oder den Daumen lieber auf einen halben Ton setzt, als, ohne selbige Finger übertriebene Spannungen vornimmt, welche nicht allezeit glücken. 
+Wenn viele vollstimmige Anschläge hinter einander vorkommen, so tut man wohl, wenn es sein kann, daß man sich solche durch die Abwechslung der Finger erleichtert.
 
 .. rubric:: §81
 
@@ -705,51 +773,92 @@ Wenn bei solchen mehrstimmigen Griffen die beiden äußersten Stimmen auf halben
 
 .. rubric:: §82
 
-Da man alle Brechungen und springende Gedanken, so viel als es sein kann, auf diese mehrstimmige Anschläge zurück führt, so folgt hieraus, daß sie auch nach unserer vorgeschriebenen Finger-Setzung gespielt und zugleich nach den dabei angemerkten Umständen beurteilet werden müssen. Die aus dem bei Fig. LV. angezeigten Exempel heraus gezogenen GedankenTab. II. werden meinen Lesern meine Meinung noch deutlicher machen.
+Da man alle Brechungen und springende Gedanken, so viel als es sein kann, auf diese mehrstimmige Anschläge zurück führt, so folgt hieraus, daß sie auch nach unserer vorgeschriebenen Finger-Setzung gespielt und zugleich nach den dabei angemerkten Umständen beurteilet werden müssen. 
+Die aus dem bei Fig. LV. angezeigten Exempel heraus gezogenen GedankenTab. II. werden meinen Lesern meine Meinung noch deutlicher machen.
 
 .. rubric:: §83
 
-Der gute Vortrag, sowohl als das vorhergegangene, erfordern bisweilen eine kleine Änderung der Finger bei diesen Brechungen. Besonders findet man zuweilen bei gewissen von oben herunter gebrochenen Akkorden den dritten Finger bequemer als den vierten, ungeachtet dieser letztere natürlicher bei denselben Akkorden, wann sie auf einmal angeschlagen werden, eingesetzt wird (1). Wegen des guten Vortrags kann man oft von einem schwächeren Finger den Grad der Deutlichkeit nicht erwarten, welchen man von einem stärkeren gar leicht erhält, weil die Deutlichkeit überhaupt durch einen gleichen Druck vornehmlich mit hervorgebracht wird. Aus dieser Ursache haben linckhändige keinen geringen Vorteil auf unserem Instrumente. Bei dem (2) Exempel hat man die Tertie wegen des vorhergegangenen f, mit dem dritten Finger genommen.
+Der gute Vortrag, sowohl als das vorhergegangene, erfordern bisweilen eine kleine Änderung der Finger bei diesen Brechungen. 
+Besonders findet man zuweilen bei gewissen von oben herunter gebrochenen Akkorden den dritten Finger bequemer als den vierten, ungeachtet dieser letztere natürlicher bei denselben Akkorden, wann sie auf einmal angeschlagen werden, eingesetzt wird (1). 
+Wegen des guten Vortrags kann man oft von einem schwächeren Finger den Grad der Deutlichkeit nicht erwarten, welchen man von einem stärkeren gar leicht erhält, weil die Deutlichkeit überhaupt durch einen gleichen Druck vornehmlich mit hervorgebracht wird. 
+Aus dieser Ursache haben linckhändige keinen geringen Vorteil auf unserem Instrumente. 
+Bei dem (2) Exempel hat man die Tertie wegen des vorhergegangenen f, mit dem dritten Finger genommen.
 
 .. rubric:: §84
 
-Da wir aus allem bisher angeführten ersehen haben, daß vor allen anderen Fingern besonders der rechte Gebrauch des Daumens so wohl in den gehenden als springenden, so wohl in den einstimmigen als mehrstimmigen Gedanken von besonderer Erheblichkeit sei; so ist der Schade um so viel größer, den einige, und zwar in unseren jetzigen Tagen, auswärts heraus gekommenen Anweisungen zum Klavier-Spielen außer anderen falschen Sätzen besonders wegen dieses Punkts anrichten. Einer läßt den Gebrauch des Daumens gar weg; ein anderer geht desto unfreundlicher mit seinen Schülern um, er fordert nicht allein von ihnen, daß sie alle Finger ohne Unterschied und ohne die gehörige Ordnung auf allen Tasten herum klettern lassen, sie sollen so gar dieses auf einer Taste allein tun können. Der erste zieht Schüler, welche nicht anders als durch Stolpern, Absätze Tab. II. und Verschreckung der Finger fortkommen: des anderen Scholaren werden ohne Not und Nutzen strapaziert, besonders muß bei ihnen alle Augenblick die Hand verstellt und verzogen werden, indem sie so gar in den Ton-Arten mit den meisten Versetzungs- Zeichen ohne die geringste Not den Daumen auf die halben Töne schleppen; durch dieses Verdrehen kommen die anderen Finger aus ihrer natürlichen Stellung, sie können anders nicht als durch Zwang gebraucht werden, folglich fällt alle Gelassenheit, alle Schlappigkeit der Nerven weg, und die Finger werden steif.
+Da wir aus allem bisher angeführten ersehen haben, daß vor allen anderen Fingern besonders der rechte Gebrauch des Daumens so wohl in den gehenden als springenden, so wohl in den einstimmigen als mehrstimmigen Gedanken von besonderer Erheblichkeit sei; so ist der Schade um so viel größer, den einige, und zwar in unseren jetzigen Tagen, auswärts heraus gekommenen Anweisungen zum Klavier-Spielen außer anderen falschen Sätzen besonders wegen dieses Punkts anrichten. 
+Einer läßt den Gebrauch des Daumens gar weg; ein anderer geht desto unfreundlicher mit seinen Schülern um, er fordert nicht allein von ihnen, daß sie alle Finger ohne Unterschied und ohne die gehörige Ordnung auf allen Tasten herum klettern lassen, sie sollen so gar dieses auf einer Taste allein tun können. 
+Der erste zieht Schüler, welche nicht anders als durch Stolpern, Absätze Tab. II. und Verschreckung der Finger fortkommen: des anderen Scholaren werden ohne Not und Nutzen strapaziert, besonders muß bei ihnen alle Augenblick die Hand verstellt und verzogen werden, indem sie so gar in den Ton-Arten mit den meisten Versetzungs- Zeichen ohne die geringste Not den Daumen auf die halben Töne schleppen; durch dieses Verdrehen kommen die anderen Finger aus ihrer natürlichen Stellung, sie können anders nicht als durch Zwang gebraucht werden, folglich fällt alle Gelassenheit, alle Schlappigkeit der Nerven weg, und die Finger werden steif.
 
 .. rubric:: §85
 
-Je verführischer die Finger-Setzung bei den einstimmigen und gehenden Gedanken vor den mehrstimmigen und springenden ist, wie wir aus den Skalen gesehen haben; desto weniger gefährlich ist sie bei denen Bindungen. Indem die gebundenen Noten aufs strengste nach der Vorschrift gehalten werden müssen, so pflegt daher selten mehr als eine Art, solche heraus zu bringen, möglich zu sein. Man muß also hierbei mehr Freiheiten erlauben, als sonsten. Das Fortsetzen eines Fingers ohne Abwechslung, das Steigen des Daumens auf einen halben Ton und andere Hilfsmittel, wovon wir hernach handeln werden, kann man ohne Bedenken brauchen. Da man also nicht leicht bei diesen Bedingungen irren kann, so mögen die wenigen Exempel bei Fig LVI. hinlänglich sein.
+Je verführischer die Finger-Setzung bei den einstimmigen und gehenden Gedanken vor den mehrstimmigen und springenden ist, wie wir aus den Skalen gesehen haben; desto weniger gefährlich ist sie bei denen Bindungen. 
+Indem die gebundenen Noten aufs strengste nach der Vorschrift gehalten werden müssen, so pflegt daher selten mehr als eine Art, solche heraus zu bringen, möglich zu sein. 
+Man muß also hierbei mehr Freiheiten erlauben, als sonsten. 
+Das Fortsetzen eines Fingers ohne Abwechslung, das Steigen des Daumens auf einen halben Ton und andere Hilfsmittel, wovon wir hernach handeln werden, kann man ohne Bedenken brauchen. 
+Da man also nicht leicht bei diesen Bedingungen irren kann, so mögen die wenigen Exempel bei Fig LVI. hinlänglich sein.
 
 .. rubric:: §86
 
-Ich mache den Anfang bei Anführung einiger besonderer Exempel, unter Fig. LVII. bei (a) das überschlagen des zweiten, bei (b) des dritten und bei (c) des vierten Fingers über den Daumen in Sprüngen zu zeigen. Bei Fig. LVIII. sehen wir das Einsetzen des Daumens in springenden Passagien; man merke hier, daß allezeit nach dem Daumen der vierte Finger, und nach dem zweiten der kleine eingesetzt wird.
+Ich mache den Anfang bei Anführung einiger besonderer Exempel, unter Fig. LVII. bei (a) das überschlagen des zweiten, bei (b) des dritten und bei (c) des vierten Fingers über den Daumen in Sprüngen zu zeigen. 
+Bei Fig. LVIII. sehen wir das Einsetzen des Daumens in springenden Passagien; man merke hier, daß allezeit nach dem Daumen der vierte Finger, und nach dem zweiten der kleine eingesetzt wird.
 
 .. rubric:: §87
 
-Eine der nötigsten Freiheiten in der Applicatur ist das Auslassen gewisser Finger wegen der Folge. Die unter Fig. LIX. befindlichen Exempel zeigen dieses deutlich, unter welchen das mit (*) auf Tab. III. bezeichnete beweiset, daß dieses AuslassenTab. III. natürlicher sei, als die bei (*) (*) befindlichen Spannungen. In den Bässen kommt diese Notwendigkeit besonders oft vor. Die natürliche Biegsamkeit des Daumens macht das bei (1) befindliche Exempel, wo drei Finger ausgelassen werden, bequemer, als das bei (2), wo nur zwei Finger wegbleiben.
+Eine der nötigsten Freiheiten in der Applicatur ist das Auslassen gewisser Finger wegen der Folge. 
+Die unter Fig. LIX. befindlichen Exempel zeigen dieses deutlich, unter welchen das mit (\*) auf Tab. III. bezeichnete beweiset, daß dieses AuslassenTab. III. natürlicher sei, als die bei (\*) (\*) befindlichen Spannungen. 
+In den Bässen kommt diese Notwendigkeit besonders oft vor. 
+Die natürliche Biegsamkeit des Daumens macht das bei (1) befindliche Exempel, wo drei Finger ausgelassen werden, bequemer, als das bei (2), wo nur zwei Finger wegbleiben.
 
 .. rubric:: §88
 
-Wenn in den Probe-Stücken zwei Ziffern neben einander über eine Note vorkommen, so wird der eingesetzte Finger, welchen die erste Ziffer anweiset, nicht eher aufgehoben, als bis der andere da ist, weil diese mit zwei Ziffern bezeichnete Note nur einmal angeschlagen werden darf, es sei denn, daß eine darüber befindliche Manier, diese Note mehr als einmal zum Gehör bringt. Die Folge so wohl Tab. III. Fig. LX. (a) als die Ausübung einiger Manieren machen dieses Einsetzen zweier Finger hinter einander oft nötig; dann und wann ist auch eine Aushaltung daran Schuld (b). Die Biegsamkeit des Daumens ist zu diesem Ablösen vorzüglich geschickt. Da dieses Hilfsmittel so gar leicht nicht ist, geschickt zu gebrauchen, so hat es von Rechts wegen nur bei einer wenigstens etwas langen Note und im Falle der Not statt. Diese Vorsicht merke man bei allen außerordentlichen Hilfsmitteln, welche teils von Natur teils wegen ihrer Seltenheit schwer sind und auch bleiben. Man erlaube solche seinen Schülern nicht eher, als bis entweder gar keine andere Möglichkeit mehr da ist, oder man müsste eine noch größere Unbequemlichkeit sich gefallen lassen. Aus dieser Ursache braucht Couperin, so gründlich derselbe sonsten ist, zu oft und ohne Not dieses Ablösen eines schon eingesetzten Fingers. Ohne Tab. III. Zweifel war der rechte Gebrauch des Daumens damals noch nicht völlig bekannt; man sieht dieses aus einigen von ihm bezifferten Exempeln, wo er besonders bei Bindungen so verfährt, anstatt den Daumen zu gebrauchen oder mit einem Finger fort zu gehen, welches beides leichter ist als dieses Hilfsmittel. Da der Daumen von unseren Vorfahren nur selten, gebraucht wurde, so war er ihnen oft im Wege; folglich hatten sie manchmal zu viel Finger. Als man nachher solchen fleißiger zu gebrauchen anfing, so mengte sich die alte Art noch oft unter die neue und man hatte gleichsam noch nicht das Herz, den Daumen allezeit da, wo er hingehöret, einzusetzen. Jetzt empfinden wir dann und wann, ungeachtet des besseren Gebrauchs der Finger bei unserer Art von Musik, daß wir deren zu wenig haben.
+Wenn in den Probe-Stücken zwei Ziffern neben einander über eine Note vorkommen, so wird der eingesetzte Finger, welchen die erste Ziffer anweiset, nicht eher aufgehoben, als bis der andere da ist, weil diese mit zwei Ziffern bezeichnete Note nur einmal angeschlagen werden darf, es sei denn, daß eine darüber befindliche Manier, diese Note mehr als einmal zum Gehör bringt. 
+Die Folge so wohl Tab. III. Fig. LX. (a) als die Ausübung einiger Manieren machen dieses Einsetzen zweier Finger hinter einander oft nötig; dann und wann ist auch eine Aushaltung daran Schuld (b). 
+Die Biegsamkeit des Daumens ist zu diesem Ablösen vorzüglich geschickt. 
+Da dieses Hilfsmittel so gar leicht nicht ist, geschickt zu gebrauchen, so hat es von Rechts wegen nur bei einer wenigstens etwas langen Note und im Falle der Not statt. 
+Diese Vorsicht merke man bei allen außerordentlichen Hilfsmitteln, welche teils von Natur teils wegen ihrer Seltenheit schwer sind und auch bleiben. 
+Man erlaube solche seinen Schülern nicht eher, als bis entweder gar keine andere Möglichkeit mehr da ist, oder man müsste eine noch größere Unbequemlichkeit sich gefallen lassen. 
+Aus dieser Ursache braucht Couperin, so gründlich derselbe sonsten ist, zu oft und ohne Not dieses Ablösen eines schon eingesetzten Fingers. 
+Ohne Tab. III. Zweifel war der rechte Gebrauch des Daumens damals noch nicht völlig bekannt; man sieht dieses aus einigen von ihm bezifferten Exempeln, wo er besonders bei Bindungen so verfährt, anstatt den Daumen zu gebrauchen oder mit einem Finger fort zu gehen, welches beides leichter ist als dieses Hilfsmittel. 
+Da der Daumen von unseren Vorfahren nur selten, gebraucht wurde, so war er ihnen oft im Wege; folglich hatten sie manchmal zu viel Finger. 
+Als man nachher solchen fleißiger zu gebrauchen anfing, so mengte sich die alte Art noch oft unter die neue und man hatte gleichsam noch nicht das Herz, den Daumen allezeit da, wo er hingehöret, einzusetzen. 
+Jetzt empfinden wir dann und wann, ungeachtet des besseren Gebrauchs der Finger bei unserer Art von Musik, daß wir deren zu wenig haben.
 
 .. rubric:: §89
 
-Daher muß man zuweilen erlauben mit einem Finger, auch bei gehenden Noten, fortzugehen. Am öftesten und leichtesten geschieht dieses, wenn man wegen der Folge von einem halben Tone in die nächste Taste mit dem Finger herunter gleitet. Man drückt hierdurch sehr bequem eine Schleifung aus, Fig. LXI. Da dieses Herabgleiten sehr leichte fällt, so kann es auch außer dieser Ursache und in geschwinderer Zeit-Masse gebraucht werden als das Fortsetzen und Ablösen. Übrigens merke man besonders hierbei an, daß das Fortsetzen in gewissen Fällen eben so geschickt ist, gestoßene Noten heraus zu bringen als geschleifte. Von der ersten Art finden wir bald zu Anfange des Probe-Stücks aus dem fis Moll, und von der anderen Art bei Fig. LVI. Tab. II. Exempel. Übrigens haben wir aus dem vorigen §. gehört, daß dieses Fortsetzen natürlicher sei, zumal bei Bindungen, wenn man die Wahl hat, als das Ablösen.
+Daher muß man zuweilen erlauben mit einem Finger, auch bei gehenden Noten, fortzugehen. 
+Am öftesten und leichtesten geschieht dieses, wenn man wegen der Folge von einem halben Tone in die nächste Taste mit dem Finger herunter gleitet. 
+Man drückt hierdurch sehr bequem eine Schleifung aus, Fig. LXI. Da dieses Herabgleiten sehr leichte fällt, so kann es auch außer dieser Ursache und in geschwinderer Zeit-Masse gebraucht werden als das Fortsetzen und Ablösen. Übrigens merke man besonders hierbei an, daß das Fortsetzen in gewissen Fällen eben so geschickt ist, gestoßene Noten heraus zu bringen als geschleifte. 
+Von der ersten Art finden wir bald zu Anfange des Probe-Stücks aus dem fis Moll, und von der anderen Art bei Fig. LVI. Tab. II. Exempel. Übrigens haben wir aus dem vorigen §. gehört, daß dieses Fortsetzen natürlicher sei, zumal bei Bindungen, wenn man die Wahl hat, als das Ablösen.
 
 .. rubric:: §90
 
-Wenn ein Ton öfter als einmal hinter einander in mäßiger Geschwindigkeit vorkommt, so wird mit den Fingern nicht abgewechselt, wohl aber bei dergleichen geschwinden Noten.Tab. III. Man gebraucht hierzu nur zwei Finger auf einmal. Der kleine ist hierzu der ungeschickteste, weil ihm wegen seiner Schwäche das Schnellen, welches hierzu erfordert wird, schwer fällt. Dieses Schnellen entsteht dadurch, indem jeder Finger so hurtig als möglich von der Taste abgleiten muß, damit jedes Einsetzen deutlich gehört werden könne. Auf dem Clavicorde bringt man am leichtesten diese Art von Passagien heraus.
+Wenn ein Ton öfter als einmal hinter einander in mäßiger Geschwindigkeit vorkommt, so wird mit den Fingern nicht abgewechselt, wohl aber bei dergleichen geschwinden Noten.Tab. III. Man gebraucht hierzu nur zwei Finger auf einmal. 
+Der kleine ist hierzu der ungeschickteste, weil ihm wegen seiner Schwäche das Schnellen, welches hierzu erfordert wird, schwer fällt. 
+Dieses Schnellen entsteht dadurch, indem jeder Finger so hurtig als möglich von der Taste abgleiten muß, damit jedes Einsetzen deutlich gehört werden könne. 
+Auf dem Clavicorde bringt man am leichtesten diese Art von Passagien heraus.
 
 .. rubric:: §91
 
-Bei etwas langsamen mehr als einmal hinter einander vorkommenden einerlei Tönen kann man diesen besonderen Vorteil sich zu Nutzen machen, daß man das letzte Mal denjenigen Finger einsetzt, den die Folge haben muß. Ein Exempel hiervon findet man bei Fig. LXII. Dieser Umstand ereignet sich besonders bei der linken Hand oft.
+Bei etwas langsamen mehr als einmal hinter einander vorkommenden einerlei Tönen kann man diesen besonderen Vorteil sich zu Nutzen machen, daß man das letzte Mal denjenigen Finger einsetzt, den die Folge haben muß. 
+Ein Exempel hiervon findet man bei Fig. LXII. Dieser Umstand ereignet sich besonders bei der linken Hand oft.
 
 .. rubric:: §92
 
-Wenn in denen Ton-Arten mit vielen halben Tönen Passagien vorkommen, welche nicht von der Weite sein, daß nach untersetztem Daumen, der gewöhnliche Finger, wegen der sonst ordentlich darauf folgenden Töne, muß gesetzt werden, so nimmt man nach dem Daumen den Finger, welcher vor dem Daumen da war. Die Ursache hiervon ist diese, weil man hierdurch die Hand in einer Lage behält, anstatt daß es unbequem fallen würde, wegen eines geschwinde vorbei gehenden Tones die ganze Hand zu rücken. Diese Regel gilt nur so lange, als bloß ein Ton nach Einsetzung des Daumens darauf folgt; folgen aber zwei, so braucht man die Finger in ihrer gehörigen Ordnung. Von beiderlei Art finden wir Exempel unter Fig. LXIII. Einige brauchen diese Art von Applicatur bei Passagien, wo noch zwei Töne nach dem Daumen folgen, welche ganz oben über die beiden letzten Exempel steht; sie ist nicht eben Unrecht, ich glaube Tab. III. aber, daß man das verbunden ist zu tun, was man in wenigen Veränderungen ohne Unbequemlichkeit verrichten kann.
+Wenn in denen Ton-Arten mit vielen halben Tönen Passagien vorkommen, welche nicht von der Weite sein, daß nach untersetztem Daumen, der gewöhnliche Finger, wegen der sonst ordentlich darauf folgenden Töne, muß gesetzt werden, so nimmt man nach dem Daumen den Finger, welcher vor dem Daumen da war. 
+Die Ursache hiervon ist diese, weil man hierdurch die Hand in einer Lage behält, anstatt daß es unbequem fallen würde, wegen eines geschwinde vorbei gehenden Tones die ganze Hand zu rücken. 
+Diese Regel gilt nur so lange, als bloß ein Ton nach Einsetzung des Daumens darauf folgt; folgen aber zwei, so braucht man die Finger in ihrer gehörigen Ordnung. Von beiderlei Art finden wir Exempel unter Fig. LXIII. Einige brauchen diese Art von Applicatur bei Passagien, wo noch zwei Töne nach dem Daumen folgen, welche ganz oben über die beiden letzten Exempel steht; sie ist nicht eben Unrecht, ich glaube Tab. III. aber, daß man das verbunden ist zu tun, was man in wenigen Veränderungen ohne Unbequemlichkeit verrichten kann.
 
 .. rubric:: §93
 
-In den Probe-Stücken finden sich ein paar Stellen, wo wider die gegebene Regel, in einer einzeln Stimme der kleine Finger gebraucht wird an einem Orte, wo die Weite der Passagie nicht mit ihm zu Ende geht. Die Abbildung beider Passagien findet sich bei Fig. LXIV. Der erstere Fall ist durch die mäßige Zeitmaß der Noten zu entschuldigen. Man darf dieses überschlagen nicht anders gebrauchen, als wenn der vierte längere Finger über den auf eine der untersten Tasten liegenden kleinen, auf einen halben Ton ziemlich bequem durch eine kleine Wendung der Hand klettern kann, und dieses muß nur einmal und nicht öfter hinter einander geschehen. Der andere Fall ist ein Zeichen der nötigen Zusammenziehung der Hand und wird durch die Haltung erleichtert; außerdem aber ist diese Art von Applicatur falsch. Da die Zeitmaß des ganzen Stückes sehr geschwind ist, so möchte die Einsetzung zweier Finger auf das f fast schwerer gewesen sein, als dieses Zusammenziehen. Die Hand wird bei diesem Falle gleichfalls etwas weniges nach der rechten Seite gewendet. Das Einsetzen in eben demselben Stücke auf einer kürzeren Note vor einer Manier, hat nicht vermieden werden können, oder man hätte einen ungewissen Sprung wagen müssen. Wir werden dieses aus der Erklärung dieser Manier deutlicher begreifen.
+In den Probe-Stücken finden sich ein paar Stellen, wo wider die gegebene Regel, in einer einzeln Stimme der kleine Finger gebraucht wird an einem Orte, wo die Weite der Passagie nicht mit ihm zu Ende geht. 
+Die Abbildung beider Passagien findet sich bei Fig. LXIV. Der erstere Fall ist durch die mäßige Zeitmaß der Noten zu entschuldigen. 
+Man darf dieses überschlagen nicht anders gebrauchen, als wenn der vierte längere Finger über den auf eine der untersten Tasten liegenden kleinen, auf einen halben Ton ziemlich bequem durch eine kleine Wendung der Hand klettern kann, und dieses muß nur einmal und nicht öfter hinter einander geschehen. 
+Der andere Fall ist ein Zeichen der nötigen Zusammenziehung der Hand und wird durch die Haltung erleichtert; außerdem aber ist diese Art von Applicatur falsch. 
+Da die Zeitmaß des ganzen Stückes sehr geschwind ist, so möchte die Einsetzung zweier Finger auf das f fast schwerer gewesen sein, als dieses Zusammenziehen. 
+Die Hand wird bei diesem Falle gleichfalls etwas weniges nach der rechten Seite gewendet. 
+Das Einsetzen in eben demselben Stücke auf einer kürzeren Note vor einer Manier, hat nicht vermieden werden können, oder man hätte einen ungewissen Sprung wagen müssen. 
+Wir werden dieses aus der Erklärung dieser Manier deutlicher begreifen.
 
 .. rubric:: §94
 
@@ -761,15 +870,26 @@ Endlich habe ich um beiden Händen GelegenheitTab. III. zu geben, sich gleich zu
 
 .. rubric:: §96
 
-In gewissen Fällen, wo man leicht ungewiß hätte sein oder gar irren können, welche Noten mit dieser oder jener Hand müssen gespielt werden, habe ich die für die rechte den Strich in die Höhe und die für die linke den Strich herunter kehren lassen. Wenn wegen Mangel des Raums einige Noten in den Mittelstimmen nicht besonders geschwänzt worden sind, so muß man ihre Geltung und Aushaltung nach der Einteilung anderer mit ihnen zugleich anschlagenden Mittel- oder Grund-Stimmen-Noten beurteilen. Da ich in der Schreib-Art der Probe- Stücke hauptsächlich darauf gesehen habe, daß denen Anfängern so viel möglich eine Erleichterung verschaffet und alle Gelegenheit benommen werde, die Hände wegen der ihnen zukommenden Noten zu verwirren: so wird es niemand Wunder nehmen, wenn manchmal die Geltung jeder Note und der Gang jeder Stimme nicht ausdrücklich so, wie man wohl sonsten zu tun pflegt, angedeutet worden. Ein Kenner wird dem ungeachtet gar leicht den Gesang jeder Stimme und die Geltung jeder Note aus einander finden können; In den Probe-Stücken aus dem D Dur und aus dem As ereignet sich die Ursache zu diesem §. einige Mal.
+In gewissen Fällen, wo man leicht ungewiß hätte sein oder gar irren können, welche Noten mit dieser oder jener Hand müssen gespielt werden, habe ich die für die rechte den Strich in die Höhe und die für die linke den Strich herunter kehren lassen. 
+Wenn wegen Mangel des Raums einige Noten in den Mittelstimmen nicht besonders geschwänzt worden sind, so muß man ihre Geltung und Aushaltung nach der Einteilung anderer mit ihnen zugleich anschlagenden Mittel- oder Grund-Stimmen-Noten beurteilen. 
+Da ich in der Schreib-Art der Probe- Stücke hauptsächlich darauf gesehen habe, daß denen Anfängern so viel möglich eine Erleichterung verschaffet und alle Gelegenheit benommen werde, die Hände wegen der ihnen zukommenden Noten zu verwirren: so wird es niemand Wunder nehmen, wenn manchmal die Geltung jeder Note und der Gang jeder Stimme nicht ausdrücklich so, wie man wohl sonsten zu tun pflegt, angedeutet worden. 
+Ein Kenner wird dem ungeachtet gar leicht den Gesang jeder Stimme und die Geltung jeder Note aus einander finden können; In den Probe-Stücken aus dem D Dur und aus dem As ereignet sich die Ursache zu diesem §. einige Mal.
 
 .. rubric:: §97
 
-Man findet unter gedachten Probe-Stücken eines, wo die Hände überschlagen werden müssen. Ich habe auch diese natürliche Hexerei nicht vorbei gehen wollen, welche seit kurzem erst wieder anfängt etwas weniger gebraucht zu werden. Durch die Vorzeichnung des Schlüssels habe ich hierbei jeder Hand das ihrige angewiesen; außerdem pflegt man auch durch hinzugefügte Wörter dieses zu tun. Man findet oft dergleichen Stücke, wo der Urheber davon ohne Not dieses überschlagen der Hände haben will. Man ist alsdann hieran nicht gebunden, sondern ziehet den natürlichen Gebrauch der Hände dieser Gaukelei vor. Dem ungeachtet ist diese Art zu spielen gar nicht zu verwerfen, in so ferne sie unser Instrument noch vollkommener macht, und hierdurch gute neue Gedanken heraus gebracht werden können. Nur müssen sie so beschaffen sein, daß sie ohne überschlagen entweder gar nicht, oder sehr unbequem gespielt werden können, indem der Gesang jeder Stimme bald durch häßliche Absätze verstümmelt, bald gar zerrissen wird. Außerdem ist es vergeblicher Wind, welcher bloß Unverständige blenden kann; denn ein Kenner weiß gar wohl, daß dieses überschlagen allein betrachtet außer einer kleinen Angewohnheit, welche bald überwunden ist, gar nichts schweres in sich hat, ob wir schon aus der Erfahrung wissen, daß sehr gute und auch schwere Sachen auf diese Art gesetzt worden sind.
+Man findet unter gedachten Probe-Stücken eines, wo die Hände überschlagen werden müssen. 
+Ich habe auch diese natürliche Hexerei nicht vorbei gehen wollen, welche seit kurzem erst wieder anfängt etwas weniger gebraucht zu werden. 
+Durch die Vorzeichnung des Schlüssels habe ich hierbei jeder Hand das ihrige angewiesen; außerdem pflegt man auch durch hinzugefügte Wörter dieses zu tun. 
+Man findet oft dergleichen Stücke, wo der Urheber davon ohne Not dieses überschlagen der Hände haben will. 
+Man ist alsdann hieran nicht gebunden, sondern ziehet den natürlichen Gebrauch der Hände dieser Gaukelei vor. 
+Dem ungeachtet ist diese Art zu spielen gar nicht zu verwerfen, in so ferne sie unser Instrument noch vollkommener macht, und hierdurch gute neue Gedanken heraus gebracht werden können. 
+Nur müssen sie so beschaffen sein, daß sie ohne überschlagen entweder gar nicht, oder sehr unbequem gespielt werden können, indem der Gesang jeder Stimme bald durch häßliche Absätze verstümmelt, bald gar zerrissen wird. 
+Außerdem ist es vergeblicher Wind, welcher bloß Unverständige blenden kann; denn ein Kenner weiß gar wohl, daß dieses überschlagen allein betrachtet außer einer kleinen Angewohnheit, welche bald überwunden ist, gar nichts schweres in sich hat, ob wir schon aus der Erfahrung wissen, daß sehr gute und auch schwere Sachen auf diese Art gesetzt worden sind.
 
 .. rubric:: §98
 
-Was wegen der Finger-Setzung bei den Manieren zu merken ist, wird in dem besonderen Haupt-Stück von den Manieren abgehandelt werden, weil deren Erklärung vorher hierzu erfordert wird. Zuweilen sind bei einigen durch kleine Nöten angedeuteten Manieren die Ziffern weggelassen worden, weil man sie aus der folgenden bezifferten Haupt-Note beurteilen kann.
+Was wegen der Finger-Setzung bei den Manieren zu merken ist, wird in dem besonderen Haupt-Stück von den Manieren abgehandelt werden, weil deren Erklärung vorher hierzu erfordert wird. 
+Zuweilen sind bei einigen durch kleine Nöten angedeuteten Manieren die Ziffern weggelassen worden, weil man sie aus der folgenden bezifferten Haupt-Note beurteilen kann.
 
 .. rubric:: §99
 
