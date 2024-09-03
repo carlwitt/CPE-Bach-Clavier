@@ -670,29 +670,28 @@ Der einmal vorgezeichnete Schlüssel gilt so lange, bis er durch einen anderen a
 
     Fig. XL. Fingersatz bei Sekunden, linke Hand
 
-Nicht korrigierte OCR-Texte
-""""""""""""""""""""""""""""""""
-
-
 .. rubric:: §68
 
-Gebrochene Sekunden werden mit abgewechselten Fingern so gespielt wie bei Fig. XLI. zu sehen ist; Dieses Abwechseln ist der über solche Art Noten gewöhnlicher Massen angedeuteten Schleifung zuträglicher als das Fortsetzen eines Fingers, weil durch dieses letztere die Noten mehr gestoßen werden, als es sein soll. 
+Gebrochene Sekunden werden mit abgewechselten Fingern so gespielt wie bei Fig. XLI. zu sehen ist; Dieses Abwechseln ist der über solche Art Noten gewöhnlicherweise angedeuteten Schleifung zuträglicher als das Fortsetzen eines Fingers, weil durch dieses letztere die Noten mehr gestoßen werden, als es sein soll. 
 Wir sehen hier, und werden es in der Folge noch öfter erfahren, daß gemeiniglich der Daumen und der zweite Finger an der linken Hand am meisten an den Orten gebraucht wird, wo man in der rechten Hand den zweiten und dritten Finger einsetzt.
 
 .. rubric:: §69
 
-Bei Anschlagung der Tertien merke man, daß sie mit denjenigen Fingern gegriffen werden, welche wir bei denen Tab. I. unter Fig. XLII. bezeichneten vielen Exempeln finden; man sieht hier ebenfalls auf das vorhergehende und folgende; der Daumen bleibt von den halben Tönen weg, desgleichen der kleine Finger; beide können bloß die Erlaubnis bekommen, auf solche halbe Töne gesetzt zu werden, wenn ein vorhergegangener oder nachfolgender Sprung dieses notwendig macht. 
-Ich habe deswegen Tab. II. vielerlei Exempel hierbei angeführt, weil oft viele Tertien hinter einander vorzukommen pflegen, um die hierzu nötige Abwechslung der Finger deutlich zu zeigen. 
+Bei Anschlagung der Terzen merke man, daß sie mit denjenigen Fingern gegriffen werden, welche wir bei denen Tab. I. unter Fig. XLII. bezeichneten vielen Exempeln finden; man sieht hier ebenfalls auf das vorhergehende und folgende; der Daumen bleibt von den halben Tönen weg, desgleichen der kleine Finger; beide können bloß die Erlaubnis bekommen, auf solche halbe Töne gesetzt zu werden, wenn ein vorhergegangener oder nachfolgender Sprung dieses notwendig macht. 
+Ich habe deswegen Tab. II. vielerlei Exempel hierbei angeführt, weil oft viele Terzen hinter einander vorzukommen pflegen, um die hierzu nötige Abwechslung der Finger deutlich zu zeigen. 
 Der kleine Finger kann auch auf dem halben Tone sein, wenn der andere zugleich mit anschlagende Finger auch auf selbigem ist. 
 Aus dieser Ursache ist die Applicatur der rechten Hand in dem bei (a) Tab. II. angeführten Exempel nicht so gut als die bei (b) und die für die linke Hand bei (c). 
-Dieser kleine Finger wird ebenfalls so wenig fortgesetzt, als durch einen anderen abgelöst (d), sondern er kommt nur immer einmal und zwar in den äußersten Tönen (e) vor, es sei denn, wenn eine oder mehrere Noten zwischen die Tertien kommen, wie bei (f) zu sehen ist. 
+Dieser kleine Finger wird ebenfalls so wenig fortgesetzt, als durch einen anderen abgelöst (d), sondern er kommt nur immer einmal und zwar in den äußersten Tönen (e) vor, es sei denn, wenn eine oder mehrere Noten zwischen die Terzen kommen, wie bei (f) zu sehen ist. 
 Ferner merke man aus dem dritten und folgenden Exempeln bei Fig. XLII. daß einerlei Töne mit denselben Fingern genommen werden. 
-Bei vielen hinter einander vorkommenden Tertien auf die Art wie die beiden Exempel (g) ausweisen, setzt man bei geschwinder Zeitmasse lieber mit den Fingern fort, indem alsdann das Abwechseln schwerer fällt. Übrigens sehen wir, daß allerlei Setzung von Fingern bei diesen Tertien vorkommen, obschon einige öfter als andere;Tab. II. bloß \begin{matrix}{5 5 4\\1 2 3} sind unnatürlich und folglich verwerflich.
+Bei vielen hinter einander vorkommenden Terzen auf die Art wie die beiden Exempel (g) ausweisen, setzt man bei geschwinder Zeitmasse lieber mit den Fingern fort, indem alsdann das Abwechseln schwerer fällt. Übrigens sehen wir, daß allerlei Setzung von Fingern bei diesen Terzen vorkommen, obschon einige öfter als andere;Tab. II. bloß \begin{matrix}{5 5 4\\1 2 3} sind unnatürlich und folglich verwerflich.
+
+Nicht korrigierte OCR-Texte
+""""""""""""""""""""""""""""""""
 
 .. rubric:: §70
 
 Gebrochene Terzien einzeln oder auch in einer Folge bei langsamer Zeitmaß werden so gespielt, wie wir sie zusammen anzuschlagen, im vorigen §. gelehrt haben. 
-Viele hintereinander in geschwindem Tempo vorkommende Tertien-Sprünge werden, so lange keine halben Töne sich einmischen, ohne Abwechslung der Finger entweder mit \begin{matrix}{1\\3} oder \begin{matrix}{2\\4} gegriffen, Tab. II. Fig. XLIII. (a); so bald aber halbe Töne dabei vorkommen, so wechselt man mit den Fingern ab und hält den Daumen von den halben Tönen zurück (b). 
+Viele hintereinander in geschwindem Tempo vorkommende Terzen-Sprünge werden, so lange keine halben Töne sich einmischen, ohne Abwechslung der Finger entweder mit \begin{matrix}{1\\3} oder \begin{matrix}{2\\4} gegriffen, Tab. II. Fig. XLIII. (a); so bald aber halbe Töne dabei vorkommen, so wechselt man mit den Fingern ab und hält den Daumen von den halben Tönen zurück (b). 
 In Haltungen und Sprüngen wird auch die Setzung \begin{matrix}{5\\3} und \begin{matrix}{2\\1} gefunden. (c). 
 Der Daumen kriegt hierbei die Erlaubnis, auf die halben Töne gesetzt zu werden, welche ihm die Notwendigkeit bei solchen Spannungen gibt.
 
@@ -709,7 +708,7 @@ Diese Sprünge werden auch mit \begin{matrix}{1\\2}, \begin{matrix}{1\\3}, \begi
 
 Die Quinten und Sexten werden auf dreierlei Art gegriffen, wie unter Fig. XLV zu sehen ist. 
 Aus Fig. XLVI sehen wir die Fingersetzung von Sexten in einer Folge. 
-Mit diesen gebrochenen Sexten wird es ebenfalls so gehalten, wie wir bei den Tertien und Quarten gesehen haben. 
+Mit diesen gebrochenen Sexten wird es ebenfalls so gehalten, wie wir bei den Terzen und Quarten gesehen haben. 
 Bei diesen Spannungen Tab. II. kann der kleine Finger öfter als einmal hintereinander vorkommen, und wird also auch gebraucht, ohne daß eben die Weite der Passagie mit ihm zu Ende geht.
 
 .. rubric:: §73
@@ -735,9 +734,9 @@ Bei den Exempeln (a) und (b) erfordert die Folge eine eigene Applicatur.
 .. rubric:: §77
 
 Fig. L. zeigt uns die Finger zu dreifachen ZusammenklängenTab. II. in dem Umfange einer Quinte. 
-Bei Gelegenheit des Exempels (a) merke man, daß außer diesem F-Moll noch C, Cis, Fis, G, Gis, B und H mit der kleinen Tertie, dergleichen Setzung der Finger vertragen. 
+Bei Gelegenheit des Exempels (a) merke man, daß außer diesem F-Moll noch C, Cis, Fis, G, Gis, B und H mit der kleinen Terz, dergleichen Setzung der Finger vertragen. 
 Außer dem bei (b) angemerkten Exempel können auch Cis, Dies, E, Gis, A, B und H in der harten Tonart so gegriffen werden. 
-Besonders hat bei diesen Moll und Dur Tonarten, wenn deren Tertie auf einen halben Ton fällt, der dritte Finger wegen seiner Länge mehr Bequemlichkeit, hierauf gesetzt zu werden als der vierte.
+Besonders hat bei diesen Moll und Dur Tonarten, wenn deren Terz auf einen halben Ton fällt, der dritte Finger wegen seiner Länge mehr Bequemlichkeit, hierauf gesetzt zu werden als der vierte.
 
 .. rubric:: §78
 
@@ -774,7 +773,7 @@ Der gute Vortrag, sowohl als das vorhergegangene, erfordern bisweilen eine klein
 Besonders findet man zuweilen bei gewissen von oben herunter gebrochenen Akkorden den dritten Finger bequemer als den vierten, ungeachtet dieser letztere natürlicher bei denselben Akkorden, wann sie auf einmal angeschlagen werden, eingesetzt wird (1). 
 Wegen des guten Vortrags kann man oft von einem schwächeren Finger den Grad der Deutlichkeit nicht erwarten, welchen man von einem stärkeren gar leicht erhält, weil die Deutlichkeit überhaupt durch einen gleichen Druck vornehmlich mit hervorgebracht wird. 
 Aus dieser Ursache haben linckhändige keinen geringen Vorteil auf unserem Instrumente. 
-Bei dem (2) Exempel hat man die Tertie wegen des vorhergegangenen f, mit dem dritten Finger genommen.
+Bei dem (2) Exempel hat man die Terz wegen des vorhergegangenen f, mit dem dritten Finger genommen.
 
 .. rubric:: §84
 
